@@ -1,0 +1,12 @@
+{
+  "out_dir": "outputs/influencers/polar_youtube_run",
+  "model_dir": "outputs/influencers/polar_youtube_run/model",
+  "n_users": 18,
+  "n_samples": 87506,
+  "base_model": "bert-base-uncased",
+  "device": "cuda",
+  "epochs": 4,
+  "batch_size": 128,
+  "users_per_batch": 18,
+  "seed": 42
+}

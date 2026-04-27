@@ -1,0 +1,12 @@
+{
+  "out_dir": "./outputs/news/polar_youtube_run",
+  "model_dir": "./outputs/news/polar_youtube_run/model",
+  "n_users": 19,
+  "n_samples": 48814,
+  "base_model": "bert-base-uncased",
+  "device": "cuda",
+  "epochs": 4,
+  "batch_size": 128,
+  "users_per_batch": 19,
+  "seed": 42
+}

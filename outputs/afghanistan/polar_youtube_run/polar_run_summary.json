@@ -1,0 +1,20 @@
+{
+  "out_dir": "./outputs/afghanistan/polar_youtube_run",
+  "model_dir": "./outputs/afghanistan/polar_youtube_run/model",
+  "attributes_path": "./resources/attributes/attributes_war_youtube.example.json",
+  "n_users_requested": 23,
+  "n_users_scored": 23,
+  "n_pairs": 10,
+  "n_missing_user_tokens": 0,
+  "missing_user_tokens": [],
+  "alpha_bh": 0.05,
+  "mc_samples": 2000,
+  "seed": 123,
+  "files": {
+    "per_user_scores_json": "./outputs/afghanistan/polar_youtube_run/per_user_scores.json",
+    "per_user_scores_wide_json": "./outputs/afghanistan/polar_youtube_run/per_user_scores_wide.json",
+    "pair_summaries_json": "./outputs/afghanistan/polar_youtube_run/pair_summaries.json",
+    "pair_diagnostics_json": "./outputs/afghanistan/polar_youtube_run/pair_diagnostics.json",
+    "per_user_scores_csv": "./outputs/afghanistan/polar_youtube_run/per_user_scores.csv"
+  }
+}

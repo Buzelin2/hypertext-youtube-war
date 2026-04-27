@@ -1,0 +1,53 @@
+{
+  "iran": {
+    "label": "Iran",
+    "group": "country",
+    "description": "Iran-centered topic bag.",
+    "terms": ["iran", "iranian"]
+  },
+  "afghanistan": {
+    "label": "Afghanistan",
+    "group": "country",
+    "description": "Afghanistan-centered topic bag.",
+    "terms": ["afghanistan", "afghan"]
+  },
+  "trump": {
+    "label": "Trump",
+    "group": "leader",
+    "description": "Trump-centered topic bag.",
+    "terms": ["trump", "donald", "trumpism"]
+  },
+  "biden": {
+    "label": "Biden",
+    "group": "leader",
+    "description": "Biden-centered topic bag.",
+    "terms": ["biden", "joe"]
+  },
+  "war": {
+    "label": "War",
+    "group": "theme",
+    "description": "War and escalation framing.",
+    "terms": ["war", "wars", "conflict", "conflicts"]
+  },
+  "peace": {
+    "label": "Peace",
+    "group": "theme",
+    "description": "Peace and de-escalation framing.",
+    "terms": ["peace", "peaceful", "ceasefire"]
+  },
+
+  "america": {
+    "label": "America",
+    "group": "country",
+    "description": "United States-centered topic bag.",
+    "terms": ["america", "american", "americans", "usa"]
+  },
+
+  "terror": {
+    "label": "Terror",
+    "group": "theme",
+    "description": "Terrorism and extremism framing.",
+    "terms": ["terror", "terrorist", "terrorism" ]
+  }
+
+}

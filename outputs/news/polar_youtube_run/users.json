@@ -1,0 +1,753 @@
+[
+  {
+    "user_id": "iran_news::UC3ScyryU9Oy9Wse3a8OAmYQ",
+    "token": "usrdcd7dde03f",
+    "n_posts": 3773,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UC3ScyryU9Oy9Wse3a8OAmYQ",
+    "channel_title": "FRONTLINE PBS | Official",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "vWaoon6lZM0"
+    ],
+    "video_titles": [
+      "Remaking the Middle East: The U.S., Israel & Iran (updated documentary) | FRONTLINE (PBS)"
+    ],
+    "comments_per_video": {
+      "vWaoon6lZM0": 3773
+    }
+  },
+  {
+    "user_id": "iran_news::UC52X5wxOL_s5yw0dQk7NtgA",
+    "token": "usr9eab3c7819",
+    "n_posts": 2382,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UC52X5wxOL_s5yw0dQk7NtgA",
+    "channel_title": "Associated Press",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 10,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "6dqhN06Xfa4",
+      "BLqqgiJJzAQ",
+      "VLk7LgmWYKw",
+      "Zunz0ZEYE00",
+      "bqYMbjWBeHM",
+      "eerhMyVGAHw",
+      "f4nEzILEpEs",
+      "fULz9t0lcrg",
+      "mAZPm1iEp28",
+      "zhGrMrjCHww"
+    ],
+    "video_titles": [
+      "Iran continues attacks on shipping and energy infrastructure in Persian Gulf",
+      "Iran and US made 'good progress,' Iran FM says as talks end without a deal",
+      "What to know about Iran’s Supreme Leader Ayatollah Ali Khamenei",
+      "Iran drone hits Dubai tower as attacks reported across Gulf states",
+      "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues",
+      "US military leader in the Middle East joins Iran-US indirect talks in Oman",
+      "Dubai's peaceful image shattered by blasts from Iran airstrikes",
+      "Sri Lanka's navy rescues Iranian sailors from torpedoed warship",
+      "Iranian president on demand of unconditional surrender: 'They should take that dream to their grave'",
+      "LIVE: Tel Aviv skyline as Iran responds after Khamenei's death"
+    ],
+    "comments_per_video": {
+      "fULz9t0lcrg": 75,
+      "bqYMbjWBeHM": 15,
+      "BLqqgiJJzAQ": 425,
+      "VLk7LgmWYKw": 37,
+      "Zunz0ZEYE00": 13,
+      "f4nEzILEpEs": 35,
+      "6dqhN06Xfa4": 259,
+      "mAZPm1iEp28": 1032,
+      "zhGrMrjCHww": 478,
+      "eerhMyVGAHw": 13
+    }
+  },
+  {
+    "user_id": "iran_news::UC8p1vwvWtl6T73JiExfWs1g",
+    "token": "usr99f76f5cf6",
+    "n_posts": 940,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UC8p1vwvWtl6T73JiExfWs1g",
+    "channel_title": "CBS News",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 9,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "2w7wAesTavI",
+      "9s6RgDihDws",
+      "H_r6XLb6kMs",
+      "J4ZI7uzYZ7c",
+      "ViUJbT9GcuM",
+      "bVfNxCc7psE",
+      "eLmBnmIxq40",
+      "r2rA-oYRwDk",
+      "tmF6Mqd7uzg"
+    ],
+    "video_titles": [
+      "Iran holds military exercises with Russia as U.S. builds up its military presence in the Middle East",
+      "Iran dismisses Trump's optimism about potential deal, threatens to dismember U.S. troops",
+      "Iranian in Tehran reacts to Trump's war as more violence erupts",
+      "Trump is \"going for the jugular\" as he calls for Iranian regime change, security analyst says",
+      "Iran attack against U.S. forces in Kuwait raises defense concerns",
+      "Trump threatens Iran's energy infrastructure, Congress on break amid shutdown and more | The Takeout",
+      "Son of former FBI Agent Bob Levinson, who disappeared in Iran, urges U.S. to hold regime accountable",
+      "Photo shows slain Texas gunman with Iranian symbol on his T-shirt",
+      "7th U.S. service member killed in war with Iran, CENTCOM says"
+    ],
+    "comments_per_video": {
+      "eLmBnmIxq40": 72,
+      "9s6RgDihDws": 235,
+      "J4ZI7uzYZ7c": 99,
+      "r2rA-oYRwDk": 73,
+      "bVfNxCc7psE": 229,
+      "H_r6XLb6kMs": 71,
+      "tmF6Mqd7uzg": 22,
+      "ViUJbT9GcuM": 40,
+      "2w7wAesTavI": 99
+    }
+  },
+  {
+    "user_id": "iran_news::UC9k-yiEpRHMNVOnOi_aQK8w",
+    "token": "usrd5a011f81b",
+    "n_posts": 77,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UC9k-yiEpRHMNVOnOi_aQK8w",
+    "channel_title": "Inside Edition",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "kLD2FlZq6mg"
+    ],
+    "video_titles": [
+      "Heightened Security At This Year's Oscars Amid War In Iran"
+    ],
+    "comments_per_video": {
+      "kLD2FlZq6mg": 77
+    }
+  },
+  {
+    "user_id": "iran_news::UCBi2mrWuNuyYy4gbM6fU18Q",
+    "token": "usr6463673c6a",
+    "n_posts": 1734,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
+    "channel_title": "ABC News",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 4,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "42nSDdP04Nk",
+      "CnVThuNbrXU",
+      "F1btI_c3j78",
+      "zy1jF-AoWHQ"
+    ],
+    "video_titles": [
+      "Marco Rubio speaks on US strikes in Iran",
+      "Iranian Foreign Ministry Spokesperson says Ayotollah is 'all safe and sound' following Iran strikes",
+      "President Trump said the U.S. has “to win this” and “win it quickly” in regard to the war in Iran",
+      "War With Iran Full Episode: Thu, Mar 26, 2026"
+    ],
+    "comments_per_video": {
+      "F1btI_c3j78": 378,
+      "42nSDdP04Nk": 690,
+      "CnVThuNbrXU": 46,
+      "zy1jF-AoWHQ": 620
+    }
+  },
+  {
+    "user_id": "iran_news::UCBu0KdNokE4MqdkacvH37_A",
+    "token": "usr2e6a75427d",
+    "n_posts": 389,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCBu0KdNokE4MqdkacvH37_A",
+    "channel_title": "WFAA",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "jCuL3CQ9PAA"
+    ],
+    "video_titles": [
+      "Uncertainty looms despite the two-week ceasefire agreement with Iran"
+    ],
+    "comments_per_video": {
+      "jCuL3CQ9PAA": 389
+    }
+  },
+  {
+    "user_id": "iran_news::UCCXoCcu9Rp7NPbTzIvogpZg",
+    "token": "usrb8819257a7",
+    "n_posts": 3147,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCCXoCcu9Rp7NPbTzIvogpZg",
+    "channel_title": "Fox Business",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 8,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "4G-8bLCm78w",
+      "6vrEkWq_MPE",
+      "HBBlJDNSe_0",
+      "MlrGpBzdp9o",
+      "NgiaVnVzOZw",
+      "Qg187A-nt_8",
+      "WeMOwQGcQSM",
+      "m-UwMvqAj6E"
+    ],
+    "video_titles": [
+      "'DIALED UP': Iran’s next move raises alarms",
+      "Iranians ‘sorely mistaken’ if they expect concessions from Trump: Ex-national security advisor",
+      "'DECIMATED THAT COUNTRY': Catsimatidis delivers hardline message on Iran",
+      "White House holds first briefing since Iran strikes",
+      "Iran threat 'SO MUCH LOWER' after Operation Epic Fury: Expert",
+      "'CRIMINAL ENTITY': Iran's dynamic is COMING TO AN END, Tammy Bruce says",
+      "This is how the Iranian regime BUYS A LIFELINE",
+      "Iran seeks to remain a ‘source of instability’ in the Middle East: Former national security advisor"
+    ],
+    "comments_per_video": {
+      "MlrGpBzdp9o": 938,
+      "WeMOwQGcQSM": 518,
+      "6vrEkWq_MPE": 294,
+      "NgiaVnVzOZw": 536,
+      "HBBlJDNSe_0": 132,
+      "Qg187A-nt_8": 229,
+      "4G-8bLCm78w": 88,
+      "m-UwMvqAj6E": 412
+    }
+  },
+  {
+    "user_id": "iran_news::UCIALMKvObZNtJ6AmdCLP7Lg",
+    "token": "usr759ce9f3ae",
+    "n_posts": 89,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCIALMKvObZNtJ6AmdCLP7Lg",
+    "channel_title": "Bloomberg Television",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 2,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "Yf0-5FLP7qQ",
+      "r6CFleUPQYE"
+    ],
+    "video_titles": [
+      "US-Iran Ceasefire at Risk amid Lebanon Attacks | Insight with Haslinda Amin 4/9/2026",
+      "Conflicting Signals on Iran War Sap Market Sentiment | Insight with Haslinda Amin 03/26/2026"
+    ],
+    "comments_per_video": {
+      "Yf0-5FLP7qQ": 88,
+      "r6CFleUPQYE": 1
+    }
+  },
+  {
+    "user_id": "iran_news::UCJg9wBPyKMNA5sRDnvzmkdg",
+    "token": "usr454cd45dbe",
+    "n_posts": 2841,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
+    "channel_title": "LiveNOW from FOX",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 8,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "DX_6ST7v9UA",
+      "KZtHH026Wmk",
+      "Zj5scssuEmo",
+      "azJi_qddYhY",
+      "c8cT7_vIRco",
+      "cs60XELnh6g",
+      "p_GDROc7hLs",
+      "tO77ZIv2AnI"
+    ],
+    "video_titles": [
+      "Iran launches strikes at Israel, Gulf Arab nations",
+      "Gas prices continue to rise amid Iran conflict",
+      "Trump on attack at Iranian school: \"whatever the report shows, I’m willing to live with that report”",
+      "Iran strikes Dubai airport, forcing UAE to close airspace temporarily",
+      "Israel striking Iran \"harder than ever,\" Netanyahu says",
+      "Netanyahu says Iran has no ‘ability to enrich uranium’ after strikes",
+      "Iran latest: IDF strikes Iranian leaders meeting",
+      "Middle East latest: Hegseth warns that US military controls Iran’s fate"
+    ],
+    "comments_per_video": {
+      "cs60XELnh6g": 839,
+      "DX_6ST7v9UA": 252,
+      "c8cT7_vIRco": 238,
+      "azJi_qddYhY": 96,
+      "Zj5scssuEmo": 566,
+      "tO77ZIv2AnI": 164,
+      "KZtHH026Wmk": 502,
+      "p_GDROc7hLs": 184
+    }
+  },
+  {
+    "user_id": "iran_news::UCK7tptUDHh-RYDsdxO1-5QQ",
+    "token": "usr570ff2224d",
+    "n_posts": 357,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCK7tptUDHh-RYDsdxO1-5QQ",
+    "channel_title": "The Wall Street Journal",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "R93nIeNPqBc"
+    ],
+    "video_titles": [
+      "Iran’s Shahed Drones: How They’re Wreaking Havoc in the Middle East"
+    ],
+    "comments_per_video": {
+      "R93nIeNPqBc": 357
+    }
+  },
+  {
+    "user_id": "iran_news::UCLXo7UDZvByw2ixzpQCufnA",
+    "token": "usr2d3c821dd4",
+    "n_posts": 24,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCLXo7UDZvByw2ixzpQCufnA",
+    "channel_title": "Vox",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "4e8iIlJKFC0"
+    ],
+    "video_titles": [
+      "Why Trump’s war in Iran is “wartime jazz” #shorts"
+    ],
+    "comments_per_video": {
+      "4e8iIlJKFC0": 24
+    }
+  },
+  {
+    "user_id": "iran_news::UCP6HGa63sBC7-KHtkme-p-g",
+    "token": "usr891336997a",
+    "n_posts": 136,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCP6HGa63sBC7-KHtkme-p-g",
+    "channel_title": "USA TODAY",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 6,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "1YtZSoZt7gM",
+      "4aNVbA-Dvik",
+      "AwKSyEtTm-U",
+      "XnnUQawZ790",
+      "dsNstfmjKqM",
+      "k0sjwRsrhMQ"
+    ],
+    "video_titles": [
+      "Live: Karoline Leavitt leads White House press briefing as US war with Iran continues",
+      "Explosion seen as Iran attacks US Embassy in Baghdad with drones",
+      "Iran war Week 2: Strikes on Strait of Hormuz mine-laying ships, bombings in Beirut, Tehran and more",
+      "Live: Netanyahu addresses Iran ceasefire and Lebanon strikes at Israel PM's press conference",
+      "US and Iran make 'significant progress' in talks, will meet again soon",
+      "Trump's threat to Iranian infrastructure enflames MAGA tensions"
+    ],
+    "comments_per_video": {
+      "XnnUQawZ790": 21,
+      "dsNstfmjKqM": 7,
+      "1YtZSoZt7gM": 13,
+      "k0sjwRsrhMQ": 67,
+      "AwKSyEtTm-U": 0,
+      "4aNVbA-Dvik": 28
+    }
+  },
+  {
+    "user_id": "iran_news::UCYI_ychRnL7sJrG6PUSBpQA",
+    "token": "usr80110ccde0",
+    "n_posts": 350,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCYI_ychRnL7sJrG6PUSBpQA",
+    "channel_title": "CBN News",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 3,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "6AmHmGYzM8A",
+      "FjS4rDpSsSQ",
+      "_x-Lo0Pr_zA"
+    ],
+    "video_titles": [
+      "Current Iran War Developments in Jerusalem and Around Israel",
+      "Trump’s Ultimatum: Iran ‘Could Be Taken Out in One Night’ | CBN NewsWatch - April 7, 2026",
+      "Pentagon Update: U.S. Focused on Destroying Iran's Missile Capabilities #military #shorts #news"
+    ],
+    "comments_per_video": {
+      "6AmHmGYzM8A": 167,
+      "_x-Lo0Pr_zA": 151,
+      "FjS4rDpSsSQ": 32
+    }
+  },
+  {
+    "user_id": "iran_news::UCZaT_X_mc0BI-djXOlfhqWQ",
+    "token": "usredfbd1665e",
+    "n_posts": 369,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCZaT_X_mc0BI-djXOlfhqWQ",
+    "channel_title": "VICE News",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "UW6Y5IP6xgg"
+    ],
+    "video_titles": [
+      "Iran, Oil, and the Crisis Coming Next ft. Ian Bremmer | Shane Smith Has Questions"
+    ],
+    "comments_per_video": {
+      "UW6Y5IP6xgg": 369
+    }
+  },
+  {
+    "user_id": "iran_news::UCcyq283he07B7_KUX07mmtA",
+    "token": "usrf7310a3ab3",
+    "n_posts": 345,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCcyq283he07B7_KUX07mmtA",
+    "channel_title": "Business Insider",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "Mnv6y3MVVKc"
+    ],
+    "video_titles": [
+      "How Army Paratroopers Heading To Iran Are Trained To Jump From Airplanes"
+    ],
+    "comments_per_video": {
+      "Mnv6y3MVVKc": 345
+    }
+  },
+  {
+    "user_id": "iran_news::UCg40OxZ1GYh3u3jBntB6DLg",
+    "token": "usr2940437db6",
+    "n_posts": 3566,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCg40OxZ1GYh3u3jBntB6DLg",
+    "channel_title": "Forbes Breaking News",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 24,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "-CgghHGXiEY",
+      "4BVPi5GsQUc",
+      "7zE4v--qcPs",
+      "9r8w9B7MZXs",
+      "BIiK_r4nLCU",
+      "FKpWRScCDI0",
+      "J0gAcGoyJ5Y",
+      "KR6FWMnwf5g",
+      "TuYvOOnZIb8",
+      "WpM6RYMH00I",
+      "XuRUI3MlHkI",
+      "aVQ10g5by1E",
+      "cQfq_esh7rc",
+      "gS4vPzLOnI8",
+      "gYNiBb6c0Ks",
+      "kXOwkQAzI6s",
+      "klX3M7p3nnc",
+      "rHxp-TL4CXI",
+      "rkPc44ULo4U",
+      "sSkHDL-TW9M",
+      "uCGH6sXhTLQ",
+      "udd1xuHYkII",
+      "yyu6NVp_x34",
+      "zNegu3-yDhU"
+    ],
+    "video_titles": [
+      "Trump Says U.S. Will Tap Strategic Petroleum Reserve As Iran War Surges Gas Prices",
+      "Thousands In Tehran's Enghelab Square Mourn Death Of Iran's Supreme Leader Ayatollah Khamenei",
+      "Derek Tran: Congress Not Getting Enough Information On Iran From Trump Admin. Amidst Possible Strike",
+      "'You're Saying That They Have Sidelined You?': Castro Grills State Department Official Over Iran War",
+      "Gold And Silver Tumble After Trump Vows To Hit Iran ‘Extremely Hard’",
+      "'Outstanding!': John Fetterman Celebrates Continued US-Israeli Strikes On Iran",
+      "Dick Durbin: Trump's Rationale For Iran War 'Sounds Like The Echo Of The Argument Made In Iraq'",
+      "JUST IN: U.S. Rescues Missing ‘Seriously Wounded’ Officer From Fighter Jet Shot Down Over Iran",
+      "'Air Force Is Gone, The Navy Is Gone': Trump Says Iranian Military Has Been 'Literally Obliterated'",
+      "Iranian Missiles Seen Launching Toward Israel After U.S.-Israeli Strikes On Iran",
+      "BREAKING NEWS: JD Vance Holds Event In Hungary After U.S. And Iran Agree To 2-Week Ceasefire",
+      "Hegseth Asked If Iran Handing Over Their Enriched Uranium Is A 'Non-Negotiable' For Future Deals",
+      "Pro-Iranian Regime Protestors Hold Demonstration In Tehran As US, Israel, Launch Strikes On Country",
+      "Iranian Missile Barrage Headed For Tel Aviv Seen In Skies Over Jerusalem",
+      "'The Islamic Republic Is Collapsing': Exiled Iranian Shah's Son Calls On People Of Iran To Revolt",
+      "ICYMI: JD Vance And Viktor Orban Take Questions About Russia, Ukraine, The Iran War, And More",
+      "BREAKING NEWS: Trump Lashes Out Publicly At Tucker Carlson Over Iran War Criticism",
+      "Tom Cotton: Iranian Strikes Are A Chance For Iranians To 'Rise Up And Try To Take Control'",
+      "'Where Does He Get That?': Leavitt Pressed On Trump Saying Iran Was Planning To Attack U.S. Troops",
+      "'I Am Troubled By The Lack Of A Rationale': Tim Kaine Slams Strikes On Iran",
+      "Chris Coons Warns That Iran War Will Be 'Very Expensive'",
+      "LIVE: Trump Speaks At Public Event Amidst DHS Shutdown Battle, Iran War",
+      "Counterterrorism Expert Offers Advice To Americans Amid 'Heightened Threat' Of Terror From Iran",
+      "Are We Close To World War III After US Strikes On Iran? Expert Weighs In"
+    ],
+    "comments_per_video": {
+      "yyu6NVp_x34": 61,
+      "sSkHDL-TW9M": 471,
+      "rkPc44ULo4U": 6,
+      "zNegu3-yDhU": 22,
+      "4BVPi5GsQUc": 2,
+      "7zE4v--qcPs": 329,
+      "klX3M7p3nnc": 53,
+      "aVQ10g5by1E": 711,
+      "J0gAcGoyJ5Y": 54,
+      "gS4vPzLOnI8": 60,
+      "uCGH6sXhTLQ": 37,
+      "gYNiBb6c0Ks": 22,
+      "FKpWRScCDI0": 46,
+      "udd1xuHYkII": 5,
+      "-CgghHGXiEY": 476,
+      "BIiK_r4nLCU": 28,
+      "WpM6RYMH00I": 681,
+      "kXOwkQAzI6s": 13,
+      "KR6FWMnwf5g": 12,
+      "XuRUI3MlHkI": 147,
+      "cQfq_esh7rc": 13,
+      "9r8w9B7MZXs": 4,
+      "rHxp-TL4CXI": 38,
+      "TuYvOOnZIb8": 275
+    }
+  },
+  {
+    "user_id": "iran_news::UCrvhNP_lWuPIP6QZzJmM-bw",
+    "token": "usr9c1f8733fc",
+    "n_posts": 1718,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCrvhNP_lWuPIP6QZzJmM-bw",
+    "channel_title": "New York Post",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "JWTao6QshCk"
+    ],
+    "video_titles": [
+      "US Rescues Downed Airman After Iran Shoots Down F-15"
+    ],
+    "comments_per_video": {
+      "JWTao6QshCk": 1718
+    }
+  },
+  {
+    "user_id": "iran_news::UCupvZG-5ko_eiXAupbDfxWw",
+    "token": "usr855b8075ee",
+    "n_posts": 25467,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCupvZG-5ko_eiXAupbDfxWw",
+    "channel_title": "CNN",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 7,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "-kUzY72GZ0I",
+      "RWnVh3V2NpQ",
+      "Rbb8aZQs29Y",
+      "V52iJ-ZDkJY",
+      "ZMBrA9Yy5os",
+      "cszbqHzCUy8",
+      "qqyzVSBy_-M"
+    ],
+    "video_titles": [
+      "Iran mines Strait of Hormuz; US strikes mine-laying ships",
+      "China warns of spread of 'flames of war' from Iran",
+      "US strikes military targets on Iran's Kharg Island",
+      "US & Israel launch attack on Iran",
+      "Three tiny disputed islands could be key in the Iran war",
+      "Russia is helping Iran target US military: Sources",
+      "Comedians take swings at Trump’s plea for Iran help | Have I Got News For You"
+    ],
+    "comments_per_video": {
+      "-kUzY72GZ0I": 2899,
+      "Rbb8aZQs29Y": 1102,
+      "qqyzVSBy_-M": 243,
+      "V52iJ-ZDkJY": 11753,
+      "RWnVh3V2NpQ": 196,
+      "ZMBrA9Yy5os": 7058,
+      "cszbqHzCUy8": 2216
+    }
+  },
+  {
+    "user_id": "iran_news::UCzuqE7-t13O4NIDYJfakrhw",
+    "token": "usr1de523eeef",
+    "n_posts": 1110,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCzuqE7-t13O4NIDYJfakrhw",
+    "channel_title": "Democracy Now!",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 3,
+    "dataset_paths": [
+      "data/raw/iran_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "4cFVV_I1s_w",
+      "9urktBqG39w",
+      "iOWMGnYRMyc"
+    ],
+    "video_titles": [
+      "\"The Institutions Have Not Collapsed\": Prof. Ali Kadivar on Iran's Resilience to U.S.-Israeli War",
+      "Ex-Bush admin official slams Trump's war on Iran",
+      "Why Trump's war on Iran is illegal"
+    ],
+    "comments_per_video": {
+      "iOWMGnYRMyc": 583,
+      "4cFVV_I1s_w": 241,
+      "9urktBqG39w": 286
+    }
+  }
+]

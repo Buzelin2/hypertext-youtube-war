@@ -1,0 +1,66 @@
+[
+  {
+    "topic": "iran",
+    "n_users": 37,
+    "mean_topic_sentiment_score": -0.7247163218420904,
+    "std_topic_sentiment_score": 0.006819403891493354,
+    "min_topic_sentiment_score": -0.7366237640380859,
+    "max_topic_sentiment_score": -0.711540162563324
+  },
+  {
+    "topic": "afghanistan",
+    "n_users": 37,
+    "mean_topic_sentiment_score": -0.7286199105752481,
+    "std_topic_sentiment_score": 0.007387356757108539,
+    "min_topic_sentiment_score": -0.7419576644897461,
+    "max_topic_sentiment_score": -0.714634895324707
+  },
+  {
+    "topic": "trump",
+    "n_users": 37,
+    "mean_topic_sentiment_score": -0.713852271840379,
+    "std_topic_sentiment_score": 0.007800283243098403,
+    "min_topic_sentiment_score": -0.727624237537384,
+    "max_topic_sentiment_score": -0.7000856995582581
+  },
+  {
+    "topic": "biden",
+    "n_users": 37,
+    "mean_topic_sentiment_score": -0.6756071834950834,
+    "std_topic_sentiment_score": 0.009339547958859839,
+    "min_topic_sentiment_score": -0.6888182759284973,
+    "max_topic_sentiment_score": -0.658163845539093
+  },
+  {
+    "topic": "war",
+    "n_users": 37,
+    "mean_topic_sentiment_score": -0.5545707200024579,
+    "std_topic_sentiment_score": 0.004172060761775138,
+    "min_topic_sentiment_score": -0.5624332427978516,
+    "max_topic_sentiment_score": -0.5460271239280701
+  },
+  {
+    "topic": "peace",
+    "n_users": 37,
+    "mean_topic_sentiment_score": -0.6153188508910101,
+    "std_topic_sentiment_score": 0.004179779467685741,
+    "min_topic_sentiment_score": -0.6236302256584167,
+    "max_topic_sentiment_score": -0.6073611378669739
+  },
+  {
+    "topic": "america",
+    "n_users": 37,
+    "mean_topic_sentiment_score": -0.669301310101071,
+    "std_topic_sentiment_score": 0.00546928494371621,
+    "min_topic_sentiment_score": -0.6791022419929504,
+    "max_topic_sentiment_score": -0.6572921276092529
+  },
+  {
+    "topic": "terror",
+    "n_users": 37,
+    "mean_topic_sentiment_score": -0.5985067680075362,
+    "std_topic_sentiment_score": 0.006529343222140863,
+    "min_topic_sentiment_score": -0.6095859408378601,
+    "max_topic_sentiment_score": -0.5831624865531921
+  }
+]

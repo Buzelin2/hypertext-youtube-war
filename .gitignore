@@ -1,0 +1,21 @@
+.venv/
+.venv_*/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local data and generated artifacts
+data/raw/
+outputs/**/model/model.safetensors
+outputs/**/model/pytorch_model.bin
+outputs/**/model/*.bin
+outputs/**/model/*.safetensors
+
+# Generated figures can be recreated with scripts/plot_embedding_map.py.
+notebooks/images/*.pdf
+!notebooks/images/.gitkeep
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/

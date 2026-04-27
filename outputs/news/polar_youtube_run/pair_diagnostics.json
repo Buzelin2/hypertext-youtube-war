@@ -1,0 +1,152 @@
+[
+  {
+    "pair": "escalation_vs_restraint",
+    "n_pos_attr": 8,
+    "n_neg_attr": 8,
+    "centroid_cosine": 0.7654087543487549,
+    "pos_terms": [
+      "strike",
+      "retaliation",
+      "bomb",
+      "attack",
+      "destroy",
+      "wipe out",
+      "hit back",
+      "military response"
+    ],
+    "neg_terms": [
+      "ceasefire",
+      "de-escalation",
+      "restraint",
+      "diplomacy",
+      "negotiation",
+      "talks",
+      "peace",
+      "dialogue"
+    ]
+  },
+  {
+    "pair": "us_alignment_vs_anti_us",
+    "n_pos_attr": 7,
+    "n_neg_attr": 7,
+    "centroid_cosine": 0.8754129409790039,
+    "pos_terms": [
+      "support america",
+      "support the us",
+      "back the us",
+      "american leadership",
+      "our allies",
+      "defend israel",
+      "western allies"
+    ],
+    "neg_terms": [
+      "american imperialism",
+      "us propaganda",
+      "washington lies",
+      "anti us",
+      "against the us",
+      "western hypocrisy",
+      "empire"
+    ]
+  },
+  {
+    "pair": "civilian_humanitarian_vs_military_geopolitics",
+    "n_pos_attr": 8,
+    "n_neg_attr": 8,
+    "centroid_cosine": 0.7633686661720276,
+    "pos_terms": [
+      "civilians",
+      "children",
+      "families",
+      "refugees",
+      "humanitarian",
+      "innocent people",
+      "suffering",
+      "human rights"
+    ],
+    "neg_terms": [
+      "missiles",
+      "bases",
+      "deterrence",
+      "strategy",
+      "operation",
+      "tactical",
+      "geopolitics",
+      "air defense"
+    ]
+  },
+  {
+    "pair": "alarmist_vs_analytic",
+    "n_pos_attr": 8,
+    "n_neg_attr": 8,
+    "centroid_cosine": 0.7465931177139282,
+    "pos_terms": [
+      "world war three",
+      "ww3",
+      "apocalypse",
+      "catastrophe",
+      "panic",
+      "terrifying",
+      "doomsday",
+      "we are doomed"
+    ],
+    "neg_terms": [
+      "analysis",
+      "evidence",
+      "context",
+      "according to",
+      "data",
+      "reported",
+      "sources",
+      "assessment"
+    ]
+  },
+  {
+    "pair": "certainty_vs_hedge",
+    "n_pos_attr": 7,
+    "n_neg_attr": 7,
+    "centroid_cosine": 0.7860755920410156,
+    "pos_terms": [
+      "definitely",
+      "certainly",
+      "no doubt",
+      "for sure",
+      "clearly",
+      "obviously",
+      "undeniable"
+    ],
+    "neg_terms": [
+      "maybe",
+      "perhaps",
+      "it seems",
+      "possibly",
+      "not sure",
+      "unclear",
+      "I think"
+    ]
+  },
+  {
+    "pair": "propaganda_vs_verification",
+    "n_pos_attr": 7,
+    "n_neg_attr": 7,
+    "centroid_cosine": 0.762740969657898,
+    "pos_terms": [
+      "psyop",
+      "propaganda",
+      "fake news",
+      "lies",
+      "cover up",
+      "narrative",
+      "brainwashing"
+    ],
+    "neg_terms": [
+      "verify",
+      "confirmed",
+      "evidence",
+      "fact check",
+      "source",
+      "documentation",
+      "cross checked"
+    ]
+  }
+]

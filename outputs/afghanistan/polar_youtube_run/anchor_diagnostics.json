@@ -1,0 +1,104 @@
+[
+  {
+    "anchor": "trump",
+    "label": "Trump",
+    "description": "Direct channel proximity to Trump-centered language.",
+    "group": "leader",
+    "requested_terms": [
+      "trump"
+    ],
+    "resolved_terms": 1
+  },
+  {
+    "anchor": "biden",
+    "label": "Biden",
+    "description": "Direct channel proximity to Biden-centered language.",
+    "group": "leader",
+    "requested_terms": [
+      "biden"
+    ],
+    "resolved_terms": 1
+  },
+  {
+    "anchor": "war",
+    "label": "War",
+    "description": "General war framing.",
+    "group": "theme",
+    "requested_terms": [
+      "war"
+    ],
+    "resolved_terms": 1
+  },
+  {
+    "anchor": "peace",
+    "label": "Peace",
+    "description": "General peace and de-escalation framing.",
+    "group": "theme",
+    "requested_terms": [
+      "peace"
+    ],
+    "resolved_terms": 1
+  },
+  {
+    "anchor": "iran",
+    "label": "Iran",
+    "description": "Direct proximity to Iran-related language.",
+    "group": "country",
+    "requested_terms": [
+      "iran"
+    ],
+    "resolved_terms": 1
+  },
+  {
+    "anchor": "israel",
+    "label": "Israel",
+    "description": "Direct proximity to Israel-related language.",
+    "group": "country",
+    "requested_terms": [
+      "israel"
+    ],
+    "resolved_terms": 1
+  },
+  {
+    "anchor": "taliban",
+    "label": "Taliban",
+    "description": "Direct proximity to Taliban-related language.",
+    "group": "actor",
+    "requested_terms": [
+      "taliban"
+    ],
+    "resolved_terms": 1
+  },
+  {
+    "anchor": "nato",
+    "label": "NATO",
+    "description": "Direct proximity to NATO-related language.",
+    "group": "institution",
+    "requested_terms": [
+      "nato"
+    ],
+    "resolved_terms": 1
+  },
+  {
+    "anchor": "sanctions",
+    "label": "Sanctions",
+    "description": "General sanctions framing.",
+    "group": "policy",
+    "requested_terms": [
+      "sanctions"
+    ],
+    "resolved_terms": 1
+  },
+  {
+    "anchor": "withdrawal",
+    "label": "Withdrawal",
+    "description": "Withdrawal/end-of-war framing.",
+    "group": "policy",
+    "requested_terms": [
+      "withdrawal",
+      "troops home",
+      "leave afghanistan"
+    ],
+    "resolved_terms": 3
+  }
+]

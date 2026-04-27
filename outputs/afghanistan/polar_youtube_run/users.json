@@ -1,0 +1,1168 @@
+[
+  {
+    "user_id": "afghanistan_influencers::UC-3jIAlnQmbbVMV6gR7K8aQ",
+    "token": "usr07d11af934",
+    "n_posts": 7028,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UC-3jIAlnQmbbVMV6gR7K8aQ",
+    "channel_title": "The Majority Report w/ Sam Seder",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 26,
+    "dataset_paths": [
+      "data/raw/afgh_channels_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_channels_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "-1HXsGVFiiQ",
+      "1xG2fBQ8lPs",
+      "9ZuE0qQNN1Q",
+      "BQ368KUXe3E",
+      "ES35-xrwGqw",
+      "GkWjoFtSPvQ",
+      "GsZlrb57ZxM",
+      "Hx3WK61HZ_8",
+      "JJs1Kbbr7I0",
+      "LVOfajsjQpY",
+      "O5F6ni2HyLU",
+      "YbpWNMRsHr8",
+      "_28VDz2M4Wk",
+      "_dOHc-RDUgs",
+      "aRpsBewNnSs",
+      "c-vJlTl6yh4",
+      "ewNg-VB6f38",
+      "hXb0C06A73I",
+      "ijlRxtTcEdE",
+      "pSMrfntkASY",
+      "qhKkbDl3i08",
+      "r4putfH1kmY",
+      "sD7VPs__oiU",
+      "sfCXLPXMnX4",
+      "tHgOWNcIw_o",
+      "tt-er5PDrTg"
+    ],
+    "video_titles": [
+      "Pentagon Says Leaving 2,500 US Troops In Afghanistan Wouldn’t Have Stabilized The Situation",
+      "Afghan War Vet RIPS Stephen Miller On CNN: ‘Privileged Little Brat’ Committed War Crimes",
+      "Trump INCOHERENTLY Denies Empowering The Taliban In Afghanistan",
+      "Ilhan Omar Grills Biden Official Over Recent Drone Strike That Killed Afghan Civilians",
+      "Sen. Chris Murphy Gives Tough Answer When Pressed About Plight Of Women And Girls In Afghanistan",
+      "Rep. Barbara Lee’s Heroic Vote Against War With Afghanistan In 2001",
+      "Beyond Cringe CBS Sitcom Tries To Manufacture Consent On Afghanistan",
+      "US Military’s Apology For Killing Afghan Civilians Is Not Good Enough",
+      "Would Obama Have Caved To Corporate Media's Afghanistan Withdrawal Backlash?",
+      "Republicans DESPERATE To Forget Trump Bragging About Starting Afghanistan Withdrawal",
+      "Fox News Platforms Kill-Crazy Lunatic Fantasizing About Doing War Crimes In Afghanistan",
+      "NBC Reporter’s Tweets Expose Media’s Disingenuousness About Afghanistan",
+      "What If US Stayed In Afghanistan For Another 20 Years?",
+      "Latest U.S. Drone Strike On Afghan Civilians Is A Crystallization Of ‘The War On Terror’",
+      "Pentagon: Last U.S. Soldier Has Left Afghanistan, Longest American War Is Over",
+      "Media Running Old Playbook To Shame Biden On Afghanistan Withdrawal",
+      "Tucker And J.D. Vance Crank Up Racism On Afghan Refugees",
+      "How The Bush Administration Turned Afghanistan Into A Slush Fund",
+      "Fox News’ Afghanistan Narrative FRUSTRATES Joe Biden During Tense Press Exchange",
+      "James Carville: 'Hysterical’ Media Coverage Of Biden's Afghanistan Withdrawal",
+      "Stephen Miller’s BIGOTRY On Display With ‘Afghan Refugees Should Go To Pakistan’ Idea",
+      "Erik Prince Tells Tucker Carlson His Heinous Afghanistan Strategy",
+      "Bush Staffer Gives INCREDIBLE Take On Biden's Afghanistan Withdrawl",
+      "Charlie Kirk’s Racist Rant Against Ilhan Omar And Afghan Refugees",
+      "Trump Out Of His Mind On Fox News Selling Hannity His Imaginary Afghanistan Withdrawal",
+      "Tony Blair Thinks 20 Years Of War In Afghanistan Wasn’t Enough"
+    ],
+    "comments_per_video": {
+      "tt-er5PDrTg": 71,
+      "ijlRxtTcEdE": 277,
+      "BQ368KUXe3E": 662,
+      "hXb0C06A73I": 170,
+      "ES35-xrwGqw": 149,
+      "JJs1Kbbr7I0": 182,
+      "sfCXLPXMnX4": 437,
+      "GsZlrb57ZxM": 120,
+      "r4putfH1kmY": 193,
+      "ewNg-VB6f38": 653,
+      "1xG2fBQ8lPs": 696,
+      "_28VDz2M4Wk": 287,
+      "qhKkbDl3i08": 481,
+      "tHgOWNcIw_o": 140,
+      "GkWjoFtSPvQ": 107,
+      "_dOHc-RDUgs": 111,
+      "YbpWNMRsHr8": 209,
+      "O5F6ni2HyLU": 68,
+      "pSMrfntkASY": 378,
+      "Hx3WK61HZ_8": 248,
+      "aRpsBewNnSs": 277,
+      "-1HXsGVFiiQ": 308,
+      "c-vJlTl6yh4": 284,
+      "sD7VPs__oiU": 520,
+      "LVOfajsjQpY": 0,
+      "9ZuE0qQNN1Q": 0
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCCRNUa9EwvRXMYwUmDi3JtA",
+    "token": "usr1688bf1564",
+    "n_posts": 975,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCCRNUa9EwvRXMYwUmDi3JtA",
+    "channel_title": "Chad Prather",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "dataset_paths": [
+      "data/raw/afgh_channels_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_channels_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "Rd70hey9QSE",
+      "lATWW4qUdX4",
+      "xO3ma0lr7Sk"
+    ],
+    "video_titles": [
+      "Afghanistan CONTINUES to Burn & the Biden Administration Doesn’t Learn | Ep 494",
+      "Afghanistan BURNS & Biden REFUSES to Answer Questions | Guest: Jason Buttrill | Ep 500",
+      "Afghanistan Has FALLEN!: The American Gov Failed Our Allies | Ep 492"
+    ],
+    "comments_per_video": {
+      "xO3ma0lr7Sk": 226,
+      "Rd70hey9QSE": 205,
+      "lATWW4qUdX4": 544
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCD8YGIxFCnVqv-ZGqgtVWAg",
+    "token": "usr652924ad2b",
+    "n_posts": 6425,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCD8YGIxFCnVqv-ZGqgtVWAg",
+    "channel_title": "Erick Stakelbeck on TBN",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 7,
+    "dataset_paths": [
+      "data/raw/afgh_channels_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_channels_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "0FjHaqnYsQc",
+      "6-ua5mefMCQ",
+      "C9BK5wQsVKs",
+      "CnbGdUTodgM",
+      "Kj1w4lGK6S4",
+      "Kq8ZXXuJZn8",
+      "i9PVW7iNxaM"
+    ],
+    "video_titles": [
+      "Taliban's LIST of U.S. Citizens & Afghan Allies; Israeli PM Bennett & Biden Meet | Watchman Newscast",
+      "Taliban’s Afghanistan a Global Terror Base? Plus, Israel Missile Strike in Syria | Watchman Newscast",
+      "Israel WARNS Iran Close to a Nuclear Bomb & Afghanistan Crisis Update | Watchman Newscast",
+      "Afghanistan Falls to the Taliban: 5 Consequences of a US Foreign Policy Disaster | Watchman Newscast",
+      "Iran and Hamas Praise US \"Defeat\" in Afghanistan; America's Enemies Celebrate | Watchman Newscast",
+      "How Afghanistan’s Christian Minority are Surviving the Taliban Terror | Watchman Newscast",
+      "Afghanistan Christians TARGETED by Taliban; U.S. Exit Encourages Radical Islam | Watchman Newscast"
+    ],
+    "comments_per_video": {
+      "0FjHaqnYsQc": 880,
+      "Kq8ZXXuJZn8": 507,
+      "C9BK5wQsVKs": 1286,
+      "CnbGdUTodgM": 827,
+      "Kj1w4lGK6S4": 799,
+      "6-ua5mefMCQ": 638,
+      "i9PVW7iNxaM": 1488
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCIveFvW-ARp_B_RckhweNJw",
+    "token": "usr7e684bd028",
+    "n_posts": 3067,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCIveFvW-ARp_B_RckhweNJw",
+    "channel_title": "StevenCrowder",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 2,
+    "dataset_paths": [
+      "data/raw/afgh_channels_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_channels_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "TlRcJTbqgBw",
+      "_IVNDb3JSCg"
+    ],
+    "video_titles": [
+      "MIXTAPE: Crowder TERRORIZES Dementia Joe Biden on Afghanistan & Taliban Gaffes!",
+      "No Regrets from Biden about the Afghanistan withdrawal?! Featuring Gerald A. #shorts"
+    ],
+    "comments_per_video": {
+      "_IVNDb3JSCg": 2102,
+      "TlRcJTbqgBw": 965
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCJdKr0Bgd_5saZYqLCa9mng",
+    "token": "usr040c1b6e99",
+    "n_posts": 497,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCJdKr0Bgd_5saZYqLCa9mng",
+    "channel_title": "The Rubin Report",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "dataset_paths": [
+      "data/raw/afgh_channels_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_channels_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "QDB59cRZX0I",
+      "UmIv6qJe_lY",
+      "yGgYf8fGlqc"
+    ],
+    "video_titles": [
+      "The Moment Dave Finds Out the Taliban Control Afghanistan | Adam Carolla | POLITICS | Rubin Report",
+      "These Stories Prove How Big a Failure Afghanistan Was (Pt. 3)| Tucker Carlson | MEDIA | Rubin Report",
+      "Biden's Lies About Afghanistan Are Beginning to Unravel | Glenn Beck | Direct Message | Rubin Report"
+    ],
+    "comments_per_video": {
+      "yGgYf8fGlqc": 497,
+      "UmIv6qJe_lY": 0,
+      "QDB59cRZX0I": 0
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCLdP3jmBYe9lAZQbY6OSYjw",
+    "token": "usr850c0e1cae",
+    "n_posts": 188,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCLdP3jmBYe9lAZQbY6OSYjw",
+    "channel_title": "Benny Johnson",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 6,
+    "dataset_paths": [
+      "data/raw/afgh_channels_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_channels_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "-O9cSZLPMNM",
+      "DUX4E_H8Fbo",
+      "_LLrepUz-lo",
+      "itJaTaQBhcc",
+      "lNPhgxnPyAw",
+      "lZwZ4Azyklc"
+    ],
+    "video_titles": [
+      "Billboard In Swing State Shows Biden Hiding, Eating Ice Cream As Afghanistan Falls",
+      "Disgrace: Pelosi Spent Her Day Giving A Giggling Speech - Did Not Mention Afghanistan Attack",
+      "BOMBSHELL: LEAKED Transcripts Show BIDEN DEMANDED Pres. of Afghanistan to LIE - IS This IMPEACHABLE?",
+      "Biden Laughs At Questions About Afghanistan As White House Staff Drag Reporters Out Of The Room",
+      "’Buck Stops With Me’ Biden Spent 2 Minutes Blaming Trump For Afghanistan Disaster",
+      "Biden Finally Answers Questions On Afghanistan - Ooh Man, Your Blood Will Boil Watching This"
+    ],
+    "comments_per_video": {
+      "_LLrepUz-lo": 12,
+      "itJaTaQBhcc": 46,
+      "-O9cSZLPMNM": 39,
+      "DUX4E_H8Fbo": 25,
+      "lZwZ4Azyklc": 31,
+      "lNPhgxnPyAw": 35
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCQANb2YPwAtK-IQJrLaaUFw",
+    "token": "usr43e11acea6",
+    "n_posts": 9609,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCQANb2YPwAtK-IQJrLaaUFw",
+    "channel_title": "Brian Tyler Cohen",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 2,
+    "dataset_paths": [
+      "data/raw/afgh_channels_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_channels_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "1epPQdeGkNE",
+      "L6e7K3B6FTM"
+    ],
+    "video_titles": [
+      "Afghanistan veteran DESTROYS Trump advisor Stephen Miller on air",
+      "Chris Wallace NAILS Mike Pompeo over Trump's complicity in Afghanistan ON AIR"
+    ],
+    "comments_per_video": {
+      "1epPQdeGkNE": 5782,
+      "L6e7K3B6FTM": 3827
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCaYw_yJ_YLPEv6zR2c7hgHA",
+    "token": "usr03bb9b266c",
+    "n_posts": 3658,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCaYw_yJ_YLPEv6zR2c7hgHA",
+    "channel_title": "The Officer Tatum",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/afgh_channels_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_channels_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "Z_YMst84t80"
+    ],
+    "video_titles": [
+      "Biden Addresses Afghanistan!"
+    ],
+    "comments_per_video": {
+      "Z_YMst84t80": 3658
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCeJGFZww0__Ln7OFfeYRs4w",
+    "token": "usrcb57975c99",
+    "n_posts": 700,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCeJGFZww0__Ln7OFfeYRs4w",
+    "channel_title": "Compound Media",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/afgh_channels_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_channels_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "kVJk51h7G84"
+    ],
+    "video_titles": [
+      "Donald Trump Jr - Afghanistan, China, Trump 2024"
+    ],
+    "comments_per_video": {
+      "kVJk51h7G84": 700
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UClFSU9_bUb4Rc6OYfTt5SPw",
+    "token": "usrd141476369",
+    "n_posts": 15611,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UClFSU9_bUb4Rc6OYfTt5SPw",
+    "channel_title": "Philip DeFranco",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "dataset_paths": [
+      "data/raw/afgh_channels_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_channels_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "2wVUfYioyrg",
+      "5O7m7h9DanI",
+      "p3_YISMR64E"
+    ],
+    "video_titles": [
+      "DISGUSTING! Lizzo Bella Poarch Controversy, Biden Remarks, Afghanistan Has Fallen. What Now?",
+      "DISTURBING MELTDOWN! Mia Khalifa OnlyFans, Internet Goes After Ryan Bartels, Afghanistan Fallout, &",
+      "SOMEONE IS LYING! Johnny Depp, Amber Heard, Brendan Schaub, Greg Abbott, Joe Biden, Afghanistan, &"
+    ],
+    "comments_per_video": {
+      "5O7m7h9DanI": 7910,
+      "p3_YISMR64E": 4719,
+      "2wVUfYioyrg": 2982
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCnQC_G5Xsjhp9fEJKuIcrSw",
+    "token": "usr067e1a7860",
+    "n_posts": 71485,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCnQC_G5Xsjhp9fEJKuIcrSw",
+    "channel_title": "Ben Shapiro",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 22,
+    "dataset_paths": [
+      "data/raw/afgh_channels_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_channels_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "0g2lpVfSoac",
+      "0mrT5CHRBUA",
+      "1n5jDArJdg8",
+      "2Zafzo8IgjE",
+      "3NHBbiweosU",
+      "4Oc1Nu7CY4w",
+      "7QfovktOL_E",
+      "8ke755mBOis",
+      "CjKIm_KzsyE",
+      "JKtipZqzUw0",
+      "KDxlEhYev5I",
+      "NRWTVSuDFFA",
+      "PyhznzvnghY",
+      "QDuNph2giXw",
+      "RmvCT7j9MFc",
+      "WvNbRNXpOHU",
+      "XrgktvfmjZE",
+      "_vIa9qvRau4",
+      "a8Gqz_-8r1c",
+      "dbCYPWLoL2A",
+      "ifjo4WAY1Po",
+      "qqR8eaIOthM"
+    ],
+    "video_titles": [
+      "WATCH: Nancy Pelosi's PATHETIC Afghanistan Briefing",
+      "Mike Pence on Covid, Afghanistan, and American Freedom",
+      "Students and 3-Year-Old LEFT BEHIND in Afghanistan",
+      "LEAKED: Biden's SHOCKING Phone Call With Afghanistan President",
+      "Biden’s Dishonest, Cowardly Afghanistan Surrender Proves He Is Unfit For His Office | Ep. 1320",
+      "Shapiro Reacts To Biden's Afghanistan Troop Withdrawal",
+      "Breaking Down Biden's Latest EMBARRASSING Afghanistan Speech",
+      "BREAKING NEWS: U.S. Soldiers Killed in Afghanistan",
+      "Counting Down the Biggest Lies From Biden’s Afghanistan Speech",
+      "Biden to Americans Stuck in Afghanistan: So Long, Suckers! | Ep. 1327",
+      "In the Graveyard of Empires: America's War in Afghanistan Explained",
+      "Biden's Approval Ratings DROP Due to Afghanistan Disaster",
+      "Unbelievable Image From Biden's PATHETIC Afghanistan Speech",
+      "WATCH: Dreadful Videos Emerge Showing Biden's Afghanistan Disaster",
+      "Ben Shapiro Breaks Down Biden's PATHETIC Afghanistan Speech",
+      "Ben Shapiro Breaks Down What's Happening In Afghanistan",
+      "Shapiro Reacts to Biden’s Disastrous Afghanistan Speech",
+      "THIS Is Why Afghanistan Fell So Quickly",
+      "WATCH: Schumer, Colbert Dance As Thousands of Americans Trapped In Afghanistan",
+      "TOTAL CRAPSHOW: Military Leaders Testify On DISASTROUS Afghanistan Withdrawal",
+      "WATCH: HORRIBLE Videos Emerge From Afghanistan Amid Biden's Disaster",
+      "What Does the Afghanistan Withdrawal Mean for America?"
+    ],
+    "comments_per_video": {
+      "ifjo4WAY1Po": 2984,
+      "8ke755mBOis": 1440,
+      "1n5jDArJdg8": 791,
+      "3NHBbiweosU": 3038,
+      "QDuNph2giXw": 4056,
+      "4Oc1Nu7CY4w": 1721,
+      "qqR8eaIOthM": 2024,
+      "dbCYPWLoL2A": 3644,
+      "KDxlEhYev5I": 1317,
+      "_vIa9qvRau4": 2287,
+      "2Zafzo8IgjE": 1793,
+      "XrgktvfmjZE": 1187,
+      "PyhznzvnghY": 13763,
+      "RmvCT7j9MFc": 10271,
+      "CjKIm_KzsyE": 10677,
+      "7QfovktOL_E": 7305,
+      "WvNbRNXpOHU": 3187,
+      "JKtipZqzUw0": 0,
+      "a8Gqz_-8r1c": 0,
+      "NRWTVSuDFFA": 0,
+      "0mrT5CHRBUA": 0,
+      "0g2lpVfSoac": 0
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCtoaZpBnrd0lhycxYJ4MNOQ",
+    "token": "usr29f09302d7",
+    "n_posts": 3638,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCtoaZpBnrd0lhycxYJ4MNOQ",
+    "channel_title": "HasanAbi",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "dataset_paths": [
+      "data/raw/afgh_channels_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_channels_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "OJnYIxix4dU",
+      "mINrc2ns_6I",
+      "tuwwuFgrPuM"
+    ],
+    "video_titles": [
+      "Why The US was in Afghanistan in The First Place [With Mike Prysner]",
+      "How Did Afghanistan Get to This?",
+      "Hog Media's Take on Afghanistan Withdrawal MAKES NO SENSE"
+    ],
+    "comments_per_video": {
+      "mINrc2ns_6I": 1127,
+      "OJnYIxix4dU": 1267,
+      "tuwwuFgrPuM": 1244
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCvixJtaXuNdMPUGdOPcY8Ag",
+    "token": "usr871f13eb1e",
+    "n_posts": 8075,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCvixJtaXuNdMPUGdOPcY8Ag",
+    "channel_title": "David Pakman Show",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 16,
+    "dataset_paths": [
+      "data/raw/afgh_channels_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_channels_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "-xkQIVMbJYY",
+      "2Oc6y4jl38M",
+      "5ro8o9SpCBU",
+      "7rymVhJ8OQI",
+      "DSSGPciQsYo",
+      "L-sDxskMKhY",
+      "Nw6LNS287pU",
+      "PhBJJYJUUxU",
+      "apDgCOWk5JE",
+      "cYG-_YKCfgE",
+      "d0ASD5zXXtA",
+      "ebjrCJKeTQw",
+      "iBjzm6l3TV8",
+      "oCM9RZggUP4",
+      "qrHqrUYvDps",
+      "zmrUbob3UAw"
+    ],
+    "video_titles": [
+      "Afghanistan Falls to Taliban, Afghan President & US Diplomats Flee Country",
+      "Caller: Mainstream Media LYING About Afghanistan?",
+      "Biden Confirms, Out of Afghanistan 8/25/21",
+      "Dylan Burns Interviews Me About Afghanistan, Bolivia, RT, and More",
+      "Biden Won't Relent on Afghanistan, But Media Wants Him To 9/1/21",
+      "Did They Forget Bush is Responsible for Afghanistan?",
+      "Positive COVID Tests & Major Afghanistan Concerns 8/20/21",
+      "We're Officially Out of Afghanistan, But Biden Approval Down 8/31/21",
+      "Marjorie Taylor Greene Ready to Impeach Biden Over Afghanistan",
+      "Joe Biden Is Completely Right to Leave Afghanistan",
+      "Trump Jr. Gloats Over Afghanistan Turmoil",
+      "LIVE BREAKING: Joe Biden Afghanistan Speech",
+      "The Truth in Afghanistan, The Reality of COVID-2021 8/18/21",
+      "What Would Success in Afghanistan Even Look Like?",
+      "The Truth About the Taliban's Takeover of Afghanistan",
+      "Afghanistan Chaos as Hurricane Hits, Virus Spreads 8/30/21"
+    ],
+    "comments_per_video": {
+      "2Oc6y4jl38M": 699,
+      "ebjrCJKeTQw": 344,
+      "qrHqrUYvDps": 193,
+      "iBjzm6l3TV8": 85,
+      "-xkQIVMbJYY": 337,
+      "DSSGPciQsYo": 467,
+      "5ro8o9SpCBU": 68,
+      "cYG-_YKCfgE": 360,
+      "7rymVhJ8OQI": 1884,
+      "oCM9RZggUP4": 629,
+      "d0ASD5zXXtA": 817,
+      "apDgCOWk5JE": 123,
+      "L-sDxskMKhY": 254,
+      "PhBJJYJUUxU": 111,
+      "zmrUbob3UAw": 1704,
+      "Nw6LNS287pU": 0
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCx_2Vso6Qz76n-w5KV8DZcA",
+    "token": "usr1912468e49",
+    "n_posts": 191,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCx_2Vso6Qz76n-w5KV8DZcA",
+    "channel_title": "Allie Beth Stuckey",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 2,
+    "dataset_paths": [
+      "data/raw/afgh_channels_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_channels_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "LFTNf0y11mw",
+      "RTY0cE65UhI"
+    ],
+    "video_titles": [
+      "Debunking Lies on COVID, Texas Abortion Law & Afghanistan | Guest: Liz Wheeler | Ep 483",
+      "Biden’s Afghanistan Disaster & How We Can Help | Guest: Morgan Ortagus | Ep 472"
+    ],
+    "comments_per_video": {
+      "LFTNf0y11mw": 104,
+      "RTY0cE65UhI": 87
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UC3ScyryU9Oy9Wse3a8OAmYQ",
+    "token": "usrf626d5e9cb",
+    "n_posts": 492,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UC3ScyryU9Oy9Wse3a8OAmYQ",
+    "channel_title": "FRONTLINE PBS | Official",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/afgh_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "4a6m5DIHQCM"
+    ],
+    "video_titles": [
+      "President Obama’s Unsuccessful Bid to End the Afghanistan War | FRONTLINE"
+    ],
+    "comments_per_video": {
+      "4a6m5DIHQCM": 492
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UC9k-yiEpRHMNVOnOi_aQK8w",
+    "token": "usrb72cba4b3d",
+    "n_posts": 6184,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UC9k-yiEpRHMNVOnOi_aQK8w",
+    "channel_title": "Inside Edition",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 4,
+    "dataset_paths": [
+      "data/raw/afgh_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "C_YeWqxoPxw",
+      "EWPMJcxchoQ",
+      "aB5X6ERAAnM",
+      "ht-aaJ3i_mY"
+    ],
+    "video_titles": [
+      "Airbnb Pledges to House 20,000 Afghan Refugees for Free",
+      "What Happened to the Afghan Baby",
+      "Gunfire Scatters Protesters in Afghanistan",
+      "Chaos at Afghanistan Airport"
+    ],
+    "comments_per_video": {
+      "ht-aaJ3i_mY": 455,
+      "aB5X6ERAAnM": 4038,
+      "C_YeWqxoPxw": 296,
+      "EWPMJcxchoQ": 1395
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UCJg9wBPyKMNA5sRDnvzmkdg",
+    "token": "usrce7088625a",
+    "n_posts": 4507,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
+    "channel_title": "LiveNOW from FOX",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 18,
+    "dataset_paths": [
+      "data/raw/afgh_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "1FCLrZXOmgQ",
+      "1tkDLDwVv1o",
+      "34yQgmLkVL4",
+      "3mHyrZr5x9A",
+      "4LM3BwOpPGU",
+      "A75RX6nx8X8",
+      "A8Xt2LmYaTY",
+      "I7iGZox9W2E",
+      "Md3eHvD2aeg",
+      "ZRMIv8Eexb0",
+      "e_yNwRwei7g",
+      "gvTbckAOT7w",
+      "hYccUzVumjc",
+      "i9Y7ulKChDA",
+      "l-kRUBEnfhs",
+      "uQJeSHXdcgo",
+      "vLS7BYVj2ZA",
+      "xChwkxRHOw4"
+    ],
+    "video_titles": [
+      "California family still stranded in Afghanistan after U.S. evacuates",
+      "Thousands in Afghanistan to be evacuated by August 31 | LiveNOW from FOX",
+      "Taliban Deal: Pentagon continues to rely on terrorists for Afghanistan crisis",
+      "Afghan refugees begin arriving at Fort McCoy in Wisconsin",
+      "Drone strike disaster: Pentagon admits they hit wrong target in Afghanistan, killing 10 people",
+      "Pentagon addresses Afghanistan crisis I LiveNOW from FOX",
+      "'Blood on Joe Biden's hands': House Republicans outraged over Afghanistan | LiveNOW from FOX",
+      "Rudy Giuliani speaks on Afghanistan: 'The hell with the Taliban' | LiveNOW from FOX",
+      "CIA Director William Burns met with Taliban leader in Afghanistan | LiveNOW from FOX",
+      "Ron Johnson warns of reports of unvetted Afghanistan refugees coming to America",
+      "GOP Rep. threatens embassy staff in botched Afghan family rescue",
+      "Procession for U.S. Marine killed in Afghanistan | LiveNOW from FOX",
+      "'You are a liar' Congressman shows Antony Blinken the faces of soldiers killed in Afghanistan",
+      "Full Biden remarks on Afghanistan | LiveNOW from FOX",
+      "Joe Biden takes Afghanistan questions from media | LiveNOW From FOX",
+      "1,500 Americans in Afghanistan still need to be evacuated",
+      "Afghan evacuees to arrive in Philadelphia | LiveNOW from FOX",
+      "Afghanistan evacuations: 16,000 rescued from Kabul in last 24 hours, Pentagon says"
+    ],
+    "comments_per_video": {
+      "l-kRUBEnfhs": 12,
+      "I7iGZox9W2E": 6,
+      "i9Y7ulKChDA": 42,
+      "xChwkxRHOw4": 53,
+      "34yQgmLkVL4": 142,
+      "uQJeSHXdcgo": 43,
+      "hYccUzVumjc": 852,
+      "e_yNwRwei7g": 1620,
+      "ZRMIv8Eexb0": 13,
+      "vLS7BYVj2ZA": 195,
+      "gvTbckAOT7w": 12,
+      "A8Xt2LmYaTY": 85,
+      "A75RX6nx8X8": 1194,
+      "4LM3BwOpPGU": 22,
+      "1tkDLDwVv1o": 167,
+      "3mHyrZr5x9A": 18,
+      "Md3eHvD2aeg": 26,
+      "1FCLrZXOmgQ": 5
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UCK7tptUDHh-RYDsdxO1-5QQ",
+    "token": "usr84e51a45fc",
+    "n_posts": 4589,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCK7tptUDHh-RYDsdxO1-5QQ",
+    "channel_title": "The Wall Street Journal",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 4,
+    "dataset_paths": [
+      "data/raw/afgh_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "_1DJHcju-oA",
+      "pYItkrfG39M",
+      "uXLs1tZxQj4",
+      "yg3gUeJ5_DI"
+    ],
+    "video_titles": [
+      "Watch Live: Biden Speaks on Afghanistan Troop Withdrawal | WSJ",
+      "Afghanistan Takeover: A Timeline of the Taliban’s Swift Advance | WSJ",
+      "How Taliban Expanded in Afghanistan During America's Longest War | WSJ",
+      "Watch Live: Biden Addresses Afghanistan Situation | WSJ"
+    ],
+    "comments_per_video": {
+      "uXLs1tZxQj4": 629,
+      "pYItkrfG39M": 1034,
+      "_1DJHcju-oA": 2191,
+      "yg3gUeJ5_DI": 735
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UCLXo7UDZvByw2ixzpQCufnA",
+    "token": "usr3b75c00d0d",
+    "n_posts": 3634,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCLXo7UDZvByw2ixzpQCufnA",
+    "channel_title": "Vox",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/afgh_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "2sueJoTVqxw"
+    ],
+    "video_titles": [
+      "How the US created a disaster in Afghanistan"
+    ],
+    "comments_per_video": {
+      "2sueJoTVqxw": 3634
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UCVSNOxehfALut52NbkfRBaA",
+    "token": "usrf037396953",
+    "n_posts": 3016,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCVSNOxehfALut52NbkfRBaA",
+    "channel_title": "Voice of America",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 46,
+    "dataset_paths": [
+      "data/raw/afgh_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "-w1Rj2qaZu0",
+      "0eDRiNsUu-c",
+      "2Sq4DcUCqGA",
+      "3V7i5z6ko18",
+      "44qiBEwK3iI",
+      "5F88rNJcB-w",
+      "5_9mIW5O3yA",
+      "7As34NlDiNQ",
+      "92HnFyGXg0c",
+      "9t8hmOOU_qQ",
+      "A2SQbk-I7go",
+      "AAOTTGx3e-k",
+      "AC7onb1fZiw",
+      "D4h0tiAZ8YU",
+      "EX-0-TBKPNI",
+      "EzA0xpQcNp0",
+      "FR90WJPVuXM",
+      "IWNSYuF50tQ",
+      "JNEgTraLCrs",
+      "LxyHxbPo4kc",
+      "McIx1whc890",
+      "RQMPasbiIgM",
+      "RfjVguY8Pqc",
+      "SLREf6eCalI",
+      "ThvOZsBZYFM",
+      "TuGz17aazA8",
+      "U2B-zMHe29s",
+      "W4hpX1pS51Q",
+      "Zhc1bhTF8jY",
+      "bOd_7e7iJ98",
+      "dpkhPli6Qgk",
+      "dw8z2SpmXq0",
+      "fpdZyZ_L50Y",
+      "gLCPDMNC_v0",
+      "hYdci2gg4Wg",
+      "hoBAriUzNxc",
+      "oVI8y99BhiA",
+      "qwwgEM_CiUs",
+      "r9uF5EqvR-g",
+      "rBpeJFWqXfg",
+      "slbtUFcBmEs",
+      "ufreIJ55R1k",
+      "vqovdJg7tqc",
+      "wNn27fWJdiI",
+      "ykSwbcp10XI",
+      "zzOTKqgj4e4"
+    ],
+    "video_titles": [
+      "2,000 Americans, Afghans Depart Kabul Amid Chaotic Evacuation Efforts",
+      "In Afghanistan, Aid Agencies Adjust to New Environment",
+      "The Inside Story | Afghanistan: The Fall of Kabul",
+      "What's Next in Afghanistan: VOA Speaks With a Taliban Footsoldier",
+      "Pride, Pain and Anger: Pentagon Marks Afghan War’s End",
+      "Women Rights in Afghanistan | VOA Connect",
+      "Mass Funeral for Victims of Afghan Mosque Attack",
+      "President Biden on Afghanistan: \"Taking Out Civilians and Vulnerable Afghanis\"",
+      "Groom Leaves New Bride Behind in Rush to Escape Afghanistan",
+      "Afghan War Widow | VOA Connect",
+      "At War's End, Retired Army Officer Tells VOA US 'Overextended' Stay in Afghanistan",
+      "Turkey Resists Calls to Host Afghan Refugees",
+      "Will Afghanistan Create Another Migrant Crisis for Europe?",
+      "Afghan American Reflects | VOA Connect",
+      "US Reviewing Afghan Aid, Holding Off on Taliban Recognition",
+      "President Joe Biden Speaks on Afghanistan Crisis",
+      "Mountain Biker Cruises Peaks to Promote Afghanistan",
+      "Afghan Journalists Show Bruises After Beatings at Taliban Protest",
+      "Some Afghan Girls Return to School in Kabul",
+      "Afghan Evacuees Vaccinated at Fort McCoy",
+      "Afghan Women Lose Businesses as Taliban Bar Them From Work",
+      "Afghan Diaspora in US Protest Taliban Takeover of Kabul",
+      "China Sees Potential Benefits, Risks in Taliban-led Afghanistan",
+      "Afghan Artists, Activists See No Place for Arts Under Taliban",
+      "US Holds to Deadline for Aug. 31 Departure From Afghanistan",
+      "The Inside Story | Afghanistan's Addiction Crisis",
+      "Taliban Systematically Intimidating Afghan Women, Experts Say",
+      "Biden Vows to Bring Americans Home from Afghanistan",
+      "First Look at US Base Hosting Afghan Evacuees",
+      "Fleeing Afghans Describe Horrors Experienced",
+      "Widow of US Soldier Slain in Afghanistan Speaks Out",
+      "Russia Begins Military Drills with Allies along Afghan Border",
+      "Afghan Women Lose Businesses as Taliban Bars Them from Work",
+      "Afghan Architect Describes How SIV Program Benefitted Her",
+      "US Military Veteran on Afghanistan: 'I Thought We'd Be There Forever'",
+      "Afghan Wheelchair Basketball Star Debuts in Spain After Fleeing Kabul",
+      "New US Refugee Program for Afghanistan Spurs Fears of Brain Drain",
+      "Race to Evacuate Continues as Hope Dwindles for At-risk Afghans",
+      "Biden: US Will Not Fight Afghanistan Civil War",
+      "Afghanistan Exit Pushes Congress to Repeal Presidential War Powers",
+      "Return Home 'Complicated' for Last Soldiers Deployed in Afghan War",
+      "Afghan Evacuees Processed at US Air Base",
+      "US Defense Secretary Talks China, Russia and Afghanistan at NATO",
+      "President Joe Biden Delivers Remarks on Afghanistan Evacuation",
+      "China Suggests US Will Treat Taiwan Like Afghanistan",
+      "Afghan City in Panic After News of Taliban Advance"
+    ],
+    "comments_per_video": {
+      "TuGz17aazA8": 11,
+      "-w1Rj2qaZu0": 5,
+      "Zhc1bhTF8jY": 31,
+      "5_9mIW5O3yA": 1687,
+      "hoBAriUzNxc": 14,
+      "wNn27fWJdiI": 0,
+      "oVI8y99BhiA": 33,
+      "ThvOZsBZYFM": 37,
+      "RfjVguY8Pqc": 32,
+      "dpkhPli6Qgk": 2,
+      "92HnFyGXg0c": 1,
+      "slbtUFcBmEs": 23,
+      "9t8hmOOU_qQ": 25,
+      "0eDRiNsUu-c": 8,
+      "ufreIJ55R1k": 7,
+      "rBpeJFWqXfg": 242,
+      "zzOTKqgj4e4": 0,
+      "vqovdJg7tqc": 45,
+      "D4h0tiAZ8YU": 20,
+      "RQMPasbiIgM": 5,
+      "A2SQbk-I7go": 15,
+      "3V7i5z6ko18": 158,
+      "U2B-zMHe29s": 17,
+      "5F88rNJcB-w": 10,
+      "7As34NlDiNQ": 9,
+      "EzA0xpQcNp0": 30,
+      "2Sq4DcUCqGA": 66,
+      "LxyHxbPo4kc": 22,
+      "ykSwbcp10XI": 5,
+      "FR90WJPVuXM": 13,
+      "EX-0-TBKPNI": 39,
+      "gLCPDMNC_v0": 10,
+      "W4hpX1pS51Q": 21,
+      "JNEgTraLCrs": 10,
+      "bOd_7e7iJ98": 11,
+      "44qiBEwK3iI": 11,
+      "fpdZyZ_L50Y": 9,
+      "AC7onb1fZiw": 11,
+      "AAOTTGx3e-k": 20,
+      "r9uF5EqvR-g": 11,
+      "IWNSYuF50tQ": 5,
+      "McIx1whc890": 53,
+      "dw8z2SpmXq0": 19,
+      "qwwgEM_CiUs": 6,
+      "SLREf6eCalI": 22,
+      "hYdci2gg4Wg": 185
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UCZaT_X_mc0BI-djXOlfhqWQ",
+    "token": "usr6ae0964f0d",
+    "n_posts": 43295,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCZaT_X_mc0BI-djXOlfhqWQ",
+    "channel_title": "VICE News",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 9,
+    "dataset_paths": [
+      "data/raw/afgh_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "BJuj9jQqbkw",
+      "CKP9g-1zLVA",
+      "HfXb_zWJsng",
+      "N4ppnIkFwsE",
+      "TxF7ywW0iRY",
+      "atUQb_8WsiE",
+      "ecMrNMUuPMM",
+      "kiJ1DQShbIM",
+      "vx3FO-pJr50"
+    ],
+    "video_titles": [
+      "Afghanistan Isn’t the End of America’s Forever Wars | The Couch Report",
+      "Why 20 Years of American Aid Couldn’t Fix Afghanistan’s Roads and Hospitals",
+      "Afghan Women Are Fighting Taliban Rule Despite Violent Suppression",
+      "Inside the Chaotic End of “Enduring Freedom” in Afghanistan | Source Material",
+      "Democrats Aren’t Buying Biden’s ‘Excuses’ in Afghanistan Withdrawal",
+      "Afghans Tell Us What It's Like to Watch the Taliban Takeover",
+      "Inside the Taliban's Takeover of Afghanistan",
+      "The US Airlifted Over 100K Afghans as Kabul Fell, Now What?",
+      "The Painful Reality of the US Withdrawal From Afghanistan, Told By Veterans"
+    ],
+    "comments_per_video": {
+      "TxF7ywW0iRY": 2063,
+      "CKP9g-1zLVA": 1826,
+      "HfXb_zWJsng": 1246,
+      "vx3FO-pJr50": 1626,
+      "BJuj9jQqbkw": 2241,
+      "N4ppnIkFwsE": 1991,
+      "atUQb_8WsiE": 26410,
+      "kiJ1DQShbIM": 1199,
+      "ecMrNMUuPMM": 4693
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UCcyq283he07B7_KUX07mmtA",
+    "token": "usr79f5949edb",
+    "n_posts": 2141,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCcyq283he07B7_KUX07mmtA",
+    "channel_title": "Business Insider",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 2,
+    "dataset_paths": [
+      "data/raw/afgh_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "Qmwj4dO50B0",
+      "hxv1-twWRGk"
+    ],
+    "video_titles": [
+      "Why MMA Fighters In Afghanistan Fear The Return Of The Taliban | Insider Docs",
+      "From Famous Actor To Refugee: How Life Changed For Afghanistan's Artists | Insider Docs"
+    ],
+    "comments_per_video": {
+      "hxv1-twWRGk": 2035,
+      "Qmwj4dO50B0": 106
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UCzuqE7-t13O4NIDYJfakrhw",
+    "token": "usr937a5dde5d",
+    "n_posts": 3511,
+    "label_majority": "news",
+    "targets": "",
+    "channel_id": "UCzuqE7-t13O4NIDYJfakrhw",
+    "channel_title": "Democracy Now!",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 15,
+    "dataset_paths": [
+      "data/raw/afgh_news_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "afgh_news_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "0Fnbj_iKSfE",
+      "2JZ7ibqm3QE",
+      "5pRtVB10X0Q",
+      "99Iew-e9Yis",
+      "EwsljGFe6to",
+      "IsDh_EFFurA",
+      "R-jgw1PfB_Q",
+      "ZEXIead0kcw",
+      "dvb1txZe3PY",
+      "hpKtOycY09U",
+      "iIPEvk8t2OE",
+      "kIzGE19y2oU",
+      "kmvCpB49yxw",
+      "xWKNMHE8NGs",
+      "z6DslCALWb0"
+    ],
+    "video_titles": [
+      "A Cycle of War Crimes: Today’s Crisis in Afghanistan Grew Out of 20 Years of U.S. War",
+      "Was Afghanistan the First “Feminist War”? The Role of “White Feminism” in the Longest U.S. War",
+      "Shared Grief After 9/11: Sister of WTC Victim Meets Afghan Who Lost 19 Family Members in U.S. Attack",
+      "“An Inquiry Needs to Take Place”: Jeremy Corbyn on Afghanistan & Preventing the Next War",
+      "“Disaster for Me and My Children”: Afghan Doctor Describes Escape from Kabul After Taliban Takeover",
+      "The Other Afghan Women: Rural Areas Hope Taliban Rule Will End Decades of U.S. & Warlord Violence",
+      "The Taliban’s Resurgence Was Years in Making & Aided by Trump, Who Sidelined Afghan Gov’t in Talks",
+      "Afghan Journalist Who Fled Kabul: Women Are “Hopeless” After U.S. War Ends With Taliban Takeover",
+      "U.S. Drone Killed 10 Afghans Including Aid Worker & 7 Kids After Water Jugs Were Mistaken as Bombs",
+      "Taliban Seizes Control of Afghanistan; Chaos at Kabul Airport as Thousands Attempt to Flee",
+      "“Massacre of My Dreams”: Afghan Reporter Bilal Sarwary on Fleeing Kabul, Afghanistan’s “Brain Drain”",
+      "Afghanistan Faces Future Under Taliban as U.S. Withdraws & Drone Strikes Continue to Kill Civilians",
+      "Sarah Chayes: Afghanistan Was an “Afterthought” for U.S. as Bush Was “Hellbent” on Invading Iraq",
+      "Rep. Barbara Lee, Sole Vote After 9/11 Against “Forever Wars,” on Need for Afghan War Inquiry",
+      "Peace Activist Kathy Kelly on Reparations for Afghanistan & What the U.S. Owes After Decades of War"
+    ],
+    "comments_per_video": {
+      "IsDh_EFFurA": 205,
+      "z6DslCALWb0": 206,
+      "0Fnbj_iKSfE": 100,
+      "ZEXIead0kcw": 486,
+      "dvb1txZe3PY": 117,
+      "5pRtVB10X0Q": 212,
+      "kIzGE19y2oU": 324,
+      "hpKtOycY09U": 287,
+      "R-jgw1PfB_Q": 438,
+      "iIPEvk8t2OE": 317,
+      "kmvCpB49yxw": 149,
+      "EwsljGFe6to": 149,
+      "xWKNMHE8NGs": 207,
+      "2JZ7ibqm3QE": 131,
+      "99Iew-e9Yis": 183
+    }
+  }
+]

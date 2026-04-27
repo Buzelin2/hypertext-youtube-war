@@ -1,0 +1,1161 @@
+[
+  {
+    "user_id": "iran_news::UC3ScyryU9Oy9Wse3a8OAmYQ",
+    "token": "usrdcd7dde03f",
+    "n_posts": 3773,
+    "channel_id": "UC3ScyryU9Oy9Wse3a8OAmYQ",
+    "channel_title": "FRONTLINE PBS | Official",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8358494639396667,
+        "p_perm": 0.08895552223888056,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.2670527994632721,
+        "p_perm": 0.6506746626686657,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.3581784963607788,
+        "p_perm": 0.49075462268865566,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1833021640777588,
+        "p_perm": 0.020989505247376312,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.67302006483078,
+        "p_perm": 0.2413793103448276,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.12248726934194565,
+        "p_perm": 0.8355822088955522,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UC52X5wxOL_s5yw0dQk7NtgA",
+    "token": "usr9eab3c7819",
+    "n_posts": 2382,
+    "channel_id": "UC52X5wxOL_s5yw0dQk7NtgA",
+    "channel_title": "Associated Press",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 10,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.836158812046051,
+        "p_perm": 0.12343828085957022,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.2713935077190399,
+        "p_perm": 0.6361819090454772,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.36101940274238586,
+        "p_perm": 0.5017491254372813,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1793935298919678,
+        "p_perm": 0.01699150424787606,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6663561463356018,
+        "p_perm": 0.24987506246876562,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.11257119476795197,
+        "p_perm": 0.8525737131434283,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UC8p1vwvWtl6T73JiExfWs1g",
+    "token": "usr99f76f5cf6",
+    "n_posts": 940,
+    "channel_id": "UC8p1vwvWtl6T73JiExfWs1g",
+    "channel_title": "CBS News",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 9,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8345438838005066,
+        "p_perm": 0.1024487756121939,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.2657563090324402,
+        "p_perm": 0.6491754122938531,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.36408108472824097,
+        "p_perm": 0.48575712143928035,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1759387254714966,
+        "p_perm": 0.02348825587206397,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6724703907966614,
+        "p_perm": 0.2433783108445777,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.11216453462839127,
+        "p_perm": 0.8465767116441779,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UC9k-yiEpRHMNVOnOi_aQK8w",
+    "token": "usrd5a011f81b",
+    "n_posts": 77,
+    "channel_id": "UC9k-yiEpRHMNVOnOi_aQK8w",
+    "channel_title": "Inside Edition",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8304285407066345,
+        "p_perm": 0.10494752623688156,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.28193405270576477,
+        "p_perm": 0.632183908045977,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.37950944900512695,
+        "p_perm": 0.4687656171914043,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1671591997146606,
+        "p_perm": 0.01999000499750125,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6603463888168335,
+        "p_perm": 0.2543728135932034,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.11890914291143417,
+        "p_perm": 0.8275862068965517,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCBi2mrWuNuyYy4gbM6fU18Q",
+    "token": "usr6463673c6a",
+    "n_posts": 1734,
+    "channel_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
+    "channel_title": "ABC News",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 4,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8335005044937134,
+        "p_perm": 0.10494752623688156,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.26459094882011414,
+        "p_perm": 0.6526736631684158,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.3605145812034607,
+        "p_perm": 0.5032483758120939,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1830077171325684,
+        "p_perm": 0.013493253373313344,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6693140268325806,
+        "p_perm": 0.24887556221889057,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.11500022560358047,
+        "p_perm": 0.8420789605197402,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCBu0KdNokE4MqdkacvH37_A",
+    "token": "usr2e6a75427d",
+    "n_posts": 389,
+    "channel_id": "UCBu0KdNokE4MqdkacvH37_A",
+    "channel_title": "WFAA",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8325401544570923,
+        "p_perm": 0.11294352823588207,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.26785808801651,
+        "p_perm": 0.638680659670165,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.36430901288986206,
+        "p_perm": 0.5077461269365318,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1741501092910767,
+        "p_perm": 0.017991004497751123,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6696880459785461,
+        "p_perm": 0.24387806096951525,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.11187698692083359,
+        "p_perm": 0.8390804597701149,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCCXoCcu9Rp7NPbTzIvogpZg",
+    "token": "usrb8819257a7",
+    "n_posts": 3147,
+    "channel_id": "UCCXoCcu9Rp7NPbTzIvogpZg",
+    "channel_title": "Fox Business",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 8,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.835681676864624,
+        "p_perm": 0.11344327836081959,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.26743313670158386,
+        "p_perm": 0.6401799100449775,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.36256542801856995,
+        "p_perm": 0.49725137431284355,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1754039525985718,
+        "p_perm": 0.013493253373313344,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6718489527702332,
+        "p_perm": 0.24687656171914044,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.11380790174007416,
+        "p_perm": 0.8510744627686156,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCIALMKvObZNtJ6AmdCLP7Lg",
+    "token": "usr759ce9f3ae",
+    "n_posts": 89,
+    "channel_id": "UCIALMKvObZNtJ6AmdCLP7Lg",
+    "channel_title": "Bloomberg Television",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 2,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8301196098327637,
+        "p_perm": 0.12093953023488256,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.27890339493751526,
+        "p_perm": 0.6271864067966016,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.38188859820365906,
+        "p_perm": 0.45177411294352826,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1632274389266968,
+        "p_perm": 0.022488755622188907,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.660723865032196,
+        "p_perm": 0.26186906546726635,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.11254400759935379,
+        "p_perm": 0.8390804597701149,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCJg9wBPyKMNA5sRDnvzmkdg",
+    "token": "usr454cd45dbe",
+    "n_posts": 2841,
+    "channel_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
+    "channel_title": "LiveNOW from FOX",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 8,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8355203866958618,
+        "p_perm": 0.10444777611194403,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.26839134097099304,
+        "p_perm": 0.6391804097951025,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.362499475479126,
+        "p_perm": 0.46676661669165415,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1790469884872437,
+        "p_perm": 0.017991004497751123,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6689820885658264,
+        "p_perm": 0.2563718140929535,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.11217913031578064,
+        "p_perm": 0.8490754622688655,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCK7tptUDHh-RYDsdxO1-5QQ",
+    "token": "usr570ff2224d",
+    "n_posts": 357,
+    "channel_id": "UCK7tptUDHh-RYDsdxO1-5QQ",
+    "channel_title": "The Wall Street Journal",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8337318897247314,
+        "p_perm": 0.1184407796101949,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.2710074484348297,
+        "p_perm": 0.6356821589205397,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.37029317021369934,
+        "p_perm": 0.487256371814093,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.17431640625,
+        "p_perm": 0.01699150424787606,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6649385690689087,
+        "p_perm": 0.24287856071964017,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.11107336729764938,
+        "p_perm": 0.8455772113943029,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCLXo7UDZvByw2ixzpQCufnA",
+    "token": "usr2d3c821dd4",
+    "n_posts": 24,
+    "channel_id": "UCLXo7UDZvByw2ixzpQCufnA",
+    "channel_title": "Vox",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8315198421478271,
+        "p_perm": 0.1089455272363818,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.28643906116485596,
+        "p_perm": 0.6206896551724138,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.38673850893974304,
+        "p_perm": 0.46976511744127936,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1629456281661987,
+        "p_perm": 0.019490254872563718,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6592684388160706,
+        "p_perm": 0.2748625687156422,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.1194080263376236,
+        "p_perm": 0.8435782108945528,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCP6HGa63sBC7-KHtkme-p-g",
+    "token": "usr891336997a",
+    "n_posts": 136,
+    "channel_id": "UCP6HGa63sBC7-KHtkme-p-g",
+    "channel_title": "USA TODAY",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 6,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8296588659286499,
+        "p_perm": 0.11544227886056972,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.27814236283302307,
+        "p_perm": 0.6066966516741629,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.3773964047431946,
+        "p_perm": 0.4892553723138431,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1705527305603027,
+        "p_perm": 0.0239880059970015,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6639153361320496,
+        "p_perm": 0.26636681659170414,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.11906888335943222,
+        "p_perm": 0.841079460269865,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCYI_ychRnL7sJrG6PUSBpQA",
+    "token": "usr80110ccde0",
+    "n_posts": 350,
+    "channel_id": "UCYI_ychRnL7sJrG6PUSBpQA",
+    "channel_title": "CBN News",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 3,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8428431749343872,
+        "p_perm": 0.10044977511244378,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.26966777443885803,
+        "p_perm": 0.6336831584207896,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.3616059422492981,
+        "p_perm": 0.5132433783108445,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1749638319015503,
+        "p_perm": 0.02348825587206397,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6633713245391846,
+        "p_perm": 0.26486756621689156,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.11803492158651352,
+        "p_perm": 0.8300849575212393,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCZaT_X_mc0BI-djXOlfhqWQ",
+    "token": "usredfbd1665e",
+    "n_posts": 369,
+    "channel_id": "UCZaT_X_mc0BI-djXOlfhqWQ",
+    "channel_title": "VICE News",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8362099528312683,
+        "p_perm": 0.10044977511244378,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.27009841799736023,
+        "p_perm": 0.6341829085457271,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.36782339215278625,
+        "p_perm": 0.47876061969015493,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1674041748046875,
+        "p_perm": 0.026986506746626688,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6704325079917908,
+        "p_perm": 0.2463768115942029,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.11469356715679169,
+        "p_perm": 0.847576211894053,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCcyq283he07B7_KUX07mmtA",
+    "token": "usrf7310a3ab3",
+    "n_posts": 345,
+    "channel_id": "UCcyq283he07B7_KUX07mmtA",
+    "channel_title": "Business Insider",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8371726274490356,
+        "p_perm": 0.10594702648675662,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.271477073431015,
+        "p_perm": 0.6336831584207896,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.3665679395198822,
+        "p_perm": 0.5087456271864068,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1722029447555542,
+        "p_perm": 0.021989005497251374,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6668016910552979,
+        "p_perm": 0.2623688155922039,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.11326009780168533,
+        "p_perm": 0.8390804597701149,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCg40OxZ1GYh3u3jBntB6DLg",
+    "token": "usr2940437db6",
+    "n_posts": 3566,
+    "channel_id": "UCg40OxZ1GYh3u3jBntB6DLg",
+    "channel_title": "Forbes Breaking News",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 24,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8368308544158936,
+        "p_perm": 0.11294352823588207,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.2678241431713104,
+        "p_perm": 0.6536731634182908,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.3646523058414459,
+        "p_perm": 0.47276361819090457,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.180403232574463,
+        "p_perm": 0.022988505747126436,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6703439950942993,
+        "p_perm": 0.2543728135932034,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.11392717808485031,
+        "p_perm": 0.8360819590204898,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCrvhNP_lWuPIP6QZzJmM-bw",
+    "token": "usr9c1f8733fc",
+    "n_posts": 1718,
+    "channel_id": "UCrvhNP_lWuPIP6QZzJmM-bw",
+    "channel_title": "New York Post",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8316927552223206,
+        "p_perm": 0.10794602698650675,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.26831960678100586,
+        "p_perm": 0.6306846576711644,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.36243388056755066,
+        "p_perm": 0.4897551224387806,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1763206720352173,
+        "p_perm": 0.01899050474762619,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6705728769302368,
+        "p_perm": 0.2353823088455772,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.10933670401573181,
+        "p_perm": 0.848575712143928,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCupvZG-5ko_eiXAupbDfxWw",
+    "token": "usr855b8075ee",
+    "n_posts": 25467,
+    "channel_id": "UCupvZG-5ko_eiXAupbDfxWw",
+    "channel_title": "CNN",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 7,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8349557518959045,
+        "p_perm": 0.09945027486256872,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.2678946852684021,
+        "p_perm": 0.6431784107946027,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.36153703927993774,
+        "p_perm": 0.5032483758120939,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1796423196792603,
+        "p_perm": 0.018490754622688656,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6713179349899292,
+        "p_perm": 0.25737131434282856,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.11478527635335922,
+        "p_perm": 0.8290854572713643,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCzuqE7-t13O4NIDYJfakrhw",
+    "token": "usr1de523eeef",
+    "n_posts": 1110,
+    "channel_id": "UCzuqE7-t13O4NIDYJfakrhw",
+    "channel_title": "Democracy Now!",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 3,
+    "pairs": {
+      "escalation_vs_restraint": {
+        "s": -0.8352996110916138,
+        "p_perm": 0.10594702648675662,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7654087543487549
+      },
+      "us_alignment_vs_anti_us": {
+        "s": -0.2652888596057892,
+        "p_perm": 0.6516741629185407,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.8754129409790039
+      },
+      "civilian_humanitarian_vs_military_geopolitics": {
+        "s": -0.360958069562912,
+        "p_perm": 0.49975012493753124,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7633686661720276
+      },
+      "alarmist_vs_analytic": {
+        "s": 1.1742463111877441,
+        "p_perm": 0.02148925537231384,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 8,
+        "n_neg_attr": 8,
+        "pair_centroid_cosine": 0.7465931177139282
+      },
+      "certainty_vs_hedge": {
+        "s": 0.6717592477798462,
+        "p_perm": 0.2513743128435782,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.7860755920410156
+      },
+      "propaganda_vs_verification": {
+        "s": 0.1109403669834137,
+        "p_perm": 0.8530734632683659,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 7,
+        "n_neg_attr": 7,
+        "pair_centroid_cosine": 0.762740969657898
+      }
+    }
+  }
+]

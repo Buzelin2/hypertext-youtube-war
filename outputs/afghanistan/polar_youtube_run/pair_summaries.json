@@ -1,0 +1,92 @@
+[
+  {
+    "pair": "biden_support_vs_biden_blame",
+    "n_users": 23,
+    "n_significant": 23,
+    "mean_s": -1.094494156215502,
+    "std_s": 0.0021776535598099947,
+    "min_s": -1.0971925258636475,
+    "max_s": -1.0880597829818726
+  },
+  {
+    "pair": "trump_support_vs_trump_blame",
+    "n_users": 23,
+    "n_significant": 0,
+    "mean_s": -0.6001782469127489,
+    "std_s": 0.003088426930511523,
+    "min_s": -0.6026633977890015,
+    "max_s": -0.5895804762840271
+  },
+  {
+    "pair": "us_support_vs_us_blame",
+    "n_users": 23,
+    "n_significant": 23,
+    "mean_s": -0.8770155466121176,
+    "std_s": 0.0029900919656379583,
+    "min_s": -0.8807623386383057,
+    "max_s": -0.8677145838737488
+  },
+  {
+    "pair": "iran_sympathy_vs_iran_blame",
+    "n_users": 23,
+    "n_significant": 0,
+    "mean_s": -0.5371228041856185,
+    "std_s": 0.0036647385153870723,
+    "min_s": -0.5411678552627563,
+    "max_s": -0.5265167355537415
+  },
+  {
+    "pair": "israel_support_vs_israel_blame",
+    "n_users": 23,
+    "n_significant": 0,
+    "mean_s": -0.6621773994487264,
+    "std_s": 0.004157039068920303,
+    "min_s": -0.6668962240219116,
+    "max_s": -0.6495118737220764
+  },
+  {
+    "pair": "taliban_condemnation_vs_taliban_normalization",
+    "n_users": 23,
+    "n_significant": 23,
+    "mean_s": 1.3606151497882346,
+    "std_s": 0.0016776908156011536,
+    "min_s": 1.3576937913894653,
+    "max_s": 1.365236759185791
+  },
+  {
+    "pair": "withdrawal_approval_vs_withdrawal_failure",
+    "n_users": 23,
+    "n_significant": 23,
+    "mean_s": -1.296481350193853,
+    "std_s": 0.0009229319831871807,
+    "min_s": -1.2983230352401733,
+    "max_s": -1.2944313287734985
+  },
+  {
+    "pair": "nato_support_vs_nato_blame",
+    "n_users": 23,
+    "n_significant": 0,
+    "mean_s": -0.5752271802529044,
+    "std_s": 0.005473333390115519,
+    "min_s": -0.5830807089805603,
+    "max_s": -0.5603125691413879
+  },
+  {
+    "pair": "sanctions_support_vs_sanctions_harm",
+    "n_users": 23,
+    "n_significant": 0,
+    "mean_s": -0.32209959626197815,
+    "std_s": 0.006896142864625899,
+    "min_s": -0.32808563113212585,
+    "max_s": -0.29772821068763733
+  },
+  {
+    "pair": "refugee_empathy_vs_refugee_burden",
+    "n_users": 23,
+    "n_significant": 0,
+    "mean_s": 0.7257009718729102,
+    "std_s": 0.002105867750940532,
+    "min_s": 0.7221279144287109,
+    "max_s": 0.7308117747306824
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "sentiment": {
+    "pos": [
+      "good",
+      "excellent",
+      "great",
+      "important",
+      "honest",
+      "happy",
+      "fair",
+      "positive",
+      "beneficial",
+      "trustworthy",
+      "hopeful",
+      "joyful",
+      "uplifting",
+      "kind",
+      "inspiring",
+      "optimistic",
+      "supportive",
+      "noble",
+      "caring"
+    ],
+    "neg": [
+      "bad",
+      "terrible",
+      "awful",
+      "unjust",
+      "dishonest",
+      "sad",
+      "negative",
+      "harmful",
+      "corrupt",
+      "deceptive",
+      "horrible",
+      "pathetic",
+      "worthless",
+      "miserable",
+      "hopeless",
+      "vile",
+      "disgusting",
+      "toxic",
+      "rotten"
+    ]
+  }
+}

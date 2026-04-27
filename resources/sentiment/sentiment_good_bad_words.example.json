@@ -1,0 +1,26 @@
+{
+  "good": [
+    "good",
+    "peaceful",
+    "legitimate",
+    "justified",
+    "responsible",
+    "stable",
+    "constructive",
+    "reasonable",
+    "positive",
+    "successful"
+  ],
+  "bad": [
+    "bad",
+    "dangerous",
+    "illegitimate",
+    "reckless",
+    "aggressive",
+    "unstable",
+    "destructive",
+    "extreme",
+    "negative",
+    "failed"
+  ]
+}

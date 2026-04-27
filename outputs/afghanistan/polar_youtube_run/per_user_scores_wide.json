@@ -1,0 +1,2141 @@
+[
+  {
+    "user_id": "afghanistan_influencers::UC-3jIAlnQmbbVMV6gR7K8aQ",
+    "token": "usr07d11af934",
+    "n_posts": 7028,
+    "channel_id": "UC-3jIAlnQmbbVMV6gR7K8aQ",
+    "channel_title": "The Majority Report w/ Sam Seder",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 26,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0954523086547852,
+        "p_perm": 0.005997001499250375,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6019890904426575,
+        "p_perm": 0.17391304347826086,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8762400150299072,
+        "p_perm": 0.03498250874562719,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5354316234588623,
+        "p_perm": 0.20539730134932535,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6611239910125732,
+        "p_perm": 0.11494252873563218,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3610186576843262,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2977548837661743,
+        "p_perm": 0.0004997501249375312,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5736312866210938,
+        "p_perm": 0.17841079460269865,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.31962740421295166,
+        "p_perm": 0.4482758620689655,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7240113615989685,
+        "p_perm": 0.095952023988006,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCCRNUa9EwvRXMYwUmDi3JtA",
+    "token": "usr1688bf1564",
+    "n_posts": 975,
+    "channel_id": "UCCRNUa9EwvRXMYwUmDi3JtA",
+    "channel_title": "Chad Prather",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0965101718902588,
+        "p_perm": 0.005997001499250375,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6021552681922913,
+        "p_perm": 0.13793103448275862,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8783499598503113,
+        "p_perm": 0.03498250874562719,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.540276288986206,
+        "p_perm": 0.19540229885057472,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6648953557014465,
+        "p_perm": 0.11444277861069466,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3598146438598633,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2965588569641113,
+        "p_perm": 0.0014992503748125937,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5811768174171448,
+        "p_perm": 0.1724137931034483,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.32808563113212585,
+        "p_perm": 0.4382808595702149,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7272270321846008,
+        "p_perm": 0.08345827086456771,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCD8YGIxFCnVqv-ZGqgtVWAg",
+    "token": "usr652924ad2b",
+    "n_posts": 6425,
+    "channel_id": "UCD8YGIxFCnVqv-ZGqgtVWAg",
+    "channel_title": "Erick Stakelbeck on TBN",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 7,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0943596363067627,
+        "p_perm": 0.009995002498750625,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.5992153882980347,
+        "p_perm": 0.14442778610694654,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8773968815803528,
+        "p_perm": 0.02948525737131434,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5392370223999023,
+        "p_perm": 0.1969015492253873,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6614513993263245,
+        "p_perm": 0.12343828085957022,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3604915142059326,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.29496431350708,
+        "p_perm": 0.0004997501249375312,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5720962285995483,
+        "p_perm": 0.18340829585207397,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.32310402393341064,
+        "p_perm": 0.4757621189405297,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7308117747306824,
+        "p_perm": 0.07646176911544228,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCIveFvW-ARp_B_RckhweNJw",
+    "token": "usr7e684bd028",
+    "n_posts": 3067,
+    "channel_id": "UCIveFvW-ARp_B_RckhweNJw",
+    "channel_title": "StevenCrowder",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 2,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0943329334259033,
+        "p_perm": 0.005997001499250375,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6000717282295227,
+        "p_perm": 0.15792103948025987,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8770683407783508,
+        "p_perm": 0.035982008995502246,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5367509722709656,
+        "p_perm": 0.20589705147426288,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6636181473731995,
+        "p_perm": 0.10144927536231885,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3611195087432861,
+        "p_perm": 0.0014992503748125937,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2958189249038696,
+        "p_perm": 0.0014992503748125937,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5768216252326965,
+        "p_perm": 0.16591704147926037,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.3247501254081726,
+        "p_perm": 0.45027486256871563,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7243148684501648,
+        "p_perm": 0.08995502248875563,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCJdKr0Bgd_5saZYqLCa9mng",
+    "token": "usr040c1b6e99",
+    "n_posts": 497,
+    "channel_id": "UCJdKr0Bgd_5saZYqLCa9mng",
+    "channel_title": "The Rubin Report",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0935237407684326,
+        "p_perm": 0.0079960019990005,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.5997880101203918,
+        "p_perm": 0.14992503748125938,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8757817149162292,
+        "p_perm": 0.035982008995502246,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5358918309211731,
+        "p_perm": 0.20189905047476261,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6611113548278809,
+        "p_perm": 0.11044477761119441,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3607598543167114,
+        "p_perm": 0.0004997501249375312,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2978113889694214,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5705782175064087,
+        "p_perm": 0.17491254372813594,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.3207360506057739,
+        "p_perm": 0.45177411294352826,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7221279144287109,
+        "p_perm": 0.08395802098950525,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCLdP3jmBYe9lAZQbY6OSYjw",
+    "token": "usr850c0e1cae",
+    "n_posts": 188,
+    "channel_id": "UCLdP3jmBYe9lAZQbY6OSYjw",
+    "channel_title": "Benny Johnson",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 6,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0892064571380615,
+        "p_perm": 0.0079960019990005,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.5918985605239868,
+        "p_perm": 0.14842578710644677,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8697180151939392,
+        "p_perm": 0.030984507746126936,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5280424356460571,
+        "p_perm": 0.2108945527236382,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6520078778266907,
+        "p_perm": 0.13193403298350825,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3645457029342651,
+        "p_perm": 0.0004997501249375312,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2970777750015259,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5670003890991211,
+        "p_perm": 0.1729135432283858,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.30432796478271484,
+        "p_perm": 0.4827586206896552,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7277015447616577,
+        "p_perm": 0.0814592703648176,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCQANb2YPwAtK-IQJrLaaUFw",
+    "token": "usr43e11acea6",
+    "n_posts": 9609,
+    "channel_id": "UCQANb2YPwAtK-IQJrLaaUFw",
+    "channel_title": "Brian Tyler Cohen",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 2,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0925076007843018,
+        "p_perm": 0.010994502748625687,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6001148819923401,
+        "p_perm": 0.16891554222888555,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8787115812301636,
+        "p_perm": 0.029985007496251874,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.534645140171051,
+        "p_perm": 0.20939530234882558,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6634836792945862,
+        "p_perm": 0.10344827586206896,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3610985279083252,
+        "p_perm": 0.0014992503748125937,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2966984510421753,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5810114741325378,
+        "p_perm": 0.16991504247876063,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.3259332776069641,
+        "p_perm": 0.4522738630684658,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7245000004768372,
+        "p_perm": 0.07096451774112944,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCaYw_yJ_YLPEv6zR2c7hgHA",
+    "token": "usr03bb9b266c",
+    "n_posts": 3658,
+    "channel_id": "UCaYw_yJ_YLPEv6zR2c7hgHA",
+    "channel_title": "The Officer Tatum",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0963186025619507,
+        "p_perm": 0.004997501249375313,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6010556817054749,
+        "p_perm": 0.16441779110444776,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.874850332736969,
+        "p_perm": 0.035982008995502246,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5365574359893799,
+        "p_perm": 0.21889055472263869,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6608466506004333,
+        "p_perm": 0.11494252873563218,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3593400716781616,
+        "p_perm": 0.0014992503748125937,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.296525001525879,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5698021650314331,
+        "p_perm": 0.16891554222888555,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.3232845664024353,
+        "p_perm": 0.4222888555722139,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7251955270767212,
+        "p_perm": 0.08195902048975512,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCeJGFZww0__Ln7OFfeYRs4w",
+    "token": "usrcb57975c99",
+    "n_posts": 700,
+    "channel_id": "UCeJGFZww0__Ln7OFfeYRs4w",
+    "channel_title": "Compound Media",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0953837633132935,
+        "p_perm": 0.009995002498750625,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6010199785232544,
+        "p_perm": 0.1374312843578211,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8784472346305847,
+        "p_perm": 0.037481259370314844,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5407471060752869,
+        "p_perm": 0.20189905047476261,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6645691394805908,
+        "p_perm": 0.10944527736131934,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.36170494556427,
+        "p_perm": 0.0004997501249375312,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2962433099746704,
+        "p_perm": 0.0004997501249375312,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5739783048629761,
+        "p_perm": 0.1774112943528236,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.3237181305885315,
+        "p_perm": 0.4447776111944028,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7244419455528259,
+        "p_perm": 0.079960019990005,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UClFSU9_bUb4Rc6OYfTt5SPw",
+    "token": "usrd141476369",
+    "n_posts": 15611,
+    "channel_id": "UClFSU9_bUb4Rc6OYfTt5SPw",
+    "channel_title": "Philip DeFranco",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0944632291793823,
+        "p_perm": 0.004997501249375313,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6020631194114685,
+        "p_perm": 0.1504247876061969,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8781806230545044,
+        "p_perm": 0.03298350824587706,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5383937358856201,
+        "p_perm": 0.20789605197401298,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6658248901367188,
+        "p_perm": 0.11594202898550725,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3617390394210815,
+        "p_perm": 0.0004997501249375312,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2959926128387451,
+        "p_perm": 0.0004997501249375312,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5830807089805603,
+        "p_perm": 0.1619190404797601,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.3258443772792816,
+        "p_perm": 0.42278860569715143,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7229930758476257,
+        "p_perm": 0.08295852073963018,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCnQC_G5Xsjhp9fEJKuIcrSw",
+    "token": "usr067e1a7860",
+    "n_posts": 71485,
+    "channel_id": "UCnQC_G5Xsjhp9fEJKuIcrSw",
+    "channel_title": "Ben Shapiro",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 22,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0971925258636475,
+        "p_perm": 0.008995502248875561,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6026331782341003,
+        "p_perm": 0.14942528735632185,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8763182759284973,
+        "p_perm": 0.028985507246376812,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5350134372711182,
+        "p_perm": 0.20389805097451275,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.658008337020874,
+        "p_perm": 0.11094452773613193,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3597556352615356,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2983230352401733,
+        "p_perm": 0.0004997501249375312,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5716210603713989,
+        "p_perm": 0.18490754622688654,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.32192420959472656,
+        "p_perm": 0.43278360819590206,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7223580479621887,
+        "p_perm": 0.06996501749125437,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCtoaZpBnrd0lhycxYJ4MNOQ",
+    "token": "usr29f09302d7",
+    "n_posts": 3638,
+    "channel_id": "UCtoaZpBnrd0lhycxYJ4MNOQ",
+    "channel_title": "HasanAbi",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.094286561012268,
+        "p_perm": 0.0074962518740629685,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6021075248718262,
+        "p_perm": 0.16391804097951024,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8793140053749084,
+        "p_perm": 0.03648175912043978,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5388432145118713,
+        "p_perm": 0.19440279860069964,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6655625700950623,
+        "p_perm": 0.11594202898550725,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3603848218917847,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2962700128555298,
+        "p_perm": 0.0004997501249375312,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5782318115234375,
+        "p_perm": 0.16441779110444776,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.325697124004364,
+        "p_perm": 0.4302848575712144,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7243600487709045,
+        "p_perm": 0.08295852073963018,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCvixJtaXuNdMPUGdOPcY8Ag",
+    "token": "usr871f13eb1e",
+    "n_posts": 8075,
+    "channel_id": "UCvixJtaXuNdMPUGdOPcY8Ag",
+    "channel_title": "David Pakman Show",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 16,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0970215797424316,
+        "p_perm": 0.0069965017491254375,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6017041802406311,
+        "p_perm": 0.16041979010494753,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8762792944908142,
+        "p_perm": 0.026986506746626688,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5356500744819641,
+        "p_perm": 0.2368815592203898,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6615428328514099,
+        "p_perm": 0.11394302848575712,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3603609800338745,
+        "p_perm": 0.0004997501249375312,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2969824075698853,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.574149489402771,
+        "p_perm": 0.16891554222888555,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.3226783573627472,
+        "p_perm": 0.4482758620689655,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7234748005867004,
+        "p_perm": 0.08345827086456771,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_influencers::UCx_2Vso6Qz76n-w5KV8DZcA",
+    "token": "usr1912468e49",
+    "n_posts": 191,
+    "channel_id": "UCx_2Vso6Qz76n-w5KV8DZcA",
+    "channel_title": "Allie Beth Stuckey",
+    "group_label": "afghanistan_influencers",
+    "corpus": "afghanistan",
+    "source_kind": "influencer",
+    "n_videos": 2,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0880597829818726,
+        "p_perm": 0.005497251374312844,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.5895804762840271,
+        "p_perm": 0.16841579210394803,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8677145838737488,
+        "p_perm": 0.035982008995502246,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5265167355537415,
+        "p_perm": 0.2143928035982009,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6495118737220764,
+        "p_perm": 0.12593703148425786,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.365236759185791,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.297688364982605,
+        "p_perm": 0.0024987506246876563,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5603125691413879,
+        "p_perm": 0.1744127936031984,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.29772821068763733,
+        "p_perm": 0.4847576211894053,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7285378575325012,
+        "p_perm": 0.08845577211394302,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UC3ScyryU9Oy9Wse3a8OAmYQ",
+    "token": "usrf626d5e9cb",
+    "n_posts": 492,
+    "channel_id": "UC3ScyryU9Oy9Wse3a8OAmYQ",
+    "channel_title": "FRONTLINE PBS | Official",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 1,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0944076776504517,
+        "p_perm": 0.010994502748625687,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.5998021364212036,
+        "p_perm": 0.15342328835582209,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8779398202896118,
+        "p_perm": 0.027486256871564217,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5367830991744995,
+        "p_perm": 0.2063968015992004,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6635590195655823,
+        "p_perm": 0.11494252873563218,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.35844886302948,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2949148416519165,
+        "p_perm": 0.0004997501249375312,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5816144347190857,
+        "p_perm": 0.17791104447776113,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.3261382579803467,
+        "p_perm": 0.4657671164417791,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7258257865905762,
+        "p_perm": 0.07796101949025487,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UC9k-yiEpRHMNVOnOi_aQK8w",
+    "token": "usrb72cba4b3d",
+    "n_posts": 6184,
+    "channel_id": "UC9k-yiEpRHMNVOnOi_aQK8w",
+    "channel_title": "Inside Edition",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 4,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.095827341079712,
+        "p_perm": 0.005997001499250375,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6010154485702515,
+        "p_perm": 0.1519240379810095,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.877841591835022,
+        "p_perm": 0.03648175912043978,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5394447445869446,
+        "p_perm": 0.20689655172413793,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6630682945251465,
+        "p_perm": 0.11944027986006997,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3592923879623413,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2967103719711304,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5741452574729919,
+        "p_perm": 0.18690654672663667,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.32184138894081116,
+        "p_perm": 0.45027486256871563,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.727015495300293,
+        "p_perm": 0.08495752123938032,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UCJg9wBPyKMNA5sRDnvzmkdg",
+    "token": "usrce7088625a",
+    "n_posts": 4507,
+    "channel_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
+    "channel_title": "LiveNOW from FOX",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 18,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.096279263496399,
+        "p_perm": 0.004497751124437781,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6006532907485962,
+        "p_perm": 0.15442278860569716,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8756754994392395,
+        "p_perm": 0.02948525737131434,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5354529619216919,
+        "p_perm": 0.19990004997501248,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6600455045700073,
+        "p_perm": 0.1184407796101949,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3620998859405518,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2965664863586426,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.575457751750946,
+        "p_perm": 0.17191404297851073,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.32728463411331177,
+        "p_perm": 0.43728135932033985,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7271093130111694,
+        "p_perm": 0.09195402298850575,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UCK7tptUDHh-RYDsdxO1-5QQ",
+    "token": "usr84e51a45fc",
+    "n_posts": 4589,
+    "channel_id": "UCK7tptUDHh-RYDsdxO1-5QQ",
+    "channel_title": "The Wall Street Journal",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 4,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0941814184188843,
+        "p_perm": 0.008995502248875561,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6026633977890015,
+        "p_perm": 0.15342328835582209,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8798935413360596,
+        "p_perm": 0.03798100949525238,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5389670133590698,
+        "p_perm": 0.19790104947526238,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6660899519920349,
+        "p_perm": 0.1184407796101949,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.360048532485962,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.29689621925354,
+        "p_perm": 0.0014992503748125937,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5774229168891907,
+        "p_perm": 0.16091954022988506,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.3250688910484314,
+        "p_perm": 0.4332833583208396,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7274097204208374,
+        "p_perm": 0.08745627186406797,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UCLXo7UDZvByw2ixzpQCufnA",
+    "token": "usr3b75c00d0d",
+    "n_posts": 3634,
+    "channel_id": "UCLXo7UDZvByw2ixzpQCufnA",
+    "channel_title": "Vox",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 1,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0952650308609009,
+        "p_perm": 0.004497751124437781,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6022219061851501,
+        "p_perm": 0.16941529235382308,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8807623386383057,
+        "p_perm": 0.02448775612193903,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5406437516212463,
+        "p_perm": 0.1934032983508246,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6662980318069458,
+        "p_perm": 0.11094452773613193,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3576937913894653,
+        "p_perm": 0.0004997501249375312,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2961345911026,
+        "p_perm": 0.0024987506246876563,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5801061391830444,
+        "p_perm": 0.1729135432283858,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.32516059279441833,
+        "p_perm": 0.4357821089455272,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7272461652755737,
+        "p_perm": 0.08595702148925537,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UCVSNOxehfALut52NbkfRBaA",
+    "token": "usrf037396953",
+    "n_posts": 3016,
+    "channel_id": "UCVSNOxehfALut52NbkfRBaA",
+    "channel_title": "Voice of America",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 46,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0958170890808105,
+        "p_perm": 0.0074962518740629685,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6001455187797546,
+        "p_perm": 0.1489255372313843,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8793287873268127,
+        "p_perm": 0.03648175912043978,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5411678552627563,
+        "p_perm": 0.1984007996001999,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6668962240219116,
+        "p_perm": 0.11894052973513243,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3602815866470337,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2944313287734985,
+        "p_perm": 0.0024987506246876563,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5805867910385132,
+        "p_perm": 0.17641179410294852,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.3248865604400635,
+        "p_perm": 0.4737631184407796,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7280697226524353,
+        "p_perm": 0.08245877061469266,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UCZaT_X_mc0BI-djXOlfhqWQ",
+    "token": "usr6ae0964f0d",
+    "n_posts": 43295,
+    "channel_id": "UCZaT_X_mc0BI-djXOlfhqWQ",
+    "channel_title": "VICE News",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 9,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0930513143539429,
+        "p_perm": 0.004997501249375313,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6006249189376831,
+        "p_perm": 0.14342828585707146,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8786372542381287,
+        "p_perm": 0.033483258370814596,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5401595234870911,
+        "p_perm": 0.18140929535232383,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6625405550003052,
+        "p_perm": 0.1184407796101949,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.360315203666687,
+        "p_perm": 0.0014992503748125937,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2966879606246948,
+        "p_perm": 0.001999000499750125,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5744295120239258,
+        "p_perm": 0.18140929535232383,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.32222801446914673,
+        "p_perm": 0.4492753623188406,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7250787615776062,
+        "p_perm": 0.08045977011494253,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UCcyq283he07B7_KUX07mmtA",
+    "token": "usr79f5949edb",
+    "n_posts": 2141,
+    "channel_id": "UCcyq283he07B7_KUX07mmtA",
+    "channel_title": "Business Insider",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 2,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0939502716064453,
+        "p_perm": 0.005497251374312844,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6001710891723633,
+        "p_perm": 0.1729135432283858,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.8766148090362549,
+        "p_perm": 0.030484757621189407,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.5406642556190491,
+        "p_perm": 0.1924037981009495,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6633127331733704,
+        "p_perm": 0.11244377811094453,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.358799695968628,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2962486743927002,
+        "p_perm": 0.0014992503748125937,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5703818798065186,
+        "p_perm": 0.1714142928535732,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.3220342695713043,
+        "p_perm": 0.463768115942029,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.7252233028411865,
+        "p_perm": 0.08245877061469266,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  },
+  {
+    "user_id": "afghanistan_news::UCzuqE7-t13O4NIDYJfakrhw",
+    "token": "usr937a5dde5d",
+    "n_posts": 3511,
+    "channel_id": "UCzuqE7-t13O4NIDYJfakrhw",
+    "channel_title": "Democracy Now!",
+    "group_label": "afghanistan_news",
+    "corpus": "afghanistan",
+    "source_kind": "news",
+    "n_videos": 15,
+    "pairs": {
+      "biden_support_vs_biden_blame": {
+        "s": -1.0959672927856445,
+        "p_perm": 0.009495252373813094,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9526149034500122
+      },
+      "trump_support_vs_trump_blame": {
+        "s": -0.6014049053192139,
+        "p_perm": 0.1519240379810095,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9520484805107117
+      },
+      "us_support_vs_us_blame": {
+        "s": -0.880293071269989,
+        "p_perm": 0.03298350824587706,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9111531972885132
+      },
+      "iran_sympathy_vs_iran_blame": {
+        "s": -0.538544237613678,
+        "p_perm": 0.19390304847576212,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9558449387550354
+      },
+      "israel_support_vs_israel_blame": {
+        "s": -0.6647117733955383,
+        "p_perm": 0.11494252873563218,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9469953179359436
+      },
+      "taliban_condemnation_vs_taliban_normalization": {
+        "s": 1.3597978353500366,
+        "p_perm": 0.0004997501249375312,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.8942263722419739
+      },
+      "withdrawal_approval_vs_withdrawal_failure": {
+        "s": -1.2957712411880493,
+        "p_perm": 0.0009995002498750624,
+        "signif_bh_fdr_0.05": true,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.7937639355659485
+      },
+      "nato_support_vs_nato_blame": {
+        "s": -0.5825883150100708,
+        "p_perm": 0.16141929035482258,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9401170015335083
+      },
+      "sanctions_support_vs_sanctions_harm": {
+        "s": -0.3262086510658264,
+        "p_perm": 0.4332833583208396,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9599661827087402
+      },
+      "refugee_empathy_vs_refugee_burden": {
+        "s": 0.726088285446167,
+        "p_perm": 0.08745627186406797,
+        "signif_bh_fdr_0.05": false,
+        "n_pos_attr": 12,
+        "n_neg_attr": 12,
+        "pair_centroid_cosine": 0.9088437557220459
+      }
+    }
+  }
+]

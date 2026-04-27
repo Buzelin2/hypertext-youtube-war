@@ -1,0 +1,2 @@
+*.pdf binary
+outputs/**/model/tokenizer.json linguist-generated=true

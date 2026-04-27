@@ -1,0 +1,62 @@
+{
+  "trump": {
+    "label": "Trump",
+    "group": "leader",
+    "description": "Direct channel proximity to Trump-centered language.",
+    "terms": ["trump"]
+  },
+  "biden": {
+    "label": "Biden",
+    "group": "leader",
+    "description": "Direct channel proximity to Biden-centered language.",
+    "terms": ["biden"]
+  },
+  "war": {
+    "label": "War",
+    "group": "theme",
+    "description": "General war framing.",
+    "terms": ["war"]
+  },
+  "peace": {
+    "label": "Peace",
+    "group": "theme",
+    "description": "General peace and de-escalation framing.",
+    "terms": ["peace"]
+  },
+  "iran": {
+    "label": "Iran",
+    "group": "country",
+    "description": "Direct proximity to Iran-related language.",
+    "terms": ["iran"]
+  },
+  "israel": {
+    "label": "Israel",
+    "group": "country",
+    "description": "Direct proximity to Israel-related language.",
+    "terms": ["israel"]
+  },
+  "taliban": {
+    "label": "Taliban",
+    "group": "actor",
+    "description": "Direct proximity to Taliban-related language.",
+    "terms": ["taliban"]
+  },
+  "nato": {
+    "label": "NATO",
+    "group": "institution",
+    "description": "Direct proximity to NATO-related language.",
+    "terms": ["nato"]
+  },
+  "sanctions": {
+    "label": "Sanctions",
+    "group": "policy",
+    "description": "General sanctions framing.",
+    "terms": ["sanctions"]
+  },
+  "withdrawal": {
+    "label": "Withdrawal",
+    "group": "policy",
+    "description": "Withdrawal/end-of-war framing.",
+    "terms": ["withdrawal", "troops home", "leave afghanistan"]
+  }
+}

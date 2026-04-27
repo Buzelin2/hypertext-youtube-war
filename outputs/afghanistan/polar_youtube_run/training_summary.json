@@ -1,0 +1,12 @@
+{
+  "out_dir": "./outputs/afghanistan/polar_youtube_run",
+  "model_dir": "./outputs/afghanistan/polar_youtube_run/model",
+  "n_users": 23,
+  "n_samples": 202516,
+  "base_model": "bert-base-uncased",
+  "device": "cuda",
+  "epochs": 4,
+  "batch_size": 128,
+  "users_per_batch": 23,
+  "seed": 42
+}

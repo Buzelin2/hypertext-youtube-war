@@ -1,0 +1,337 @@
+[
+  {
+    "topic": "iran",
+    "label": "Iran",
+    "description": "Iran-centered topic bag.",
+    "group": "country",
+    "topic_terms": [
+      "iran",
+      "iranian"
+    ],
+    "n_pos_phrases": 76,
+    "n_neg_phrases": 76,
+    "phrase_templates": [
+      "{attr} {term}",
+      "{term} is {attr}"
+    ],
+    "centroid_cosine": 0.9732938408851624,
+    "pos_phrases_sample": [
+      "good iran",
+      "iran is good",
+      "excellent iran",
+      "iran is excellent",
+      "great iran",
+      "iran is great",
+      "important iran",
+      "iran is important",
+      "honest iran",
+      "iran is honest"
+    ],
+    "neg_phrases_sample": [
+      "bad iran",
+      "iran is bad",
+      "terrible iran",
+      "iran is terrible",
+      "awful iran",
+      "iran is awful",
+      "unjust iran",
+      "iran is unjust",
+      "dishonest iran",
+      "iran is dishonest"
+    ]
+  },
+  {
+    "topic": "afghanistan",
+    "label": "Afghanistan",
+    "description": "Afghanistan-centered topic bag.",
+    "group": "country",
+    "topic_terms": [
+      "afghanistan",
+      "afghan"
+    ],
+    "n_pos_phrases": 76,
+    "n_neg_phrases": 76,
+    "phrase_templates": [
+      "{attr} {term}",
+      "{term} is {attr}"
+    ],
+    "centroid_cosine": 0.9741553664207458,
+    "pos_phrases_sample": [
+      "good afghanistan",
+      "afghanistan is good",
+      "excellent afghanistan",
+      "afghanistan is excellent",
+      "great afghanistan",
+      "afghanistan is great",
+      "important afghanistan",
+      "afghanistan is important",
+      "honest afghanistan",
+      "afghanistan is honest"
+    ],
+    "neg_phrases_sample": [
+      "bad afghanistan",
+      "afghanistan is bad",
+      "terrible afghanistan",
+      "afghanistan is terrible",
+      "awful afghanistan",
+      "afghanistan is awful",
+      "unjust afghanistan",
+      "afghanistan is unjust",
+      "dishonest afghanistan",
+      "afghanistan is dishonest"
+    ]
+  },
+  {
+    "topic": "trump",
+    "label": "Trump",
+    "description": "Trump-centered topic bag.",
+    "group": "leader",
+    "topic_terms": [
+      "trump",
+      "donald",
+      "trumpism"
+    ],
+    "n_pos_phrases": 114,
+    "n_neg_phrases": 114,
+    "phrase_templates": [
+      "{attr} {term}",
+      "{term} is {attr}"
+    ],
+    "centroid_cosine": 0.9763364195823669,
+    "pos_phrases_sample": [
+      "good trump",
+      "trump is good",
+      "excellent trump",
+      "trump is excellent",
+      "great trump",
+      "trump is great",
+      "important trump",
+      "trump is important",
+      "honest trump",
+      "trump is honest"
+    ],
+    "neg_phrases_sample": [
+      "bad trump",
+      "trump is bad",
+      "terrible trump",
+      "trump is terrible",
+      "awful trump",
+      "trump is awful",
+      "unjust trump",
+      "trump is unjust",
+      "dishonest trump",
+      "trump is dishonest"
+    ]
+  },
+  {
+    "topic": "biden",
+    "label": "Biden",
+    "description": "Biden-centered topic bag.",
+    "group": "leader",
+    "topic_terms": [
+      "biden",
+      "joe"
+    ],
+    "n_pos_phrases": 76,
+    "n_neg_phrases": 76,
+    "phrase_templates": [
+      "{attr} {term}",
+      "{term} is {attr}"
+    ],
+    "centroid_cosine": 0.9769191741943359,
+    "pos_phrases_sample": [
+      "good biden",
+      "biden is good",
+      "excellent biden",
+      "biden is excellent",
+      "great biden",
+      "biden is great",
+      "important biden",
+      "biden is important",
+      "honest biden",
+      "biden is honest"
+    ],
+    "neg_phrases_sample": [
+      "bad biden",
+      "biden is bad",
+      "terrible biden",
+      "biden is terrible",
+      "awful biden",
+      "biden is awful",
+      "unjust biden",
+      "biden is unjust",
+      "dishonest biden",
+      "biden is dishonest"
+    ]
+  },
+  {
+    "topic": "war",
+    "label": "War",
+    "description": "War and escalation framing.",
+    "group": "theme",
+    "topic_terms": [
+      "war",
+      "wars",
+      "conflict",
+      "conflicts"
+    ],
+    "n_pos_phrases": 152,
+    "n_neg_phrases": 152,
+    "phrase_templates": [
+      "{attr} {term}",
+      "{term} is {attr}"
+    ],
+    "centroid_cosine": 0.970221996307373,
+    "pos_phrases_sample": [
+      "good war",
+      "war is good",
+      "excellent war",
+      "war is excellent",
+      "great war",
+      "war is great",
+      "important war",
+      "war is important",
+      "honest war",
+      "war is honest"
+    ],
+    "neg_phrases_sample": [
+      "bad war",
+      "war is bad",
+      "terrible war",
+      "war is terrible",
+      "awful war",
+      "war is awful",
+      "unjust war",
+      "war is unjust",
+      "dishonest war",
+      "war is dishonest"
+    ]
+  },
+  {
+    "topic": "peace",
+    "label": "Peace",
+    "description": "Peace and de-escalation framing.",
+    "group": "theme",
+    "topic_terms": [
+      "peace",
+      "peaceful",
+      "ceasefire"
+    ],
+    "n_pos_phrases": 114,
+    "n_neg_phrases": 114,
+    "phrase_templates": [
+      "{attr} {term}",
+      "{term} is {attr}"
+    ],
+    "centroid_cosine": 0.971097469329834,
+    "pos_phrases_sample": [
+      "good peace",
+      "peace is good",
+      "excellent peace",
+      "peace is excellent",
+      "great peace",
+      "peace is great",
+      "important peace",
+      "peace is important",
+      "honest peace",
+      "peace is honest"
+    ],
+    "neg_phrases_sample": [
+      "bad peace",
+      "peace is bad",
+      "terrible peace",
+      "peace is terrible",
+      "awful peace",
+      "peace is awful",
+      "unjust peace",
+      "peace is unjust",
+      "dishonest peace",
+      "peace is dishonest"
+    ]
+  },
+  {
+    "topic": "america",
+    "label": "America",
+    "description": "United States-centered topic bag.",
+    "group": "country",
+    "topic_terms": [
+      "america",
+      "american",
+      "americans",
+      "usa"
+    ],
+    "n_pos_phrases": 152,
+    "n_neg_phrases": 152,
+    "phrase_templates": [
+      "{attr} {term}",
+      "{term} is {attr}"
+    ],
+    "centroid_cosine": 0.9696685075759888,
+    "pos_phrases_sample": [
+      "good america",
+      "america is good",
+      "excellent america",
+      "america is excellent",
+      "great america",
+      "america is great",
+      "important america",
+      "america is important",
+      "honest america",
+      "america is honest"
+    ],
+    "neg_phrases_sample": [
+      "bad america",
+      "america is bad",
+      "terrible america",
+      "america is terrible",
+      "awful america",
+      "america is awful",
+      "unjust america",
+      "america is unjust",
+      "dishonest america",
+      "america is dishonest"
+    ]
+  },
+  {
+    "topic": "terror",
+    "label": "Terror",
+    "description": "Terrorism and extremism framing.",
+    "group": "theme",
+    "topic_terms": [
+      "terror",
+      "terrorist",
+      "terrorism"
+    ],
+    "n_pos_phrases": 114,
+    "n_neg_phrases": 114,
+    "phrase_templates": [
+      "{attr} {term}",
+      "{term} is {attr}"
+    ],
+    "centroid_cosine": 0.9736456871032715,
+    "pos_phrases_sample": [
+      "good terror",
+      "terror is good",
+      "excellent terror",
+      "terror is excellent",
+      "great terror",
+      "terror is great",
+      "important terror",
+      "terror is important",
+      "honest terror",
+      "terror is honest"
+    ],
+    "neg_phrases_sample": [
+      "bad terror",
+      "terror is bad",
+      "terrible terror",
+      "terror is terrible",
+      "awful terror",
+      "terror is awful",
+      "unjust terror",
+      "terror is unjust",
+      "dishonest terror",
+      "terror is dishonest"
+    ]
+  }
+]

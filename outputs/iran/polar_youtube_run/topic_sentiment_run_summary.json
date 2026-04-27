@@ -1,0 +1,23 @@
+{
+  "out_dir": "./outputs/iran/polar_youtube_run",
+  "model_dir": "./outputs/iran/polar_youtube_run/model",
+  "topics_path": "./resources/topics/topics_war_youtube.example.json",
+  "attributes_path": "./resources/attributes/sentiment_words.example.json",
+  "attribute_pair": "sentiment",
+  "phrase_templates": [
+    "{attr} {term}",
+    "{term} is {attr}"
+  ],
+  "n_users_requested": 37,
+  "n_users_scored": 37,
+  "n_topics_requested": 8,
+  "n_topics_scored": 8,
+  "n_missing_user_tokens": 0,
+  "missing_user_tokens": [],
+  "files": {
+    "per_user_topic_sentiment_scores_json": "./outputs/iran/polar_youtube_run/per_user_topic_sentiment_scores.json",
+    "per_user_topic_sentiment_scores_csv": "./outputs/iran/polar_youtube_run/per_user_topic_sentiment_scores.csv",
+    "topic_sentiment_summaries_json": "./outputs/iran/polar_youtube_run/topic_sentiment_summaries.json",
+    "topic_sentiment_diagnostics_json": "./outputs/iran/polar_youtube_run/topic_sentiment_diagnostics.json"
+  }
+}

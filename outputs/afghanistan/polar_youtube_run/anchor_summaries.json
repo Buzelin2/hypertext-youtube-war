@@ -1,0 +1,92 @@
+[
+  {
+    "anchor": "trump",
+    "n_users": 23,
+    "mean_cosine_similarity": 0.5730605851049009,
+    "std_cosine_similarity": 0.0005415974938304635,
+    "min_cosine_similarity": 0.5719699859619141,
+    "max_cosine_similarity": 0.5742238759994507,
+    "mean_cosine_distance": 0.4269394148950991
+  },
+  {
+    "anchor": "biden",
+    "n_users": 23,
+    "mean_cosine_similarity": 0.61759505842043,
+    "std_cosine_similarity": 0.0010487935455042348,
+    "min_cosine_similarity": 0.6162704229354858,
+    "max_cosine_similarity": 0.6209136247634888,
+    "mean_cosine_distance": 0.38240494157956995
+  },
+  {
+    "anchor": "war",
+    "n_users": 23,
+    "mean_cosine_similarity": 0.33957954075025476,
+    "std_cosine_similarity": 0.0007987044555190346,
+    "min_cosine_similarity": 0.3382909893989563,
+    "max_cosine_similarity": 0.3413581848144531,
+    "mean_cosine_distance": 0.6604204592497452
+  },
+  {
+    "anchor": "peace",
+    "n_users": 23,
+    "mean_cosine_similarity": 0.43160301446914673,
+    "std_cosine_similarity": 0.0008948522850936681,
+    "min_cosine_similarity": 0.43013355135917664,
+    "max_cosine_similarity": 0.4337639808654785,
+    "mean_cosine_distance": 0.5683969855308533
+  },
+  {
+    "anchor": "iran",
+    "n_users": 23,
+    "mean_cosine_similarity": 0.5978071689605713,
+    "std_cosine_similarity": 0.0013193969963228062,
+    "min_cosine_similarity": 0.5960891842842102,
+    "max_cosine_similarity": 0.6010935306549072,
+    "mean_cosine_distance": 0.4021928310394287
+  },
+  {
+    "anchor": "israel",
+    "n_users": 23,
+    "mean_cosine_similarity": 0.5384850838909978,
+    "std_cosine_similarity": 0.0011409396825578912,
+    "min_cosine_similarity": 0.5367252826690674,
+    "max_cosine_similarity": 0.540830671787262,
+    "mean_cosine_distance": 0.46151491610900214
+  },
+  {
+    "anchor": "taliban",
+    "n_users": 23,
+    "mean_cosine_similarity": 0.676900415316872,
+    "std_cosine_similarity": 0.0012078642309999504,
+    "min_cosine_similarity": 0.6750392913818359,
+    "max_cosine_similarity": 0.6796903610229492,
+    "mean_cosine_distance": 0.32309958468312805
+  },
+  {
+    "anchor": "nato",
+    "n_users": 23,
+    "mean_cosine_similarity": 0.628339215465214,
+    "std_cosine_similarity": 0.0007950154307766957,
+    "min_cosine_similarity": 0.627168595790863,
+    "max_cosine_similarity": 0.6303237676620483,
+    "mean_cosine_distance": 0.37166078453478607
+  },
+  {
+    "anchor": "sanctions",
+    "n_users": 23,
+    "mean_cosine_similarity": 0.7050607489502948,
+    "std_cosine_similarity": 0.0015313522002783088,
+    "min_cosine_similarity": 0.703594446182251,
+    "max_cosine_similarity": 0.7100129127502441,
+    "mean_cosine_distance": 0.2949392510497052
+  },
+  {
+    "anchor": "withdrawal",
+    "n_users": 23,
+    "mean_cosine_similarity": 0.7674243165099103,
+    "std_cosine_similarity": 0.0012723621736360942,
+    "min_cosine_similarity": 0.7662487626075745,
+    "max_cosine_similarity": 0.7715630531311035,
+    "mean_cosine_distance": 0.23257568349008975
+  }
+]

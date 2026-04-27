@@ -1,0 +1,9 @@
+{
+  "out_dir": "../../outputs/afghanistan/polar_youtube_run",
+  "topics_path": "../../resources/topics/topics_war_youtube.example.json",
+  "usr_prefix_fallback": "usr",
+  "min_posts_default": 20,
+  "seed": 123,
+  "print_every": 100,
+  "save_csv": true
+}

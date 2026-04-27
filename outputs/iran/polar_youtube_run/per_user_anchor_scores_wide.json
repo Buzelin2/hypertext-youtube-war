@@ -1,0 +1,4183 @@
+[
+  {
+    "user_id": "iran_influencers::UC-3jIAlnQmbbVMV6gR7K8aQ",
+    "token": "usr42aac4e1b1",
+    "n_posts": 5638,
+    "channel_id": "UC-3jIAlnQmbbVMV6gR7K8aQ",
+    "channel_title": "The Majority Report w/ Sam Seder",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 13,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5705151557922363,
+        "cosine_distance": 0.42948484420776367,
+        "similarity_zscore_within_anchor": 0.7636893759349214,
+        "distance_zscore_within_anchor": -0.7636893759348805,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6121432781219482,
+        "cosine_distance": 0.38785672187805176,
+        "similarity_zscore_within_anchor": -0.5909432334222945,
+        "distance_zscore_within_anchor": 0.5909432334223109,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.33508729934692383,
+        "cosine_distance": 0.6649127006530762,
+        "similarity_zscore_within_anchor": -0.14192202810221766,
+        "distance_zscore_within_anchor": 0.14192202810226168,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4337277412414551,
+        "cosine_distance": 0.5662722587585449,
+        "similarity_zscore_within_anchor": -0.7682256218839175,
+        "distance_zscore_within_anchor": 0.7682256218839513,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5964697599411011,
+        "cosine_distance": 0.4035302400588989,
+        "similarity_zscore_within_anchor": -0.13276727298360325,
+        "distance_zscore_within_anchor": 0.13276727298360325,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.53792804479599,
+        "cosine_distance": 0.46207195520401,
+        "similarity_zscore_within_anchor": -0.016675072858498285,
+        "distance_zscore_within_anchor": 0.016675072858498285,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6729756593704224,
+        "cosine_distance": 0.32702434062957764,
+        "similarity_zscore_within_anchor": -0.7158336741678527,
+        "distance_zscore_within_anchor": 0.7158336741678663,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.62775719165802,
+        "cosine_distance": 0.37224280834198,
+        "similarity_zscore_within_anchor": -0.27106012713269295,
+        "distance_zscore_within_anchor": 0.27106012713269295,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7011377811431885,
+        "cosine_distance": 0.2988622188568115,
+        "similarity_zscore_within_anchor": -0.19369513069222571,
+        "distance_zscore_within_anchor": 0.19369513069224192,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7733179330825806,
+        "cosine_distance": 0.22668206691741943,
+        "similarity_zscore_within_anchor": -0.5486636692634176,
+        "distance_zscore_within_anchor": 0.5486636692633992,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UC1yBKRuGpC1tSM73A0ZjYjQ",
+    "token": "usr060714414c",
+    "n_posts": 21922,
+    "channel_id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
+    "channel_title": "The Young Turks",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 18,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5709471702575684,
+        "cosine_distance": 0.42905282974243164,
+        "similarity_zscore_within_anchor": 1.0814269611366347,
+        "distance_zscore_within_anchor": -1.0814269611365939,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6118375658988953,
+        "cosine_distance": 0.38816243410110474,
+        "similarity_zscore_within_anchor": -0.681928497653211,
+        "distance_zscore_within_anchor": 0.6819284976532274,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3364969789981842,
+        "cosine_distance": 0.6635030210018158,
+        "similarity_zscore_within_anchor": 0.9754505831332839,
+        "distance_zscore_within_anchor": -0.9754505831332402,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.43529510498046875,
+        "cosine_distance": 0.5647048950195312,
+        "similarity_zscore_within_anchor": 0.1859869755956421,
+        "distance_zscore_within_anchor": -0.18598697559560828,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5972959995269775,
+        "cosine_distance": 0.40270400047302246,
+        "similarity_zscore_within_anchor": 0.2540007459053906,
+        "distance_zscore_within_anchor": -0.2540007459053906,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5386831164360046,
+        "cosine_distance": 0.46131688356399536,
+        "similarity_zscore_within_anchor": 0.42136076472144823,
+        "distance_zscore_within_anchor": -0.42136076472144823,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6742820739746094,
+        "cosine_distance": 0.3257179260253906,
+        "similarity_zscore_within_anchor": -0.4002246226175707,
+        "distance_zscore_within_anchor": 0.40022462261758424,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6264880895614624,
+        "cosine_distance": 0.3735119104385376,
+        "similarity_zscore_within_anchor": -0.7641689438263823,
+        "distance_zscore_within_anchor": 0.7641689438263823,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7000506520271301,
+        "cosine_distance": 0.2999493479728699,
+        "similarity_zscore_within_anchor": -0.5111111058886594,
+        "distance_zscore_within_anchor": 0.5111111058886756,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7740844488143921,
+        "cosine_distance": 0.2259155511856079,
+        "similarity_zscore_within_anchor": -0.29294934440222536,
+        "distance_zscore_within_anchor": 0.2929493444022069,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UCCRNUa9EwvRXMYwUmDi3JtA",
+    "token": "usr4e35eccfe8",
+    "n_posts": 100,
+    "channel_id": "UCCRNUa9EwvRXMYwUmDi3JtA",
+    "channel_title": "Chad Prather",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5689840316772461,
+        "cosine_distance": 0.4310159683227539,
+        "similarity_zscore_within_anchor": -0.3624203217281049,
+        "distance_zscore_within_anchor": 0.3624203217281457,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6194455027580261,
+        "cosine_distance": 0.3805544972419739,
+        "similarity_zscore_within_anchor": 1.582325572620562,
+        "distance_zscore_within_anchor": -1.5823255726205452,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.33674120903015137,
+        "cosine_distance": 0.6632587909698486,
+        "similarity_zscore_within_anchor": 1.1690377916294032,
+        "distance_zscore_within_anchor": -1.1690377916293595,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4363543391227722,
+        "cosine_distance": 0.5636456608772278,
+        "similarity_zscore_within_anchor": 0.8308497710705909,
+        "distance_zscore_within_anchor": -0.8308497710705571,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5989676713943481,
+        "cosine_distance": 0.40103232860565186,
+        "similarity_zscore_within_anchor": 1.0365210068894277,
+        "distance_zscore_within_anchor": -1.0365210068894277,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5397249460220337,
+        "cosine_distance": 0.4602750539779663,
+        "similarity_zscore_within_anchor": 1.0257520186731286,
+        "distance_zscore_within_anchor": -1.0257520186731286,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6821808815002441,
+        "cosine_distance": 0.31781911849975586,
+        "similarity_zscore_within_anchor": 1.5080020181089269,
+        "distance_zscore_within_anchor": -1.5080020181089138,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.631875216960907,
+        "cosine_distance": 0.368124783039093,
+        "similarity_zscore_within_anchor": 1.3289959989498878,
+        "distance_zscore_within_anchor": -1.3289959989498878,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.706343412399292,
+        "cosine_distance": 0.293656587600708,
+        "similarity_zscore_within_anchor": 1.3262260058698516,
+        "distance_zscore_within_anchor": -1.3262260058698354,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.780003547668457,
+        "cosine_distance": 0.21999645233154297,
+        "similarity_zscore_within_anchor": 1.681698147406916,
+        "distance_zscore_within_anchor": -1.6816981474069346,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UCD8YGIxFCnVqv-ZGqgtVWAg",
+    "token": "usrd7759e861d",
+    "n_posts": 7609,
+    "channel_id": "UCD8YGIxFCnVqv-ZGqgtVWAg",
+    "channel_title": "Erick Stakelbeck on TBN",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 8,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5688714981079102,
+        "cosine_distance": 0.43112850189208984,
+        "similarity_zscore_within_anchor": -0.4451864035245777,
+        "distance_zscore_within_anchor": 0.4451864035246185,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6121008396148682,
+        "cosine_distance": 0.38789916038513184,
+        "similarity_zscore_within_anchor": -0.6035736697904779,
+        "distance_zscore_within_anchor": 0.6035736697904943,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3349256217479706,
+        "cosine_distance": 0.6650743782520294,
+        "similarity_zscore_within_anchor": -0.27007463409263216,
+        "distance_zscore_within_anchor": 0.27007463409267624,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4383487105369568,
+        "cosine_distance": 0.5616512894630432,
+        "similarity_zscore_within_anchor": 2.045025064334436,
+        "distance_zscore_within_anchor": -2.045025064334402,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5978255867958069,
+        "cosine_distance": 0.4021744132041931,
+        "similarity_zscore_within_anchor": 0.5019039235008826,
+        "distance_zscore_within_anchor": -0.5019039235008826,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5402591228485107,
+        "cosine_distance": 0.45974087715148926,
+        "similarity_zscore_within_anchor": 1.3356412810974638,
+        "distance_zscore_within_anchor": -1.3356412810974638,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6745834350585938,
+        "cosine_distance": 0.32541656494140625,
+        "similarity_zscore_within_anchor": -0.3274205636414677,
+        "distance_zscore_within_anchor": 0.3274205636414812,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6267377138137817,
+        "cosine_distance": 0.37326228618621826,
+        "similarity_zscore_within_anchor": -0.6671775985176668,
+        "distance_zscore_within_anchor": 0.6671775985176668,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7003004550933838,
+        "cosine_distance": 0.2996995449066162,
+        "similarity_zscore_within_anchor": -0.43817452208207713,
+        "distance_zscore_within_anchor": 0.43817452208209334,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7741811871528625,
+        "cosine_distance": 0.22581881284713745,
+        "similarity_zscore_within_anchor": -0.2606768444605679,
+        "distance_zscore_within_anchor": 0.2606768444605494,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UCG749Dj4V2fKa143f8sE60Q",
+    "token": "usr2cdb2033f8",
+    "n_posts": 1807,
+    "channel_id": "UCG749Dj4V2fKa143f8sE60Q",
+    "channel_title": "Tim Pool",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.569031834602356,
+        "cosine_distance": 0.43096816539764404,
+        "similarity_zscore_within_anchor": -0.3272622721514252,
+        "distance_zscore_within_anchor": 0.3272622721514661,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6119159460067749,
+        "cosine_distance": 0.3880840539932251,
+        "similarity_zscore_within_anchor": -0.6586012170012993,
+        "distance_zscore_within_anchor": 0.6586012170013157,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3355199098587036,
+        "cosine_distance": 0.6644800901412964,
+        "similarity_zscore_within_anchor": 0.20098363614789422,
+        "distance_zscore_within_anchor": -0.20098363614785025,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.43321824073791504,
+        "cosine_distance": 0.566781759262085,
+        "similarity_zscore_within_anchor": -1.0784100333250217,
+        "distance_zscore_within_anchor": 1.0784100333250555,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5935260057449341,
+        "cosine_distance": 0.4064739942550659,
+        "similarity_zscore_within_anchor": -1.510757383854302,
+        "distance_zscore_within_anchor": 1.510757383854302,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5351830720901489,
+        "cosine_distance": 0.4648169279098511,
+        "similarity_zscore_within_anchor": -1.6091020090812074,
+        "distance_zscore_within_anchor": 1.6091020090812074,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6716465353965759,
+        "cosine_distance": 0.3283534646034241,
+        "similarity_zscore_within_anchor": -1.0369289493079084,
+        "distance_zscore_within_anchor": 1.036928949307922,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6268386244773865,
+        "cosine_distance": 0.3731613755226135,
+        "similarity_zscore_within_anchor": -0.6279688240172715,
+        "distance_zscore_within_anchor": 0.6279688240172715,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.6978048086166382,
+        "cosine_distance": 0.3021951913833618,
+        "similarity_zscore_within_anchor": -1.1668442343182017,
+        "distance_zscore_within_anchor": 1.166844234318218,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.772956132888794,
+        "cosine_distance": 0.22704386711120605,
+        "similarity_zscore_within_anchor": -0.6693624213557533,
+        "distance_zscore_within_anchor": 0.6693624213557349,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UCJdKr0Bgd_5saZYqLCa9mng",
+    "token": "usr24255cb067",
+    "n_posts": 13385,
+    "channel_id": "UCJdKr0Bgd_5saZYqLCa9mng",
+    "channel_title": "The Rubin Report",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 7,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5701789259910583,
+        "cosine_distance": 0.42982107400894165,
+        "similarity_zscore_within_anchor": 0.5163994037877269,
+        "distance_zscore_within_anchor": -0.516399403787686,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6113976240158081,
+        "cosine_distance": 0.3886023759841919,
+        "similarity_zscore_within_anchor": -0.8128628387115839,
+        "distance_zscore_within_anchor": 0.8128628387116004,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3345566689968109,
+        "cosine_distance": 0.6654433310031891,
+        "similarity_zscore_within_anchor": -0.5625224243527854,
+        "distance_zscore_within_anchor": 0.5625224243528295,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4335704445838928,
+        "cosine_distance": 0.5664295554161072,
+        "similarity_zscore_within_anchor": -0.8639879828798316,
+        "distance_zscore_within_anchor": 0.8639879828798654,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5948605537414551,
+        "cosine_distance": 0.4051394462585449,
+        "similarity_zscore_within_anchor": -0.8860469565765231,
+        "distance_zscore_within_anchor": 0.8860469565765231,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5360799431800842,
+        "cosine_distance": 0.46392005681991577,
+        "similarity_zscore_within_anchor": -1.088804783941844,
+        "distance_zscore_within_anchor": 1.088804783941844,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6730715036392212,
+        "cosine_distance": 0.3269284963607788,
+        "similarity_zscore_within_anchor": -0.6926792187023516,
+        "distance_zscore_within_anchor": 0.6926792187023652,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6266620755195618,
+        "cosine_distance": 0.37333792448043823,
+        "similarity_zscore_within_anchor": -0.6965668098827003,
+        "distance_zscore_within_anchor": 0.6965668098827003,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.699326753616333,
+        "cosine_distance": 0.300673246383667,
+        "similarity_zscore_within_anchor": -0.7224723109306401,
+        "distance_zscore_within_anchor": 0.7224723109306563,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7731888294219971,
+        "cosine_distance": 0.22681117057800293,
+        "similarity_zscore_within_anchor": -0.5917334381319512,
+        "distance_zscore_within_anchor": 0.5917334381319328,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UCLdP3jmBYe9lAZQbY6OSYjw",
+    "token": "usr296f1aa6b2",
+    "n_posts": 15392,
+    "channel_id": "UCLdP3jmBYe9lAZQbY6OSYjw",
+    "channel_title": "Benny Johnson",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 7,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5697346329689026,
+        "cosine_distance": 0.4302653670310974,
+        "similarity_zscore_within_anchor": 0.18963119737305087,
+        "distance_zscore_within_anchor": -0.18963119737301004,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6124966144561768,
+        "cosine_distance": 0.38750338554382324,
+        "similarity_zscore_within_anchor": -0.48578420703101494,
+        "distance_zscore_within_anchor": 0.48578420703103137,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.335654079914093,
+        "cosine_distance": 0.664345920085907,
+        "similarity_zscore_within_anchor": 0.3073325821698013,
+        "distance_zscore_within_anchor": -0.3073325821697574,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4355427622795105,
+        "cosine_distance": 0.5644572377204895,
+        "similarity_zscore_within_anchor": 0.33676098466651105,
+        "distance_zscore_within_anchor": -0.33676098466647725,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5967546701431274,
+        "cosine_distance": 0.40324532985687256,
+        "similarity_zscore_within_anchor": 0.0006010093919118736,
+        "distance_zscore_within_anchor": -0.0006010093919118736,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5380754470825195,
+        "cosine_distance": 0.46192455291748047,
+        "similarity_zscore_within_anchor": 0.06883665956455254,
+        "distance_zscore_within_anchor": -0.06883665956455254,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6743651032447815,
+        "cosine_distance": 0.3256348967552185,
+        "similarity_zscore_within_anchor": -0.3801660676029917,
+        "distance_zscore_within_anchor": 0.3801660676030052,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6280419230461121,
+        "cosine_distance": 0.37195807695388794,
+        "similarity_zscore_within_anchor": -0.16042792643075068,
+        "distance_zscore_within_anchor": 0.16042792643075068,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.6992919445037842,
+        "cosine_distance": 0.3007080554962158,
+        "similarity_zscore_within_anchor": -0.7326357480442274,
+        "distance_zscore_within_anchor": 0.7326357480442436,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7739146947860718,
+        "cosine_distance": 0.22608530521392822,
+        "similarity_zscore_within_anchor": -0.3495803239671301,
+        "distance_zscore_within_anchor": 0.34958032396711164,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UCNNTZgxNQuBrhbO0VrG8woA",
+    "token": "usr2a0ab7fe9a",
+    "n_posts": 409,
+    "channel_id": "UCNNTZgxNQuBrhbO0VrG8woA",
+    "channel_title": "No Jumper",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5708178281784058,
+        "cosine_distance": 0.42918217182159424,
+        "similarity_zscore_within_anchor": 0.9862985726311548,
+        "distance_zscore_within_anchor": -0.986298572631114,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6152353882789612,
+        "cosine_distance": 0.3847646117210388,
+        "similarity_zscore_within_anchor": 0.3293224231398531,
+        "distance_zscore_within_anchor": -0.3293224231398365,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3342558741569519,
+        "cosine_distance": 0.6657441258430481,
+        "similarity_zscore_within_anchor": -0.8009453279954128,
+        "distance_zscore_within_anchor": 0.8009453279954569,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4334293603897095,
+        "cosine_distance": 0.5665706396102905,
+        "similarity_zscore_within_anchor": -0.9498801801050415,
+        "distance_zscore_within_anchor": 0.9498801801050752,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5930981636047363,
+        "cosine_distance": 0.40690183639526367,
+        "similarity_zscore_within_anchor": -1.7110330179320108,
+        "distance_zscore_within_anchor": 1.7110330179320108,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5358524322509766,
+        "cosine_distance": 0.46414756774902344,
+        "similarity_zscore_within_anchor": -1.2207895322874909,
+        "distance_zscore_within_anchor": 1.2207895322874909,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6757757663726807,
+        "cosine_distance": 0.32422423362731934,
+        "similarity_zscore_within_anchor": -0.039372225872882895,
+        "distance_zscore_within_anchor": 0.039372225872896315,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6256850361824036,
+        "cosine_distance": 0.37431496381759644,
+        "similarity_zscore_within_anchor": -1.0761948261913117,
+        "distance_zscore_within_anchor": 1.0761948261913117,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.6991169452667236,
+        "cosine_distance": 0.30088305473327637,
+        "similarity_zscore_within_anchor": -0.7837313839440425,
+        "distance_zscore_within_anchor": 0.7837313839440587,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7712761759757996,
+        "cosine_distance": 0.22872382402420044,
+        "similarity_zscore_within_anchor": -1.2298062974220598,
+        "distance_zscore_within_anchor": 1.2298062974220416,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UCQANb2YPwAtK-IQJrLaaUFw",
+    "token": "usre3b02b7ec0",
+    "n_posts": 2747,
+    "channel_id": "UCQANb2YPwAtK-IQJrLaaUFw",
+    "channel_title": "Brian Tyler Cohen",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5706691741943359,
+        "cosine_distance": 0.42933082580566406,
+        "similarity_zscore_within_anchor": 0.8769666828004328,
+        "distance_zscore_within_anchor": -0.876966682800392,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6113216280937195,
+        "cosine_distance": 0.3886783719062805,
+        "similarity_zscore_within_anchor": -0.8354805442866314,
+        "distance_zscore_within_anchor": 0.8354805442866478,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.33574551343917847,
+        "cosine_distance": 0.6642544865608215,
+        "similarity_zscore_within_anchor": 0.3798067195299104,
+        "distance_zscore_within_anchor": -0.37980671952986644,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.43356966972351074,
+        "cosine_distance": 0.5664303302764893,
+        "similarity_zscore_within_anchor": -0.8644597186482844,
+        "distance_zscore_within_anchor": 0.8644597186483182,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5963379740715027,
+        "cosine_distance": 0.4036620259284973,
+        "similarity_zscore_within_anchor": -0.19445707891085512,
+        "distance_zscore_within_anchor": 0.19445707891085512,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5387479662895203,
+        "cosine_distance": 0.46125203371047974,
+        "similarity_zscore_within_anchor": 0.458981777611169,
+        "distance_zscore_within_anchor": -0.458981777611169,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6726464033126831,
+        "cosine_distance": 0.3273535966873169,
+        "similarity_zscore_within_anchor": -0.7953767164510792,
+        "distance_zscore_within_anchor": 0.7953767164510928,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6258878111839294,
+        "cosine_distance": 0.37411218881607056,
+        "similarity_zscore_within_anchor": -0.9974067276382435,
+        "distance_zscore_within_anchor": 0.9974067276382435,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.6997297406196594,
+        "cosine_distance": 0.3002702593803406,
+        "similarity_zscore_within_anchor": -0.6048096425659771,
+        "distance_zscore_within_anchor": 0.6048096425659933,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.772907555103302,
+        "cosine_distance": 0.227092444896698,
+        "similarity_zscore_within_anchor": -0.6855682669826484,
+        "distance_zscore_within_anchor": 0.68556826698263,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UCaYw_yJ_YLPEv6zR2c7hgHA",
+    "token": "usrbdc30a5870",
+    "n_posts": 1507,
+    "channel_id": "UCaYw_yJ_YLPEv6zR2c7hgHA",
+    "channel_title": "The Officer Tatum",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5677717924118042,
+        "cosine_distance": 0.4322282075881958,
+        "similarity_zscore_within_anchor": -1.2539968956564227,
+        "distance_zscore_within_anchor": 1.2539968956564636,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6136574745178223,
+        "cosine_distance": 0.38634252548217773,
+        "similarity_zscore_within_anchor": -0.14029210210581905,
+        "distance_zscore_within_anchor": 0.14029210210583554,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.33334025740623474,
+        "cosine_distance": 0.6666597425937653,
+        "similarity_zscore_within_anchor": -1.5267024734043537,
+        "distance_zscore_within_anchor": 1.5267024734043981,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.43571358919143677,
+        "cosine_distance": 0.5642864108085632,
+        "similarity_zscore_within_anchor": 0.4407605779269468,
+        "distance_zscore_within_anchor": -0.440760577926913,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5947277545928955,
+        "cosine_distance": 0.4052722454071045,
+        "similarity_zscore_within_anchor": -0.9482110848469515,
+        "distance_zscore_within_anchor": 0.9482110848469515,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5381678938865662,
+        "cosine_distance": 0.46183210611343384,
+        "similarity_zscore_within_anchor": 0.12246734981451284,
+        "distance_zscore_within_anchor": -0.12246734981451284,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.673578679561615,
+        "cosine_distance": 0.326421320438385,
+        "similarity_zscore_within_anchor": -0.5701535585307416,
+        "distance_zscore_within_anchor": 0.5701535585307551,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.626549243927002,
+        "cosine_distance": 0.37345075607299805,
+        "similarity_zscore_within_anchor": -0.740407453786568,
+        "distance_zscore_within_anchor": 0.740407453786568,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.6985494494438171,
+        "cosine_distance": 0.30145055055618286,
+        "similarity_zscore_within_anchor": -0.9494267345578505,
+        "distance_zscore_within_anchor": 0.9494267345578667,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7731688618659973,
+        "cosine_distance": 0.22683113813400269,
+        "similarity_zscore_within_anchor": -0.5983947366411657,
+        "distance_zscore_within_anchor": 0.5983947366411473,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UCeAACGXB76rAOON6aaY72-Q",
+    "token": "usr5a26e00edf",
+    "n_posts": 91,
+    "channel_id": "UCeAACGXB76rAOON6aaY72-Q",
+    "channel_title": "Keith Olbermann",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5681847333908081,
+        "cosine_distance": 0.4318152666091919,
+        "similarity_zscore_within_anchor": -0.9502874599117386,
+        "distance_zscore_within_anchor": 0.9502874599117794,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6193193197250366,
+        "cosine_distance": 0.3806806802749634,
+        "similarity_zscore_within_anchor": 1.5447713116775224,
+        "distance_zscore_within_anchor": -1.5447713116775057,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.33524706959724426,
+        "cosine_distance": 0.6647529304027557,
+        "similarity_zscore_within_anchor": -0.015281268523487311,
+        "distance_zscore_within_anchor": 0.015281268523531314,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.435178279876709,
+        "cosine_distance": 0.564821720123291,
+        "similarity_zscore_within_anchor": 0.11486373665968465,
+        "distance_zscore_within_anchor": -0.11486373665965086,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5974609851837158,
+        "cosine_distance": 0.4025390148162842,
+        "similarity_zscore_within_anchor": 0.33123158390024954,
+        "distance_zscore_within_anchor": -0.33123158390024954,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.537938117980957,
+        "cosine_distance": 0.46206188201904297,
+        "similarity_zscore_within_anchor": -0.010831367731326595,
+        "distance_zscore_within_anchor": 0.010831367731326595,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6826924085617065,
+        "cosine_distance": 0.31730759143829346,
+        "similarity_zscore_within_anchor": 1.6315788444801524,
+        "distance_zscore_within_anchor": -1.6315788444801393,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.631860613822937,
+        "cosine_distance": 0.368139386177063,
+        "similarity_zscore_within_anchor": 1.323321958930634,
+        "distance_zscore_within_anchor": -1.323321958930634,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7072505950927734,
+        "cosine_distance": 0.29274940490722656,
+        "similarity_zscore_within_anchor": 1.5911018840698472,
+        "distance_zscore_within_anchor": -1.591101884069831,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7798352241516113,
+        "cosine_distance": 0.22016477584838867,
+        "similarity_zscore_within_anchor": 1.6255443951978952,
+        "distance_zscore_within_anchor": -1.6255443951979138,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UCfaIu2jO-fppCQV_lchCRIQ",
+    "token": "usrd535b22f7d",
+    "n_posts": 737,
+    "channel_id": "UCfaIu2jO-fppCQV_lchCRIQ",
+    "channel_title": "Charlie Kirk",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5673405528068542,
+        "cosine_distance": 0.43265944719314575,
+        "similarity_zscore_within_anchor": -1.5711645872864444,
+        "distance_zscore_within_anchor": 1.571164587286485,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.611172080039978,
+        "cosine_distance": 0.388827919960022,
+        "similarity_zscore_within_anchor": -0.8799886409829405,
+        "distance_zscore_within_anchor": 0.8799886409829569,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3321930170059204,
+        "cosine_distance": 0.6678069829940796,
+        "similarity_zscore_within_anchor": -2.436054467432189,
+        "distance_zscore_within_anchor": 2.4360544674322333,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.43249958753585815,
+        "cosine_distance": 0.5675004124641418,
+        "similarity_zscore_within_anchor": -1.515926814881572,
+        "distance_zscore_within_anchor": 1.5159268148816059,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5922927856445312,
+        "cosine_distance": 0.40770721435546875,
+        "similarity_zscore_within_anchor": -2.088035576814429,
+        "distance_zscore_within_anchor": 2.088035576814429,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.533973753452301,
+        "cosine_distance": 0.466026246547699,
+        "similarity_zscore_within_anchor": -2.3106578275734346,
+        "distance_zscore_within_anchor": 2.3106578275734346,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.670623779296875,
+        "cosine_distance": 0.329376220703125,
+        "similarity_zscore_within_anchor": -1.2840106043654542,
+        "distance_zscore_within_anchor": 1.2840106043654678,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6246494650840759,
+        "cosine_distance": 0.3753505349159241,
+        "similarity_zscore_within_anchor": -1.4785653212709735,
+        "distance_zscore_within_anchor": 1.4785653212709735,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.6965092420578003,
+        "cosine_distance": 0.3034907579421997,
+        "similarity_zscore_within_anchor": -1.5451190101759615,
+        "distance_zscore_within_anchor": 1.5451190101759777,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7716314792633057,
+        "cosine_distance": 0.22836852073669434,
+        "similarity_zscore_within_anchor": -1.1112749529043642,
+        "distance_zscore_within_anchor": 1.1112749529043457,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UClFSU9_bUb4Rc6OYfTt5SPw",
+    "token": "usr4c161d1011",
+    "n_posts": 8049,
+    "channel_id": "UClFSU9_bUb4Rc6OYfTt5SPw",
+    "channel_title": "Philip DeFranco",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5694006681442261,
+        "cosine_distance": 0.4305993318557739,
+        "similarity_zscore_within_anchor": -0.05599293202612136,
+        "distance_zscore_within_anchor": 0.055992932026162186,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6125220060348511,
+        "cosine_distance": 0.3874779939651489,
+        "similarity_zscore_within_anchor": -0.47822723246241083,
+        "distance_zscore_within_anchor": 0.47822723246242727,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3342704176902771,
+        "cosine_distance": 0.6657295823097229,
+        "similarity_zscore_within_anchor": -0.7894174991063212,
+        "distance_zscore_within_anchor": 0.7894174991063653,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.43310093879699707,
+        "cosine_distance": 0.5668990612030029,
+        "similarity_zscore_within_anchor": -1.1498235711954117,
+        "distance_zscore_within_anchor": 1.1498235711954454,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5934051275253296,
+        "cosine_distance": 0.4065948724746704,
+        "similarity_zscore_within_anchor": -1.5673412492638303,
+        "distance_zscore_within_anchor": 1.5673412492638303,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5352748036384583,
+        "cosine_distance": 0.46472519636154175,
+        "similarity_zscore_within_anchor": -1.555886256473413,
+        "distance_zscore_within_anchor": 1.555886256473413,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6716039180755615,
+        "cosine_distance": 0.3283960819244385,
+        "similarity_zscore_within_anchor": -1.047224618249347,
+        "distance_zscore_within_anchor": 1.0472246182493605,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6262821555137634,
+        "cosine_distance": 0.3737178444862366,
+        "similarity_zscore_within_anchor": -0.8441844877713709,
+        "distance_zscore_within_anchor": 0.8441844877713709,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.6978487372398376,
+        "cosine_distance": 0.30215126276016235,
+        "similarity_zscore_within_anchor": -1.1540181159060205,
+        "distance_zscore_within_anchor": 1.1540181159060368,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7723910808563232,
+        "cosine_distance": 0.22760891914367676,
+        "similarity_zscore_within_anchor": -0.8578672269299448,
+        "distance_zscore_within_anchor": 0.8578672269299263,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UCnQC_G5Xsjhp9fEJKuIcrSw",
+    "token": "usr70ffec8199",
+    "n_posts": 1620,
+    "channel_id": "UCnQC_G5Xsjhp9fEJKuIcrSw",
+    "channel_title": "Ben Shapiro",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5696616172790527,
+        "cosine_distance": 0.43033838272094727,
+        "similarity_zscore_within_anchor": 0.1359296877328606,
+        "distance_zscore_within_anchor": -0.13592968773281977,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6116427183151245,
+        "cosine_distance": 0.3883572816848755,
+        "similarity_zscore_within_anchor": -0.7399185208099406,
+        "distance_zscore_within_anchor": 0.739918520809957,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3355073034763336,
+        "cosine_distance": 0.6644926965236664,
+        "similarity_zscore_within_anchor": 0.19099127627066928,
+        "distance_zscore_within_anchor": -0.1909912762706253,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.43370598554611206,
+        "cosine_distance": 0.5662940144538879,
+        "similarity_zscore_within_anchor": -0.7814705107673994,
+        "distance_zscore_within_anchor": 0.7814705107674331,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5939874649047852,
+        "cosine_distance": 0.40601253509521484,
+        "similarity_zscore_within_anchor": -1.2947454085088548,
+        "distance_zscore_within_anchor": 1.2947454085088548,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5359509587287903,
+        "cosine_distance": 0.4640490412712097,
+        "similarity_zscore_within_anchor": -1.1636318720791192,
+        "distance_zscore_within_anchor": 1.1636318720791192,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6722170114517212,
+        "cosine_distance": 0.3277829885482788,
+        "similarity_zscore_within_anchor": -0.8991109808624412,
+        "distance_zscore_within_anchor": 0.8991109808624548,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6258013248443604,
+        "cosine_distance": 0.37419867515563965,
+        "similarity_zscore_within_anchor": -1.0310109401604368,
+        "distance_zscore_within_anchor": 1.0310109401604368,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.698310911655426,
+        "cosine_distance": 0.301689088344574,
+        "similarity_zscore_within_anchor": -1.019074123819111,
+        "distance_zscore_within_anchor": 1.0190741238191272,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7729799151420593,
+        "cosine_distance": 0.22702008485794067,
+        "similarity_zscore_within_anchor": -0.6614285165641812,
+        "distance_zscore_within_anchor": 0.6614285165641628,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UCt6J-LE3g25VPn530Td8Ttw",
+    "token": "usrdd8faed8ff",
+    "n_posts": 62,
+    "channel_id": "UCt6J-LE3g25VPn530Td8Ttw",
+    "channel_title": "The Clay Travis & Buck Sexton Show",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 16,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.567261815071106,
+        "cosine_distance": 0.43273818492889404,
+        "similarity_zscore_within_anchor": -1.6290745417637433,
+        "distance_zscore_within_anchor": 1.6290745417637842,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.620651125907898,
+        "cosine_distance": 0.37934887409210205,
+        "similarity_zscore_within_anchor": 1.941139949613884,
+        "distance_zscore_within_anchor": -1.941139949613867,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.33523911237716675,
+        "cosine_distance": 0.6647608876228333,
+        "similarity_zscore_within_anchor": -0.021588502772232135,
+        "distance_zscore_within_anchor": 0.02158850277227614,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4352790117263794,
+        "cosine_distance": 0.5647209882736206,
+        "similarity_zscore_within_anchor": 0.1761893865585459,
+        "distance_zscore_within_anchor": -0.1761893865585121,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5968518853187561,
+        "cosine_distance": 0.4031481146812439,
+        "similarity_zscore_within_anchor": 0.04610805302255312,
+        "distance_zscore_within_anchor": -0.04610805302255312,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5375496745109558,
+        "cosine_distance": 0.4624503254890442,
+        "similarity_zscore_within_anchor": -0.23617708556433192,
+        "distance_zscore_within_anchor": 0.23617708556433192,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.683287501335144,
+        "cosine_distance": 0.31671249866485596,
+        "similarity_zscore_within_anchor": 1.7753438216987862,
+        "distance_zscore_within_anchor": -1.7753438216987731,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6327553987503052,
+        "cosine_distance": 0.3672446012496948,
+        "similarity_zscore_within_anchor": 1.6709900763552847,
+        "distance_zscore_within_anchor": -1.6709900763552847,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7079384922981262,
+        "cosine_distance": 0.2920615077018738,
+        "similarity_zscore_within_anchor": 1.791951589083392,
+        "distance_zscore_within_anchor": -1.7919515890833757,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7806568145751953,
+        "cosine_distance": 0.2193431854248047,
+        "similarity_zscore_within_anchor": 1.8996319732606224,
+        "distance_zscore_within_anchor": -1.8996319732606413,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UCtoaZpBnrd0lhycxYJ4MNOQ",
+    "token": "usr05887bb10f",
+    "n_posts": 3625,
+    "channel_id": "UCtoaZpBnrd0lhycxYJ4MNOQ",
+    "channel_title": "HasanAbi",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 4,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5678364038467407,
+        "cosine_distance": 0.4321635961532593,
+        "similarity_zscore_within_anchor": -1.206476539370736,
+        "distance_zscore_within_anchor": 1.2064765393707768,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6116195917129517,
+        "cosine_distance": 0.38838040828704834,
+        "similarity_zscore_within_anchor": -0.7468013990555237,
+        "distance_zscore_within_anchor": 0.7468013990555401,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.33379071950912476,
+        "cosine_distance": 0.6662092804908752,
+        "similarity_zscore_within_anchor": -1.1696468716448856,
+        "distance_zscore_within_anchor": 1.1696468716449298,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4329295754432678,
+        "cosine_distance": 0.5670704245567322,
+        "similarity_zscore_within_anchor": -1.2541497507570838,
+        "distance_zscore_within_anchor": 1.2541497507571175,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5952655076980591,
+        "cosine_distance": 0.4047344923019409,
+        "similarity_zscore_within_anchor": -0.6964854271917429,
+        "distance_zscore_within_anchor": 0.6964854271917429,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.535280704498291,
+        "cosine_distance": 0.464719295501709,
+        "similarity_zscore_within_anchor": -1.5524630209255432,
+        "distance_zscore_within_anchor": 1.5524630209255432,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.673869252204895,
+        "cosine_distance": 0.326130747795105,
+        "similarity_zscore_within_anchor": -0.4999558157482055,
+        "distance_zscore_within_anchor": 0.499955815748219,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.626922607421875,
+        "cosine_distance": 0.373077392578125,
+        "similarity_zscore_within_anchor": -0.5953373040698073,
+        "distance_zscore_within_anchor": 0.5953373040698073,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.6995677947998047,
+        "cosine_distance": 0.3004322052001953,
+        "similarity_zscore_within_anchor": -0.6520939895481971,
+        "distance_zscore_within_anchor": 0.6520939895482133,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7719768285751343,
+        "cosine_distance": 0.22802317142486572,
+        "similarity_zscore_within_anchor": -0.9960643154046948,
+        "distance_zscore_within_anchor": 0.9960643154046764,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UCvixJtaXuNdMPUGdOPcY8Ag",
+    "token": "usr2f05602fe2",
+    "n_posts": 2318,
+    "channel_id": "UCvixJtaXuNdMPUGdOPcY8Ag",
+    "channel_title": "David Pakman Show",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 5,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5706301927566528,
+        "cosine_distance": 0.42936980724334717,
+        "similarity_zscore_within_anchor": 0.8482966523476292,
+        "distance_zscore_within_anchor": -0.8482966523475884,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6112363338470459,
+        "cosine_distance": 0.3887636661529541,
+        "similarity_zscore_within_anchor": -0.8608655926614494,
+        "distance_zscore_within_anchor": 0.8608655926614658,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.33407604694366455,
+        "cosine_distance": 0.6659239530563354,
+        "similarity_zscore_within_anchor": -0.9434840974970093,
+        "distance_zscore_within_anchor": 0.9434840974970535,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.432449609041214,
+        "cosine_distance": 0.567550390958786,
+        "similarity_zscore_within_anchor": -1.5463537719467764,
+        "distance_zscore_within_anchor": 1.5463537719468101,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5952569246292114,
+        "cosine_distance": 0.4047430753707886,
+        "similarity_zscore_within_anchor": -0.7005032164515911,
+        "distance_zscore_within_anchor": 0.7005032164515911,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5368101596832275,
+        "cosine_distance": 0.46318984031677246,
+        "similarity_zscore_within_anchor": -0.6651880294271671,
+        "distance_zscore_within_anchor": 0.6651880294271671,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6734973192214966,
+        "cosine_distance": 0.3265026807785034,
+        "similarity_zscore_within_anchor": -0.5898089265098516,
+        "distance_zscore_within_anchor": 0.5898089265098652,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6256367564201355,
+        "cosine_distance": 0.3743632435798645,
+        "similarity_zscore_within_anchor": -1.0949538972753756,
+        "distance_zscore_within_anchor": 1.0949538972753756,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7001773118972778,
+        "cosine_distance": 0.29982268810272217,
+        "similarity_zscore_within_anchor": -0.4741294211859662,
+        "distance_zscore_within_anchor": 0.4741294211859824,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7721251249313354,
+        "cosine_distance": 0.22787487506866455,
+        "similarity_zscore_within_anchor": -0.9465917461780504,
+        "distance_zscore_within_anchor": 0.9465917461780321,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_influencers::UCx_2Vso6Qz76n-w5KV8DZcA",
+    "token": "usr9ae9ef74e2",
+    "n_posts": 488,
+    "channel_id": "UCx_2Vso6Qz76n-w5KV8DZcA",
+    "channel_title": "Allie Beth Stuckey",
+    "group_label": "iran_influencers",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5666223168373108,
+        "cosine_distance": 0.4333776831626892,
+        "similarity_zscore_within_anchor": -2.0994120902777036,
+        "distance_zscore_within_anchor": 2.0994120902777444,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6119570732116699,
+        "cosine_distance": 0.3880429267883301,
+        "similarity_zscore_within_anchor": -0.6463610469253912,
+        "distance_zscore_within_anchor": 0.6463610469254076,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3325924277305603,
+        "cosine_distance": 0.6674075722694397,
+        "similarity_zscore_within_anchor": -2.1194643797854544,
+        "distance_zscore_within_anchor": 2.119464379785499,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.43484267592430115,
+        "cosine_distance": 0.5651573240756989,
+        "similarity_zscore_within_anchor": -0.08945228213057471,
+        "distance_zscore_within_anchor": 0.0894522821306085,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5918898582458496,
+        "cosine_distance": 0.4081101417541504,
+        "similarity_zscore_within_anchor": -2.2766484615128566,
+        "distance_zscore_within_anchor": 2.2766484615128566,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5380351543426514,
+        "cosine_distance": 0.46196484565734863,
+        "similarity_zscore_within_anchor": 0.04546183905586578,
+        "distance_zscore_within_anchor": -0.04546183905586578,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6706815958023071,
+        "cosine_distance": 0.32931840419769287,
+        "similarity_zscore_within_anchor": -1.270043053493852,
+        "distance_zscore_within_anchor": 1.2700430534938658,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6245776414871216,
+        "cosine_distance": 0.3754223585128784,
+        "similarity_zscore_within_anchor": -1.5064723344268958,
+        "distance_zscore_within_anchor": 1.5064723344268958,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.698436975479126,
+        "cosine_distance": 0.301563024520874,
+        "similarity_zscore_within_anchor": -0.9822664705738421,
+        "distance_zscore_within_anchor": 0.9822664705738583,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7715917825698853,
+        "cosine_distance": 0.22840821743011475,
+        "similarity_zscore_within_anchor": -1.124518012030146,
+        "distance_zscore_within_anchor": 1.1245180120301277,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UC3ScyryU9Oy9Wse3a8OAmYQ",
+    "token": "usrdcd7dde03f",
+    "n_posts": 3773,
+    "channel_id": "UC3ScyryU9Oy9Wse3a8OAmYQ",
+    "channel_title": "FRONTLINE PBS | Official",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5698373317718506,
+        "cosine_distance": 0.4301626682281494,
+        "similarity_zscore_within_anchor": 0.26516401460574296,
+        "distance_zscore_within_anchor": -0.2651640146057021,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6109426021575928,
+        "cosine_distance": 0.3890573978424072,
+        "similarity_zscore_within_anchor": -0.9482852421311231,
+        "distance_zscore_within_anchor": 0.9482852421311395,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3355516195297241,
+        "cosine_distance": 0.6644483804702759,
+        "similarity_zscore_within_anchor": 0.22611808274214326,
+        "distance_zscore_within_anchor": -0.2261180827420993,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4350956976413727,
+        "cosine_distance": 0.5649043023586273,
+        "similarity_zscore_within_anchor": 0.06458758995265963,
+        "distance_zscore_within_anchor": -0.06458758995262584,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5977123975753784,
+        "cosine_distance": 0.4022876024246216,
+        "similarity_zscore_within_anchor": 0.44891932763663506,
+        "distance_zscore_within_anchor": -0.44891932763663506,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5381811857223511,
+        "cosine_distance": 0.4618188142776489,
+        "similarity_zscore_within_anchor": 0.1301782743314317,
+        "distance_zscore_within_anchor": -0.1301782743314317,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6730862259864807,
+        "cosine_distance": 0.3269137740135193,
+        "similarity_zscore_within_anchor": -0.6891225330680365,
+        "distance_zscore_within_anchor": 0.68912253306805,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6264762282371521,
+        "cosine_distance": 0.3735237717628479,
+        "similarity_zscore_within_anchor": -0.7687776538828376,
+        "distance_zscore_within_anchor": 0.7687776538828376,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.6998698711395264,
+        "cosine_distance": 0.30013012886047363,
+        "similarity_zscore_within_anchor": -0.5638948469254916,
+        "distance_zscore_within_anchor": 0.5638948469255078,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7722477316856384,
+        "cosine_distance": 0.22775226831436157,
+        "similarity_zscore_within_anchor": -0.9056893848841568,
+        "distance_zscore_within_anchor": 0.9056893848841384,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UC52X5wxOL_s5yw0dQk7NtgA",
+    "token": "usr9eab3c7819",
+    "n_posts": 2382,
+    "channel_id": "UC52X5wxOL_s5yw0dQk7NtgA",
+    "channel_title": "Associated Press",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 10,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.570465087890625,
+        "cosine_distance": 0.429534912109375,
+        "similarity_zscore_within_anchor": 0.7268654836102194,
+        "distance_zscore_within_anchor": -0.7268654836101786,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.61164790391922,
+        "cosine_distance": 0.38835209608078003,
+        "similarity_zscore_within_anchor": -0.7383751950177608,
+        "distance_zscore_within_anchor": 0.7383751950177773,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3374093770980835,
+        "cosine_distance": 0.6625906229019165,
+        "similarity_zscore_within_anchor": 1.6986564877225079,
+        "distance_zscore_within_anchor": -1.6986564877224641,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.43763720989227295,
+        "cosine_distance": 0.562362790107727,
+        "similarity_zscore_within_anchor": 1.6118627667943726,
+        "distance_zscore_within_anchor": -1.6118627667943386,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5982012748718262,
+        "cosine_distance": 0.40179872512817383,
+        "similarity_zscore_within_anchor": 0.6777659075621528,
+        "distance_zscore_within_anchor": -0.6777659075621528,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5380344390869141,
+        "cosine_distance": 0.46196556091308594,
+        "similarity_zscore_within_anchor": 0.04504690141369974,
+        "distance_zscore_within_anchor": -0.04504690141369974,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6732780933380127,
+        "cosine_distance": 0.3267219066619873,
+        "similarity_zscore_within_anchor": -0.6427704235260912,
+        "distance_zscore_within_anchor": 0.6427704235261047,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6276253461837769,
+        "cosine_distance": 0.37237465381622314,
+        "similarity_zscore_within_anchor": -0.3222886027350995,
+        "distance_zscore_within_anchor": 0.3222886027350995,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7002415657043457,
+        "cosine_distance": 0.2997584342956543,
+        "similarity_zscore_within_anchor": -0.4553688300756117,
+        "distance_zscore_within_anchor": 0.4553688300756279,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7729610204696655,
+        "cosine_distance": 0.22703897953033447,
+        "similarity_zscore_within_anchor": -0.6677318945564829,
+        "distance_zscore_within_anchor": 0.6677318945564644,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UC8p1vwvWtl6T73JiExfWs1g",
+    "token": "usr99f76f5cf6",
+    "n_posts": 940,
+    "channel_id": "UC8p1vwvWtl6T73JiExfWs1g",
+    "channel_title": "CBS News",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 9,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5720943212509155,
+        "cosine_distance": 0.4279056787490845,
+        "similarity_zscore_within_anchor": 1.92513247504284,
+        "distance_zscore_within_anchor": -1.9251324750427992,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6135010719299316,
+        "cosine_distance": 0.38649892807006836,
+        "similarity_zscore_within_anchor": -0.18684022714811283,
+        "distance_zscore_within_anchor": 0.18684022714812934,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3370383381843567,
+        "cosine_distance": 0.6629616618156433,
+        "similarity_zscore_within_anchor": 1.404555115449575,
+        "distance_zscore_within_anchor": -1.4045551154495313,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4356556534767151,
+        "cosine_distance": 0.5643443465232849,
+        "similarity_zscore_within_anchor": 0.4054892573934005,
+        "distance_zscore_within_anchor": -0.4054892573933667,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5970373153686523,
+        "cosine_distance": 0.40296268463134766,
+        "similarity_zscore_within_anchor": 0.13290904182385596,
+        "distance_zscore_within_anchor": -0.13290904182385596,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5381696820259094,
+        "cosine_distance": 0.4618303179740906,
+        "similarity_zscore_within_anchor": 0.12350469391992792,
+        "distance_zscore_within_anchor": -0.12350469391992792,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6737954616546631,
+        "cosine_distance": 0.3262045383453369,
+        "similarity_zscore_within_anchor": -0.5177824425307244,
+        "distance_zscore_within_anchor": 0.5177824425307379,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6280420422554016,
+        "cosine_distance": 0.3719579577445984,
+        "similarity_zscore_within_anchor": -0.16038160773671595,
+        "distance_zscore_within_anchor": 0.16038160773671595,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7009555101394653,
+        "cosine_distance": 0.29904448986053467,
+        "similarity_zscore_within_anchor": -0.24691395037261907,
+        "distance_zscore_within_anchor": 0.24691395037263528,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7748261094093323,
+        "cosine_distance": 0.22517389059066772,
+        "similarity_zscore_within_anchor": -0.04552684484951811,
+        "distance_zscore_within_anchor": 0.0455268448494996,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UC9k-yiEpRHMNVOnOi_aQK8w",
+    "token": "usrd5a011f81b",
+    "n_posts": 77,
+    "channel_id": "UC9k-yiEpRHMNVOnOi_aQK8w",
+    "channel_title": "Inside Edition",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5679436922073364,
+        "cosine_distance": 0.4320563077926636,
+        "similarity_zscore_within_anchor": -1.1275681986749462,
+        "distance_zscore_within_anchor": 1.127568198674987,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6200608611106873,
+        "cosine_distance": 0.37993913888931274,
+        "similarity_zscore_within_anchor": 1.765466899959221,
+        "distance_zscore_within_anchor": -1.7654668999592042,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3355087637901306,
+        "cosine_distance": 0.6644912362098694,
+        "similarity_zscore_within_anchor": 0.19214878367961494,
+        "distance_zscore_within_anchor": -0.19214878367957097,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4351249933242798,
+        "cosine_distance": 0.5648750066757202,
+        "similarity_zscore_within_anchor": 0.08242283073685508,
+        "distance_zscore_within_anchor": -0.08242283073682129,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5983677506446838,
+        "cosine_distance": 0.40163224935531616,
+        "similarity_zscore_within_anchor": 0.7556942784146243,
+        "distance_zscore_within_anchor": -0.7556942784146243,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5379961729049683,
+        "cosine_distance": 0.46200382709503174,
+        "similarity_zscore_within_anchor": 0.022847737557816755,
+        "distance_zscore_within_anchor": -0.022847737557816755,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6831538677215576,
+        "cosine_distance": 0.3168461322784424,
+        "similarity_zscore_within_anchor": 1.74306005978731,
+        "distance_zscore_within_anchor": -1.7430600597872972,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6328418850898743,
+        "cosine_distance": 0.36715811491012573,
+        "similarity_zscore_within_anchor": 1.704594288877478,
+        "distance_zscore_within_anchor": -1.704594288877478,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7080436944961548,
+        "cosine_distance": 0.2919563055038452,
+        "similarity_zscore_within_anchor": 1.8226681413188053,
+        "distance_zscore_within_anchor": -1.822668141318789,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7802420258522034,
+        "cosine_distance": 0.21975797414779663,
+        "similarity_zscore_within_anchor": 1.761255924527416,
+        "distance_zscore_within_anchor": -1.7612559245274346,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCBi2mrWuNuyYy4gbM6fU18Q",
+    "token": "usr6463673c6a",
+    "n_posts": 1734,
+    "channel_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
+    "channel_title": "ABC News",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 4,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5710147619247437,
+        "cosine_distance": 0.42898523807525635,
+        "similarity_zscore_within_anchor": 1.1311392157749822,
+        "distance_zscore_within_anchor": -1.1311392157749414,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6104891300201416,
+        "cosine_distance": 0.3895108699798584,
+        "similarity_zscore_within_anchor": -1.0832464217507005,
+        "distance_zscore_within_anchor": 1.083246421750717,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.335522323846817,
+        "cosine_distance": 0.664477676153183,
+        "similarity_zscore_within_anchor": 0.20289706676268196,
+        "distance_zscore_within_anchor": -0.202897066762638,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4344387948513031,
+        "cosine_distance": 0.5655612051486969,
+        "similarity_zscore_within_anchor": -0.3353354795948847,
+        "distance_zscore_within_anchor": 0.3353354795949185,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5990554094314575,
+        "cosine_distance": 0.4009445905685425,
+        "similarity_zscore_within_anchor": 1.0775917415456533,
+        "distance_zscore_within_anchor": -1.0775917415456533,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.54020756483078,
+        "cosine_distance": 0.45979243516921997,
+        "similarity_zscore_within_anchor": 1.305731192724662,
+        "distance_zscore_within_anchor": -1.305731192724662,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6739901304244995,
+        "cosine_distance": 0.3260098695755005,
+        "similarity_zscore_within_anchor": -0.4707535547506705,
+        "distance_zscore_within_anchor": 0.47075355475068403,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.628172755241394,
+        "cosine_distance": 0.37182724475860596,
+        "similarity_zscore_within_anchor": -0.10959315972763926,
+        "distance_zscore_within_anchor": 0.10959315972763926,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7000579833984375,
+        "cosine_distance": 0.2999420166015625,
+        "similarity_zscore_within_anchor": -0.5089705189623388,
+        "distance_zscore_within_anchor": 0.508970518962355,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7733458280563354,
+        "cosine_distance": 0.22665417194366455,
+        "similarity_zscore_within_anchor": -0.539357735823679,
+        "distance_zscore_within_anchor": 0.5393577358236605,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCBu0KdNokE4MqdkacvH37_A",
+    "token": "usr2e6a75427d",
+    "n_posts": 389,
+    "channel_id": "UCBu0KdNokE4MqdkacvH37_A",
+    "channel_title": "WFAA",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5707341432571411,
+        "cosine_distance": 0.4292658567428589,
+        "similarity_zscore_within_anchor": 0.9247500668884389,
+        "distance_zscore_within_anchor": -0.924750066888398,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6157647371292114,
+        "cosine_distance": 0.3842352628707886,
+        "similarity_zscore_within_anchor": 0.4868658295806348,
+        "distance_zscore_within_anchor": -0.48686582958061825,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3372189998626709,
+        "cosine_distance": 0.6627810001373291,
+        "similarity_zscore_within_anchor": 1.5477553177562835,
+        "distance_zscore_within_anchor": -1.5477553177562398,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4367954730987549,
+        "cosine_distance": 0.5632045269012451,
+        "similarity_zscore_within_anchor": 1.0994125727874384,
+        "distance_zscore_within_anchor": -1.0994125727874045,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5993573665618896,
+        "cosine_distance": 0.40064263343811035,
+        "similarity_zscore_within_anchor": 1.2189397998122555,
+        "distance_zscore_within_anchor": -1.2189397998122555,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5397027134895325,
+        "cosine_distance": 0.46029728651046753,
+        "similarity_zscore_within_anchor": 1.0128543736291342,
+        "distance_zscore_within_anchor": -1.0128543736291342,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6778251528739929,
+        "cosine_distance": 0.3221748471260071,
+        "similarity_zscore_within_anchor": 0.4557270541459759,
+        "distance_zscore_within_anchor": -0.4557270541459626,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6303677558898926,
+        "cosine_distance": 0.3696322441101074,
+        "similarity_zscore_within_anchor": 0.7432729535337644,
+        "distance_zscore_within_anchor": -0.7432729535337644,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7044458389282227,
+        "cosine_distance": 0.29555416107177734,
+        "similarity_zscore_within_anchor": 0.7721794580134088,
+        "distance_zscore_within_anchor": -0.7721794580133926,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7773056030273438,
+        "cosine_distance": 0.22269439697265625,
+        "similarity_zscore_within_anchor": 0.781647354209637,
+        "distance_zscore_within_anchor": -0.7816473542096557,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCCXoCcu9Rp7NPbTzIvogpZg",
+    "token": "usrb8819257a7",
+    "n_posts": 3147,
+    "channel_id": "UCCXoCcu9Rp7NPbTzIvogpZg",
+    "channel_title": "Fox Business",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 8,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5695663690567017,
+        "cosine_distance": 0.43043363094329834,
+        "similarity_zscore_within_anchor": 0.0658766163818206,
+        "distance_zscore_within_anchor": -0.06587661638177977,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6123827695846558,
+        "cosine_distance": 0.38761723041534424,
+        "similarity_zscore_within_anchor": -0.5196664169512821,
+        "distance_zscore_within_anchor": 0.5196664169512986,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.33559736609458923,
+        "cosine_distance": 0.6644026339054108,
+        "similarity_zscore_within_anchor": 0.26237877402238036,
+        "distance_zscore_within_anchor": -0.2623787740223364,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4350428879261017,
+        "cosine_distance": 0.5649571120738983,
+        "similarity_zscore_within_anchor": 0.03243698296426255,
+        "distance_zscore_within_anchor": -0.032436982964228755,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5974603295326233,
+        "cosine_distance": 0.4025396704673767,
+        "similarity_zscore_within_anchor": 0.33092466944290005,
+        "distance_zscore_within_anchor": -0.33092466944290005,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.536859393119812,
+        "cosine_distance": 0.463140606880188,
+        "similarity_zscore_within_anchor": -0.6366264883914049,
+        "distance_zscore_within_anchor": 0.6366264883914049,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6742402911186218,
+        "cosine_distance": 0.3257597088813782,
+        "similarity_zscore_within_anchor": -0.41031869804127485,
+        "distance_zscore_within_anchor": 0.41031869804128834,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6271554827690125,
+        "cosine_distance": 0.37284451723098755,
+        "similarity_zscore_within_anchor": -0.5048537352729707,
+        "distance_zscore_within_anchor": 0.5048537352729707,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7005343437194824,
+        "cosine_distance": 0.2994656562805176,
+        "similarity_zscore_within_anchor": -0.36988457818872744,
+        "distance_zscore_within_anchor": 0.3698845781887436,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7739682197570801,
+        "cosine_distance": 0.22603178024291992,
+        "similarity_zscore_within_anchor": -0.3317240670678027,
+        "distance_zscore_within_anchor": 0.33172406706778423,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCIALMKvObZNtJ6AmdCLP7Lg",
+    "token": "usr759ce9f3ae",
+    "n_posts": 89,
+    "channel_id": "UCIALMKvObZNtJ6AmdCLP7Lg",
+    "channel_title": "Bloomberg Television",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 2,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5680404901504517,
+        "cosine_distance": 0.43195950984954834,
+        "similarity_zscore_within_anchor": -1.0563753401805225,
+        "distance_zscore_within_anchor": 1.0563753401805633,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6193739175796509,
+        "cosine_distance": 0.3806260824203491,
+        "similarity_zscore_within_anchor": 1.5610205809377133,
+        "distance_zscore_within_anchor": -1.5610205809376967,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.33408719301223755,
+        "cosine_distance": 0.6659128069877625,
+        "similarity_zscore_within_anchor": -0.93464924502873,
+        "distance_zscore_within_anchor": 0.9346492450287742,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4340095520019531,
+        "cosine_distance": 0.5659904479980469,
+        "similarity_zscore_within_anchor": -0.5966589516343223,
+        "distance_zscore_within_anchor": 0.596658951634356,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5978045463562012,
+        "cosine_distance": 0.40219545364379883,
+        "similarity_zscore_within_anchor": 0.4920547595513937,
+        "distance_zscore_within_anchor": -0.4920547595513937,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5379571914672852,
+        "cosine_distance": 0.46204280853271484,
+        "similarity_zscore_within_anchor": 0.00023363605976772973,
+        "distance_zscore_within_anchor": -0.00023363605976772973,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6824487447738647,
+        "cosine_distance": 0.31755125522613525,
+        "similarity_zscore_within_anchor": 1.5727135373016894,
+        "distance_zscore_within_anchor": -1.5727135373016763,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6326920986175537,
+        "cosine_distance": 0.3673079013824463,
+        "similarity_zscore_within_anchor": 1.6463948498228453,
+        "distance_zscore_within_anchor": -1.6463948498228453,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7067657113075256,
+        "cosine_distance": 0.29323428869247437,
+        "similarity_zscore_within_anchor": 1.4495272934550665,
+        "distance_zscore_within_anchor": -1.4495272934550503,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.778903603553772,
+        "cosine_distance": 0.22109639644622803,
+        "similarity_zscore_within_anchor": 1.3147500796784213,
+        "distance_zscore_within_anchor": -1.31475007967844,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCJg9wBPyKMNA5sRDnvzmkdg",
+    "token": "usr454cd45dbe",
+    "n_posts": 2841,
+    "channel_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
+    "channel_title": "LiveNOW from FOX",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 8,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.570038378238678,
+        "cosine_distance": 0.429961621761322,
+        "similarity_zscore_within_anchor": 0.4130294774762423,
+        "distance_zscore_within_anchor": -0.41302947747620145,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6115320920944214,
+        "cosine_distance": 0.3884679079055786,
+        "similarity_zscore_within_anchor": -0.772842804376441,
+        "distance_zscore_within_anchor": 0.7728428043764575,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.33458563685417175,
+        "cosine_distance": 0.6654143631458282,
+        "similarity_zscore_within_anchor": -0.5395612569753324,
+        "distance_zscore_within_anchor": 0.5395612569753765,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4345299005508423,
+        "cosine_distance": 0.5654700994491577,
+        "similarity_zscore_within_anchor": -0.27987023943487915,
+        "distance_zscore_within_anchor": 0.2798702394349129,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5965113043785095,
+        "cosine_distance": 0.4034886956214905,
+        "similarity_zscore_within_anchor": -0.113320056913366,
+        "distance_zscore_within_anchor": 0.113320056913366,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.537541925907135,
+        "cosine_distance": 0.462458074092865,
+        "similarity_zscore_within_anchor": -0.240672243354464,
+        "distance_zscore_within_anchor": 0.240672243354464,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6727536916732788,
+        "cosine_distance": 0.3272463083267212,
+        "similarity_zscore_within_anchor": -0.7694575498852197,
+        "distance_zscore_within_anchor": 0.7694575498852333,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6269761323928833,
+        "cosine_distance": 0.3730238676071167,
+        "similarity_zscore_within_anchor": -0.5745402104482155,
+        "distance_zscore_within_anchor": 0.5745402104482155,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7002847194671631,
+        "cosine_distance": 0.2997152805328369,
+        "similarity_zscore_within_anchor": -0.4427689525580823,
+        "distance_zscore_within_anchor": 0.4427689525580985,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7725915908813477,
+        "cosine_distance": 0.22740840911865234,
+        "similarity_zscore_within_anchor": -0.7909758592135333,
+        "distance_zscore_within_anchor": 0.7909758592135149,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCK7tptUDHh-RYDsdxO1-5QQ",
+    "token": "usr570ff2224d",
+    "n_posts": 357,
+    "channel_id": "UCK7tptUDHh-RYDsdxO1-5QQ",
+    "channel_title": "The Wall Street Journal",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5709066987037659,
+        "cosine_distance": 0.42909330129623413,
+        "similarity_zscore_within_anchor": 1.0516609815075006,
+        "distance_zscore_within_anchor": -1.0516609815074598,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6176837682723999,
+        "cosine_distance": 0.3823162317276001,
+        "similarity_zscore_within_anchor": 1.0580028089486573,
+        "distance_zscore_within_anchor": -1.0580028089486406,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3378913700580597,
+        "cosine_distance": 0.6621086299419403,
+        "similarity_zscore_within_anchor": 2.0807048004751296,
+        "distance_zscore_within_anchor": -2.080704800475086,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.437305212020874,
+        "cosine_distance": 0.562694787979126,
+        "similarity_zscore_within_anchor": 1.4097421336957587,
+        "distance_zscore_within_anchor": -1.409742133695725,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.6007213592529297,
+        "cosine_distance": 0.3992786407470703,
+        "similarity_zscore_within_anchor": 1.8574334763564582,
+        "distance_zscore_within_anchor": -1.8574334763564582,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5398584604263306,
+        "cosine_distance": 0.46014153957366943,
+        "similarity_zscore_within_anchor": 1.1032070452107887,
+        "distance_zscore_within_anchor": -1.1032070452107887,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6813018918037415,
+        "cosine_distance": 0.31869810819625854,
+        "similarity_zscore_within_anchor": 1.2956520462496328,
+        "distance_zscore_within_anchor": -1.2956520462496195,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6323815584182739,
+        "cosine_distance": 0.3676184415817261,
+        "similarity_zscore_within_anchor": 1.525734651862385,
+        "distance_zscore_within_anchor": -1.525734651862385,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7053627967834473,
+        "cosine_distance": 0.29463720321655273,
+        "similarity_zscore_within_anchor": 1.0399094521151653,
+        "distance_zscore_within_anchor": -1.039909452115149,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7780606746673584,
+        "cosine_distance": 0.2219393253326416,
+        "similarity_zscore_within_anchor": 1.033543860223757,
+        "distance_zscore_within_anchor": -1.0335438602237756,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCLXo7UDZvByw2ixzpQCufnA",
+    "token": "usr2d3c821dd4",
+    "n_posts": 24,
+    "channel_id": "UCLXo7UDZvByw2ixzpQCufnA",
+    "channel_title": "Vox",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5668392181396484,
+        "cosine_distance": 0.43316078186035156,
+        "similarity_zscore_within_anchor": -1.9398857281710484,
+        "distance_zscore_within_anchor": 1.9398857281710893,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6224559545516968,
+        "cosine_distance": 0.3775440454483032,
+        "similarity_zscore_within_anchor": 2.4782882828001096,
+        "distance_zscore_within_anchor": -2.4782882828000927,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3356701731681824,
+        "cosine_distance": 0.6643298268318176,
+        "similarity_zscore_within_anchor": 0.3200887862683864,
+        "distance_zscore_within_anchor": -0.3200887862683424,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4350394904613495,
+        "cosine_distance": 0.5649605095386505,
+        "similarity_zscore_within_anchor": 0.03036860305643113,
+        "distance_zscore_within_anchor": -0.030368603056397336,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5965770483016968,
+        "cosine_distance": 0.4034229516983032,
+        "similarity_zscore_within_anchor": -0.08254490723550131,
+        "distance_zscore_within_anchor": 0.08254490723550131,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5372640490531921,
+        "cosine_distance": 0.46273595094680786,
+        "similarity_zscore_within_anchor": -0.40187551733596943,
+        "distance_zscore_within_anchor": 0.40187551733596943,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6851616501808167,
+        "cosine_distance": 0.31483834981918335,
+        "similarity_zscore_within_anchor": 2.228108462993408,
+        "distance_zscore_within_anchor": -2.228108462993395,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6338319182395935,
+        "cosine_distance": 0.3661680817604065,
+        "similarity_zscore_within_anchor": 2.089271042835875,
+        "distance_zscore_within_anchor": -2.089271042835875,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7094708681106567,
+        "cosine_distance": 0.29052913188934326,
+        "similarity_zscore_within_anchor": 2.2393690629758813,
+        "distance_zscore_within_anchor": -2.239369062975865,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7816996574401855,
+        "cosine_distance": 0.21830034255981445,
+        "similarity_zscore_within_anchor": 2.2475307157000795,
+        "distance_zscore_within_anchor": -2.2475307157000985,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCP6HGa63sBC7-KHtkme-p-g",
+    "token": "usr891336997a",
+    "n_posts": 136,
+    "channel_id": "UCP6HGa63sBC7-KHtkme-p-g",
+    "channel_title": "USA TODAY",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 6,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5693075060844421,
+        "cosine_distance": 0.43069249391555786,
+        "similarity_zscore_within_anchor": -0.1245116745302988,
+        "distance_zscore_within_anchor": 0.12451167453033962,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6183489561080933,
+        "cosine_distance": 0.38165104389190674,
+        "similarity_zscore_within_anchor": 1.2559742553937787,
+        "distance_zscore_within_anchor": -1.255974255393762,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.33582603931427,
+        "cosine_distance": 0.66417396068573,
+        "similarity_zscore_within_anchor": 0.4436349852232007,
+        "distance_zscore_within_anchor": -0.4436349852231568,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.43529507517814636,
+        "cosine_distance": 0.5647049248218536,
+        "similarity_zscore_within_anchor": 0.18596883191224006,
+        "distance_zscore_within_anchor": -0.18596883191220626,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5988907217979431,
+        "cosine_distance": 0.4011092782020569,
+        "similarity_zscore_within_anchor": 1.0005004101223167,
+        "distance_zscore_within_anchor": -1.0005004101223167,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5398555397987366,
+        "cosine_distance": 0.4601444602012634,
+        "similarity_zscore_within_anchor": 1.1015127165052774,
+        "distance_zscore_within_anchor": -1.1015127165052774,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6820037364959717,
+        "cosine_distance": 0.3179962635040283,
+        "similarity_zscore_within_anchor": 1.4652065942012966,
+        "distance_zscore_within_anchor": -1.4652065942012835,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6320293545722961,
+        "cosine_distance": 0.36797064542770386,
+        "similarity_zscore_within_anchor": 1.388886070336788,
+        "distance_zscore_within_anchor": -1.388886070336788,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.706668496131897,
+        "cosine_distance": 0.293331503868103,
+        "similarity_zscore_within_anchor": 1.4211427627491404,
+        "distance_zscore_within_anchor": -1.4211427627491242,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7785155773162842,
+        "cosine_distance": 0.22148442268371582,
+        "similarity_zscore_within_anchor": 1.1853021593948783,
+        "distance_zscore_within_anchor": -1.185302159394897,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCYI_ychRnL7sJrG6PUSBpQA",
+    "token": "usr80110ccde0",
+    "n_posts": 350,
+    "channel_id": "UCYI_ychRnL7sJrG6PUSBpQA",
+    "channel_title": "CBN News",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 3,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5694892406463623,
+        "cosine_distance": 0.4305107593536377,
+        "similarity_zscore_within_anchor": 0.009150287014958406,
+        "distance_zscore_within_anchor": -0.00915028701491758,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6178226470947266,
+        "cosine_distance": 0.38217735290527344,
+        "similarity_zscore_within_anchor": 1.099335557175999,
+        "distance_zscore_within_anchor": -1.0993355571759824,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3349902629852295,
+        "cosine_distance": 0.6650097370147705,
+        "similarity_zscore_within_anchor": -0.21883721429664893,
+        "distance_zscore_within_anchor": 0.21883721429669298,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4400952160358429,
+        "cosine_distance": 0.5599047839641571,
+        "similarity_zscore_within_anchor": 3.108299342743597,
+        "distance_zscore_within_anchor": -3.1082993427435635,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5993725061416626,
+        "cosine_distance": 0.4006274938583374,
+        "similarity_zscore_within_anchor": 1.226026733645599,
+        "distance_zscore_within_anchor": -1.226026733645599,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5424602627754211,
+        "cosine_distance": 0.45753973722457886,
+        "similarity_zscore_within_anchor": 2.612577296726596,
+        "distance_zscore_within_anchor": -2.612577296726596,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6800359487533569,
+        "cosine_distance": 0.31996405124664307,
+        "similarity_zscore_within_anchor": 0.9898202803094721,
+        "distance_zscore_within_anchor": -0.9898202803094589,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6309188604354858,
+        "cosine_distance": 0.36908113956451416,
+        "similarity_zscore_within_anchor": 0.9574042760563012,
+        "distance_zscore_within_anchor": -0.9574042760563012,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7058314085006714,
+        "cosine_distance": 0.2941685914993286,
+        "similarity_zscore_within_anchor": 1.176732983942259,
+        "distance_zscore_within_anchor": -1.1767329839422427,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7783823013305664,
+        "cosine_distance": 0.2216176986694336,
+        "similarity_zscore_within_anchor": 1.1408404774050163,
+        "distance_zscore_within_anchor": -1.140840477405035,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCZaT_X_mc0BI-djXOlfhqWQ",
+    "token": "usredfbd1665e",
+    "n_posts": 369,
+    "channel_id": "UCZaT_X_mc0BI-djXOlfhqWQ",
+    "channel_title": "VICE News",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5694787502288818,
+        "cosine_distance": 0.43052124977111816,
+        "similarity_zscore_within_anchor": 0.0014348048135922973,
+        "distance_zscore_within_anchor": -0.00143480481355147,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6146456003189087,
+        "cosine_distance": 0.3853543996810913,
+        "similarity_zscore_within_anchor": 0.15379128850056303,
+        "distance_zscore_within_anchor": -0.1537912885005465,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3337888717651367,
+        "cosine_distance": 0.6662111282348633,
+        "similarity_zscore_within_anchor": -1.1711114728562046,
+        "distance_zscore_within_anchor": 1.1711114728562488,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.433948278427124,
+        "cosine_distance": 0.566051721572876,
+        "similarity_zscore_within_anchor": -0.6339623647088958,
+        "distance_zscore_within_anchor": 0.6339623647089296,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5971003770828247,
+        "cosine_distance": 0.4028996229171753,
+        "similarity_zscore_within_anchor": 0.16242863235801808,
+        "distance_zscore_within_anchor": -0.16242863235801808,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5386995673179626,
+        "cosine_distance": 0.46130043268203735,
+        "similarity_zscore_within_anchor": 0.43090433049126714,
+        "distance_zscore_within_anchor": -0.43090433049126714,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6779986023902893,
+        "cosine_distance": 0.3220013976097107,
+        "similarity_zscore_within_anchor": 0.497629706760782,
+        "distance_zscore_within_anchor": -0.49762970676076873,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6284875869750977,
+        "cosine_distance": 0.37151241302490234,
+        "similarity_zscore_within_anchor": 0.012734511218071218,
+        "distance_zscore_within_anchor": -0.012734511218071218,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7037695646286011,
+        "cosine_distance": 0.2962304353713989,
+        "similarity_zscore_within_anchor": 0.5747233664196407,
+        "distance_zscore_within_anchor": -0.5747233664196245,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.775932788848877,
+        "cosine_distance": 0.22406721115112305,
+        "similarity_zscore_within_anchor": 0.3236681683462639,
+        "distance_zscore_within_anchor": -0.3236681683462824,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCcyq283he07B7_KUX07mmtA",
+    "token": "usrf7310a3ab3",
+    "n_posts": 345,
+    "channel_id": "UCcyq283he07B7_KUX07mmtA",
+    "channel_title": "Business Insider",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5693134069442749,
+        "cosine_distance": 0.4306865930557251,
+        "similarity_zscore_within_anchor": -0.12017171579203036,
+        "distance_zscore_within_anchor": 0.12017171579207118,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6160926818847656,
+        "cosine_distance": 0.3839073181152344,
+        "similarity_zscore_within_anchor": 0.5844678814033103,
+        "distance_zscore_within_anchor": -0.5844678814032936,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3362392783164978,
+        "cosine_distance": 0.6637607216835022,
+        "similarity_zscore_within_anchor": 0.7711859593546454,
+        "distance_zscore_within_anchor": -0.7711859593546015,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4371916651725769,
+        "cosine_distance": 0.5628083348274231,
+        "similarity_zscore_within_anchor": 1.3406146999340245,
+        "distance_zscore_within_anchor": -1.3406146999339907,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5988003015518188,
+        "cosine_distance": 0.40119969844818115,
+        "similarity_zscore_within_anchor": 0.9581741163223886,
+        "distance_zscore_within_anchor": -0.9581741163223886,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5401695966720581,
+        "cosine_distance": 0.4598304033279419,
+        "similarity_zscore_within_anchor": 1.283704919553015,
+        "distance_zscore_within_anchor": -1.283704919553015,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6794434785842896,
+        "cosine_distance": 0.32055652141571045,
+        "similarity_zscore_within_anchor": 0.8466888827180038,
+        "distance_zscore_within_anchor": -0.8466888827179906,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6311354041099548,
+        "cosine_distance": 0.36886459589004517,
+        "similarity_zscore_within_anchor": 1.0415421837703802,
+        "distance_zscore_within_anchor": -1.0415421837703802,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.704289436340332,
+        "cosine_distance": 0.29571056365966797,
+        "similarity_zscore_within_anchor": 0.7265136035852361,
+        "distance_zscore_within_anchor": -0.7265136035852199,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7779462337493896,
+        "cosine_distance": 0.22205376625061035,
+        "similarity_zscore_within_anchor": 0.9953656717530348,
+        "distance_zscore_within_anchor": -0.9953656717530535,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCg40OxZ1GYh3u3jBntB6DLg",
+    "token": "usr2940437db6",
+    "n_posts": 3566,
+    "channel_id": "UCg40OxZ1GYh3u3jBntB6DLg",
+    "channel_title": "Forbes Breaking News",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 24,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.570807695388794,
+        "cosine_distance": 0.42919230461120605,
+        "similarity_zscore_within_anchor": 0.978846118232108,
+        "distance_zscore_within_anchor": -0.9788461182320672,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6139401197433472,
+        "cosine_distance": 0.38605988025665283,
+        "similarity_zscore_within_anchor": -0.056171976743564014,
+        "distance_zscore_within_anchor": 0.05617197674358053,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3361462950706482,
+        "cosine_distance": 0.6638537049293518,
+        "similarity_zscore_within_anchor": 0.6974834467850429,
+        "distance_zscore_within_anchor": -0.6974834467849991,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.4351256489753723,
+        "cosine_distance": 0.5648743510246277,
+        "similarity_zscore_within_anchor": 0.08282199177169974,
+        "distance_zscore_within_anchor": -0.08282199177166595,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5971068143844604,
+        "cosine_distance": 0.40289318561553955,
+        "similarity_zscore_within_anchor": 0.1654419743029042,
+        "distance_zscore_within_anchor": -0.1654419743029042,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5383833646774292,
+        "cosine_distance": 0.4616166353225708,
+        "similarity_zscore_within_anchor": 0.24746731451703152,
+        "distance_zscore_within_anchor": -0.24746731451703152,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6751601099967957,
+        "cosine_distance": 0.32483989000320435,
+        "similarity_zscore_within_anchor": -0.1881050433499731,
+        "distance_zscore_within_anchor": 0.18810504334998654,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6283313632011414,
+        "cosine_distance": 0.37166863679885864,
+        "similarity_zscore_within_anchor": -0.04796613731443677,
+        "distance_zscore_within_anchor": 0.04796613731443677,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7006801962852478,
+        "cosine_distance": 0.2993198037147522,
+        "similarity_zscore_within_anchor": -0.32729908055696727,
+        "distance_zscore_within_anchor": 0.3272990805569835,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7746258974075317,
+        "cosine_distance": 0.22537410259246826,
+        "similarity_zscore_within_anchor": -0.11231879020012034,
+        "distance_zscore_within_anchor": 0.11231879020010184,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCrvhNP_lWuPIP6QZzJmM-bw",
+    "token": "usr9c1f8733fc",
+    "n_posts": 1718,
+    "channel_id": "UCrvhNP_lWuPIP6QZzJmM-bw",
+    "channel_title": "New York Post",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 1,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5683640241622925,
+        "cosine_distance": 0.4316359758377075,
+        "similarity_zscore_within_anchor": -0.8184228550156633,
+        "distance_zscore_within_anchor": 0.8184228550157041,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6109949350357056,
+        "cosine_distance": 0.38900506496429443,
+        "similarity_zscore_within_anchor": -0.9327100691939532,
+        "distance_zscore_within_anchor": 0.9327100691939696,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.3342706263065338,
+        "cosine_distance": 0.6657293736934662,
+        "similarity_zscore_within_anchor": -0.7892521409050433,
+        "distance_zscore_within_anchor": 0.7892521409050873,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.43338143825531006,
+        "cosine_distance": 0.5666185617446899,
+        "similarity_zscore_within_anchor": -0.9790552230155056,
+        "distance_zscore_within_anchor": 0.9790552230155394,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5956887006759644,
+        "cosine_distance": 0.40431129932403564,
+        "similarity_zscore_within_anchor": -0.49838609562978525,
+        "distance_zscore_within_anchor": 0.49838609562978525,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5360668897628784,
+        "cosine_distance": 0.4639331102371216,
+        "similarity_zscore_within_anchor": -1.096377395911374,
+        "distance_zscore_within_anchor": 1.096377395911374,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6733363270759583,
+        "cosine_distance": 0.32666367292404175,
+        "similarity_zscore_within_anchor": -0.6287020758956219,
+        "distance_zscore_within_anchor": 0.6287020758956354,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6284306049346924,
+        "cosine_distance": 0.3715693950653076,
+        "similarity_zscore_within_anchor": -0.00940582453052765,
+        "distance_zscore_within_anchor": 0.00940582453052765,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.6990957856178284,
+        "cosine_distance": 0.30090421438217163,
+        "similarity_zscore_within_anchor": -0.7899095006826101,
+        "distance_zscore_within_anchor": 0.7899095006826263,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7730589509010315,
+        "cosine_distance": 0.2269410490989685,
+        "similarity_zscore_within_anchor": -0.6350617051515887,
+        "distance_zscore_within_anchor": 0.6350617051515702,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCupvZG-5ko_eiXAupbDfxWw",
+    "token": "usr855b8075ee",
+    "n_posts": 25467,
+    "channel_id": "UCupvZG-5ko_eiXAupbDfxWw",
+    "channel_title": "CNN",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 7,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5717287063598633,
+        "cosine_distance": 0.4282712936401367,
+        "similarity_zscore_within_anchor": 1.65623038513841,
+        "distance_zscore_within_anchor": -1.656230385138369,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6124773025512695,
+        "cosine_distance": 0.38752269744873047,
+        "similarity_zscore_within_anchor": -0.49153176515361524,
+        "distance_zscore_within_anchor": 0.4915317651536317,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.33666864037513733,
+        "cosine_distance": 0.6633313596248627,
+        "similarity_zscore_within_anchor": 1.1115167601848577,
+        "distance_zscore_within_anchor": -1.111516760184814,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.43499425053596497,
+        "cosine_distance": 0.565005749464035,
+        "similarity_zscore_within_anchor": 0.0028264916521496554,
+        "distance_zscore_within_anchor": -0.00282649165211586,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5998741388320923,
+        "cosine_distance": 0.4001258611679077,
+        "similarity_zscore_within_anchor": 1.46084419483228,
+        "distance_zscore_within_anchor": -1.46084419483228,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5394189357757568,
+        "cosine_distance": 0.46058106422424316,
+        "similarity_zscore_within_anchor": 0.8482278640997589,
+        "distance_zscore_within_anchor": -0.8482278640997589,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6730490922927856,
+        "cosine_distance": 0.32695090770721436,
+        "similarity_zscore_within_anchor": -0.69809344460722,
+        "distance_zscore_within_anchor": 0.6980934446072335,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6281522512435913,
+        "cosine_distance": 0.3718477487564087,
+        "similarity_zscore_within_anchor": -0.11755997510161208,
+        "distance_zscore_within_anchor": 0.11755997510161208,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7013933062553406,
+        "cosine_distance": 0.2986066937446594,
+        "similarity_zscore_within_anchor": -0.11908784489436888,
+        "distance_zscore_within_anchor": 0.11908784489438509,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7737838625907898,
+        "cosine_distance": 0.2262161374092102,
+        "similarity_zscore_within_anchor": -0.39322674255735696,
+        "distance_zscore_within_anchor": 0.39322674255733847,
+        "n_anchor_terms": 3
+      }
+    }
+  },
+  {
+    "user_id": "iran_news::UCzuqE7-t13O4NIDYJfakrhw",
+    "token": "usr1de523eeef",
+    "n_posts": 1110,
+    "channel_id": "UCzuqE7-t13O4NIDYJfakrhw",
+    "channel_title": "Democracy Now!",
+    "group_label": "iran_news",
+    "corpus": "iran",
+    "source_kind": "news",
+    "n_videos": 3,
+    "anchors": {
+      "trump": {
+        "anchor_label": "Trump",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Trump-centered language.",
+        "cosine_similarity": 0.5702114105224609,
+        "cosine_distance": 0.42978858947753906,
+        "similarity_zscore_within_anchor": 0.5402910958317299,
+        "distance_zscore_within_anchor": -0.5402910958316891,
+        "n_anchor_terms": 1
+      },
+      "biden": {
+        "anchor_label": "Biden",
+        "anchor_group": "leader",
+        "anchor_description": "Direct channel proximity to Biden-centered language.",
+        "cosine_similarity": 0.6109386086463928,
+        "cosine_distance": 0.3890613913536072,
+        "similarity_zscore_within_anchor": -0.9494737803848707,
+        "distance_zscore_within_anchor": 0.9494737803848871,
+        "n_anchor_terms": 1
+      },
+      "war": {
+        "anchor_label": "War",
+        "anchor_group": "theme",
+        "anchor_description": "General war framing.",
+        "cosine_similarity": 0.335604190826416,
+        "cosine_distance": 0.664395809173584,
+        "similarity_zscore_within_anchor": 0.2677883494641877,
+        "distance_zscore_within_anchor": -0.26778834946414376,
+        "n_anchor_terms": 1
+      },
+      "peace": {
+        "anchor_label": "Peace",
+        "anchor_group": "theme",
+        "anchor_description": "General peace and de-escalation framing.",
+        "cosine_similarity": 0.43515342473983765,
+        "cosine_distance": 0.5648465752601624,
+        "similarity_zscore_within_anchor": 0.09973190470239167,
+        "distance_zscore_within_anchor": -0.09973190470235786,
+        "n_anchor_terms": 1
+      },
+      "iran": {
+        "anchor_label": "Iran",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Iran-related language.",
+        "cosine_similarity": 0.5979609489440918,
+        "cosine_distance": 0.4020390510559082,
+        "similarity_zscore_within_anchor": 0.5652678082864045,
+        "distance_zscore_within_anchor": -0.5652678082864045,
+        "n_anchor_terms": 1
+      },
+      "israel": {
+        "anchor_label": "Israel",
+        "anchor_group": "country",
+        "anchor_description": "Direct proximity to Israel-related language.",
+        "cosine_similarity": 0.5380589365959167,
+        "cosine_distance": 0.46194106340408325,
+        "similarity_zscore_within_anchor": 0.059258515657886514,
+        "distance_zscore_within_anchor": -0.059258515657886514,
+        "n_anchor_terms": 1
+      },
+      "taliban": {
+        "anchor_label": "Taliban",
+        "anchor_group": "actor",
+        "anchor_description": "Direct proximity to Taliban-related language.",
+        "cosine_similarity": 0.6740921139717102,
+        "cosine_distance": 0.3259078860282898,
+        "similarity_zscore_within_anchor": -0.446115946976123,
+        "distance_zscore_within_anchor": 0.4461159469761365,
+        "n_anchor_terms": 1
+      },
+      "nato": {
+        "anchor_label": "NATO",
+        "anchor_group": "institution",
+        "anchor_description": "Direct proximity to NATO-related language.",
+        "cosine_similarity": 0.6277705430984497,
+        "cosine_distance": 0.3722294569015503,
+        "similarity_zscore_within_anchor": -0.26587243340080363,
+        "distance_zscore_within_anchor": 0.26587243340080363,
+        "n_anchor_terms": 1
+      },
+      "sanctions": {
+        "anchor_label": "Sanctions",
+        "anchor_group": "policy",
+        "anchor_description": "General sanctions framing.",
+        "cosine_similarity": 0.7011903524398804,
+        "cosine_distance": 0.29880964756011963,
+        "similarity_zscore_within_anchor": -0.17834555614739023,
+        "distance_zscore_within_anchor": 0.17834555614740644,
+        "n_anchor_terms": 1
+      },
+      "withdrawal": {
+        "anchor_label": "Withdrawal",
+        "anchor_group": "policy",
+        "anchor_description": "Withdrawal/end-of-war framing.",
+        "cosine_similarity": 0.7730301022529602,
+        "cosine_distance": 0.2269698977470398,
+        "similarity_zscore_within_anchor": -0.6446857901619166,
+        "distance_zscore_within_anchor": 0.6446857901618982,
+        "n_anchor_terms": 3
+      }
+    }
+  }
+]

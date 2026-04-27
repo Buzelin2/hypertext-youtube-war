@@ -1,0 +1,740 @@
+[
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UC-3jIAlnQmbbVMV6gR7K8aQ",
+    "token": "usr163af53f82",
+    "n_posts": 5638,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UC-3jIAlnQmbbVMV6gR7K8aQ",
+    "channel_title": "The Majority Report w/ Sam Seder",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 13,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "0g8WRvHogLk",
+      "8vSlkNSw0lY",
+      "A9K9eZqwbKo",
+      "KRoh0l9yPHs",
+      "LRaSiYeZGtY",
+      "TSVvEs7HxjE",
+      "apSI6nRFVpM",
+      "aytCUB6Hkgo",
+      "boCZoUBFyek",
+      "g_ynLI27fhc",
+      "mtWxP0DaL4w",
+      "uKNgPl_dBi0",
+      "ypOmZHBBIgo"
+    ],
+    "video_titles": [
+      "The Disturbing Lie Behind Trump's Strike On Iran",
+      "Nancy Mace on US personnel killed by Iran: \"They signed up for it\"",
+      "Trump's Iran Quagmire Hits Inflection Point | MR Live",
+      "Iran will set the pace in this war",
+      "Trump Regime At War With Iran And Itself w/ Annelle Sheline, Séamus Malekafzali | MR Live",
+      "Trump Panics As Iran War Spins Completely Out Of Control | Annelle Sheline | TMR",
+      "Apocalyptic scenes after US/Israeli strikes in Iran, where it RAINED OIL",
+      "Trump's Iran War Flip-Flops; Section 230 30 Years Later w/ Brian Reed, Mike Masnick | MR Live",
+      "Trump In Way Over His Head With Iran War",
+      "One week's worth of Iran war expenses could have paid for college for all Americans.",
+      "Trump Team Panics As Iran Shuts Down Global Trade",
+      "Stephen Miller: we need the Iran war to show how we're NOT WOKE",
+      "Trump regime is just winging it with the Iran War"
+    ],
+    "comments_per_video": {
+      "boCZoUBFyek": 484,
+      "0g8WRvHogLk": 217,
+      "8vSlkNSw0lY": 160,
+      "apSI6nRFVpM": 431,
+      "mtWxP0DaL4w": 153,
+      "ypOmZHBBIgo": 447,
+      "KRoh0l9yPHs": 66,
+      "LRaSiYeZGtY": 223,
+      "A9K9eZqwbKo": 482,
+      "uKNgPl_dBi0": 646,
+      "aytCUB6Hkgo": 774,
+      "g_ynLI27fhc": 133,
+      "TSVvEs7HxjE": 1422
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UC1yBKRuGpC1tSM73A0ZjYjQ",
+    "token": "usr4bc6ea6ae7",
+    "n_posts": 21922,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
+    "channel_title": "The Young Turks",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 18,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "-4t42lsVFnQ",
+      "2H1W9uxa_qY",
+      "4WjXCIPDm0g",
+      "CI1jHhvfs-s",
+      "HdM6sNMRYmQ",
+      "INdFdqlJomM",
+      "J-Jh6ajwSe4",
+      "P8VA0LaFsxY",
+      "aJrrQz-ayrg",
+      "bK7jjL9wK5k",
+      "fpIiz3iM9W0",
+      "fse5-4STaKE",
+      "hVKSVQoxuTo",
+      "oLX-cjRjiTk",
+      "q7fDNiAtv4A",
+      "wS_rGBzJs8o",
+      "xH-jp0iRNsM",
+      "yHySo_IPBVQ"
+    ],
+    "video_titles": [
+      "Trump DENIES Responsibility for Bombing Iranian School",
+      "Trump & Miller Make PSYCHOTIC Threats To Iran",
+      "BREAKING: U.S. Embassy in Riyadh STRUCK By Iranian Drones",
+      "Kuwait STRIKES U.S. Jets As Iran War Rages",
+      "Trump Admin NAMES PICK FOR Iran Leader",
+      "JD Vance's Political Career In Question Over Iran War!",
+      "Fox Host BEGS Trump For Boots On The Ground In Iran",
+      "BREAKING: America and Israel Attack Iran!!",
+      "Trump AGITATED The Situation In Iran To Spur Unrest",
+      "Ana EXPLODES Over The Troops Lost In Iran War",
+      "POSER Commentators Pretend To Speak For Iranian People",
+      "Trump Gives Green Light To Israel To STRIKE IRAN",
+      "Why The U.S. Can't Leave Iran ANYTIME SOON",
+      "Trump Claims COLLAPSE After Iran Fires Back",
+      "Israel SUCCESSFULLY Goads Trump Into War With Iran",
+      "Trump ADMITS The Iran War Does SQUAT For Americans",
+      "Trump Is MELTING DOWN Over The Iran War",
+      "Witkoff EXPOSED For SABOTAGING Iran Negotiations"
+    ],
+    "comments_per_video": {
+      "yHySo_IPBVQ": 822,
+      "-4t42lsVFnQ": 2475,
+      "INdFdqlJomM": 1727,
+      "P8VA0LaFsxY": 615,
+      "fpIiz3iM9W0": 112,
+      "CI1jHhvfs-s": 167,
+      "wS_rGBzJs8o": 746,
+      "2H1W9uxa_qY": 5059,
+      "bK7jjL9wK5k": 303,
+      "q7fDNiAtv4A": 605,
+      "J-Jh6ajwSe4": 1219,
+      "aJrrQz-ayrg": 4364,
+      "hVKSVQoxuTo": 1238,
+      "oLX-cjRjiTk": 178,
+      "4WjXCIPDm0g": 1759,
+      "fse5-4STaKE": 533,
+      "HdM6sNMRYmQ": 0,
+      "xH-jp0iRNsM": 0
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UCCRNUa9EwvRXMYwUmDi3JtA",
+    "token": "usr86d145a3fe",
+    "n_posts": 100,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCCRNUa9EwvRXMYwUmDi3JtA",
+    "channel_title": "Chad Prather",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "5UmKKLJdoZ8"
+    ],
+    "video_titles": [
+      "THIS Is The DIFFERENCE Between A Pro-Palestine And A Pro-Iran Protestor!"
+    ],
+    "comments_per_video": {
+      "5UmKKLJdoZ8": 100
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UCD8YGIxFCnVqv-ZGqgtVWAg",
+    "token": "usra5acb9fbc5",
+    "n_posts": 7609,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCD8YGIxFCnVqv-ZGqgtVWAg",
+    "channel_title": "Erick Stakelbeck on TBN",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 8,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "6jV20Svp7Ho",
+      "G0jE7B6xF6U",
+      "Kriztmvz0fI",
+      "P-wEhV4DcWI",
+      "ck1dZDQ4Ub4",
+      "dAP4dDY_kzc",
+      "o-xad-KKsgA",
+      "vZ9TkpjS4MQ"
+    ],
+    "video_titles": [
+      "Trump's Leverage CRUSHES Iran's Regime, PRESSURES NATO to Act | Watchman Newscast",
+      "SPECIAL REPORT: U.S. & Israeli Strikes ELIMINATE Iran’s Khamenei; Regime to COLLAPSE? | The Watchman",
+      "U.S. & Israel Finalize Iran Attack Plans; Iran REJECTS Trump Red Lines | Watchman Newscast",
+      "Israel BLASTS Beirut After MASSIVE Hezbollah Barrage; Iran Waging Oil War? | Watchman Newscast LIVE",
+      "U.S. Refueling Planes in Israel; Iran THREATENS American Aircraft Carriers | Watchman Newscast LIVE",
+      "SPECIAL REPORT: Iran Military DECIMATED; Israel & U.S. MASSIVE Strikes on Tehran | The Watchman",
+      "U.S. F-22 Fighter Jets in Israel as MASSIVE Iran Strike Looms | Watchman Newscast LIVE",
+      "Iran Airs “Hit List” of Israeli Leaders, Launches MAJOR Naval Drills | Watchman Newscast LIVE"
+    ],
+    "comments_per_video": {
+      "vZ9TkpjS4MQ": 290,
+      "P-wEhV4DcWI": 2517,
+      "o-xad-KKsgA": 669,
+      "dAP4dDY_kzc": 131,
+      "Kriztmvz0fI": 440,
+      "ck1dZDQ4Ub4": 2772,
+      "G0jE7B6xF6U": 334,
+      "6jV20Svp7Ho": 456
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UCG749Dj4V2fKa143f8sE60Q",
+    "token": "usr9a5f6ecb6c",
+    "n_posts": 1807,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCG749Dj4V2fKa143f8sE60Q",
+    "channel_title": "Tim Pool",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "DJa4nUidQII"
+    ],
+    "video_titles": [
+      "Trump Plans INVASION of Iran, Military Draft & World War 3 FEARED"
+    ],
+    "comments_per_video": {
+      "DJa4nUidQII": 1807
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UCJdKr0Bgd_5saZYqLCa9mng",
+    "token": "usr87835ff178",
+    "n_posts": 13385,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCJdKr0Bgd_5saZYqLCa9mng",
+    "channel_title": "The Rubin Report",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 7,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "37eV9l8Q2wg",
+      "CIjY2gXdVV0",
+      "DyoNh1LHvqY",
+      "JTkWAk6pp9k",
+      "bNfrz3gO8KE",
+      "mnVMuVxOPhU",
+      "sCiWzwDneHk"
+    ],
+    "video_titles": [
+      "Press Stunned by Trump’s Brutal Threat for Remaining Iranian Revolutionary Guard",
+      "Resurfaced Clip of Trump Telling Host His Plan for Iran in 1980 Goes Viral",
+      "How the Iran War Will Most Likely End | Eva Vlaardingerbroek",
+      "I Was Halfway Through Writing Tucker’s Biography, Then Everything Changed | Miranda Devine",
+      "More Proof That Deep State Sleeper Cells Could Be Waiting to Move on Trump | Miranda Devine",
+      "Listen to Press Go Quiet as Rubio Reveals Real Reason for Iran Attack",
+      "Resurfaced Clip of Trump Telling Host His Plan for Iran in 1987 Goes Viral"
+    ],
+    "comments_per_video": {
+      "DyoNh1LHvqY": 666,
+      "mnVMuVxOPhU": 8289,
+      "CIjY2gXdVV0": 355,
+      "37eV9l8Q2wg": 2763,
+      "JTkWAk6pp9k": 93,
+      "sCiWzwDneHk": 1219,
+      "bNfrz3gO8KE": 0
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UCLdP3jmBYe9lAZQbY6OSYjw",
+    "token": "usr535178493c",
+    "n_posts": 15392,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCLdP3jmBYe9lAZQbY6OSYjw",
+    "channel_title": "Benny Johnson",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 7,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "IDKalPHPVbE",
+      "JrIWM_i20Q8",
+      "TCUypBAI0Jo",
+      "UaRIruqi2pU",
+      "gw8BN6BiNa4",
+      "n10r50vIYdg",
+      "qbViWMM3vkE"
+    ],
+    "video_titles": [
+      "The US Military Left ONE Item Behind for Iran Forces | The Internet HOWLING 🤣",
+      "CNN Reporter Sneaks into Iran, Then Humiliates Network Forever...",
+      "Iran’s New Ayatollah is Gay | Trump’s Reaction is…",
+      "Trump Just Posted The Most SAVAGE Call of Duty Iran Video🔥",
+      "🚨White House announces WAR with Iran",
+      "🚨Iran Supreme Leader KILLED — !?",
+      "Is Trump About to NUKE Iran? White House Just Said..."
+    ],
+    "comments_per_video": {
+      "JrIWM_i20Q8": 3111,
+      "qbViWMM3vkE": 3084,
+      "IDKalPHPVbE": 889,
+      "UaRIruqi2pU": 2251,
+      "gw8BN6BiNa4": 6057,
+      "TCUypBAI0Jo": 0,
+      "n10r50vIYdg": 0
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UCNNTZgxNQuBrhbO0VrG8woA",
+    "token": "usr800745ef30",
+    "n_posts": 409,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCNNTZgxNQuBrhbO0VrG8woA",
+    "channel_title": "No Jumper",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "WwnBXwIM84g"
+    ],
+    "video_titles": [
+      "Marathon Burger Shooting Leaves One Dead, America Declares War on Iran"
+    ],
+    "comments_per_video": {
+      "WwnBXwIM84g": 409
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UCQANb2YPwAtK-IQJrLaaUFw",
+    "token": "usrb73c023778",
+    "n_posts": 2747,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCQANb2YPwAtK-IQJrLaaUFw",
+    "channel_title": "Brian Tyler Cohen",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "15Mny3IjbMc",
+      "MDKdRCnPWZE",
+      "U1il4q9-AgY"
+    ],
+    "video_titles": [
+      "Trump gets NIGHTMARE news amid Iran war | Another Day",
+      "Trump RIPS reporter for asking simple question about Iran",
+      "Jim Jordan says Trump’s Iran war is “consistent” with his campaign promises"
+    ],
+    "comments_per_video": {
+      "U1il4q9-AgY": 1372,
+      "MDKdRCnPWZE": 591,
+      "15Mny3IjbMc": 784
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UCaYw_yJ_YLPEv6zR2c7hgHA",
+    "token": "usrebfb76065f",
+    "n_posts": 1507,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCaYw_yJ_YLPEv6zR2c7hgHA",
+    "channel_title": "The Officer Tatum",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "6EjykW6rkzM",
+      "QELIBnXCai4",
+      "jEfCVUI4ySM"
+    ],
+    "video_titles": [
+      "LIVE: Joe Kent QUITS On Trump Administration Over Iran War? | EP 273",
+      "\"50,000 Mosques CLOSED in Iran\" Pastor EXPOSES The COLLAPSE of Islamic Regime in Iran",
+      "The View TRIES TO CUT FEED After CAUGHT LYING In Iran Debate!"
+    ],
+    "comments_per_video": {
+      "QELIBnXCai4": 769,
+      "jEfCVUI4ySM": 738,
+      "6EjykW6rkzM": 0
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UCeAACGXB76rAOON6aaY72-Q",
+    "token": "usr1b4a4e67c3",
+    "n_posts": 91,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCeAACGXB76rAOON6aaY72-Q",
+    "channel_title": "Keith Olbermann",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "-hXU0dc7hM0"
+    ],
+    "video_titles": [
+      "TRUMP IS PERSONALLY LOSING HIS WAR IN IRAN New Countdown podcast live: https://tinyurl.com/bdz7hz7c"
+    ],
+    "comments_per_video": {
+      "-hXU0dc7hM0": 91
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UCfaIu2jO-fppCQV_lchCRIQ",
+    "token": "usrbc44b2270f",
+    "n_posts": 737,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCfaIu2jO-fppCQV_lchCRIQ",
+    "channel_title": "Charlie Kirk",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "Hy1CJXwXIRg"
+    ],
+    "video_titles": [
+      "War in Iran"
+    ],
+    "comments_per_video": {
+      "Hy1CJXwXIRg": 737
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UClFSU9_bUb4Rc6OYfTt5SPw",
+    "token": "usrcd56ea7ee2",
+    "n_posts": 8049,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UClFSU9_bUb4Rc6OYfTt5SPw",
+    "channel_title": "Philip DeFranco",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "20f2wTwYLuU",
+      "Da25tC2UaSc",
+      "xFv_HGXwF-w"
+    ],
+    "video_titles": [
+      "Trump's Iran War Has MAGA Turning On Itself & The Middle East Spiraling",
+      "Israel Kills Iran's Intelligence Chief As Utah Lets AI Get People Drugs",
+      "The Trump Oil Prices Situation is Crazy, Iran War Updates, & The ISIS-Inspired Gracie Mansion Attack"
+    ],
+    "comments_per_video": {
+      "Da25tC2UaSc": 4725,
+      "xFv_HGXwF-w": 221,
+      "20f2wTwYLuU": 3103
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UCnQC_G5Xsjhp9fEJKuIcrSw",
+    "token": "usrf7b3ac1163",
+    "n_posts": 1620,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCnQC_G5Xsjhp9fEJKuIcrSw",
+    "channel_title": "Ben Shapiro",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 3,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "1dFxqhfiFis",
+      "ORzMG_p8oms",
+      "Ot-61KuGy_0"
+    ],
+    "video_titles": [
+      "Iran's New Leader Is In A Coma???",
+      "Trump Proposes Peace, Guess What Iran Said?",
+      "The View Says We're The SAME As Iran?"
+    ],
+    "comments_per_video": {
+      "ORzMG_p8oms": 289,
+      "Ot-61KuGy_0": 1195,
+      "1dFxqhfiFis": 136
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UCt6J-LE3g25VPn530Td8Ttw",
+    "token": "usr0aaec75f8f",
+    "n_posts": 62,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCt6J-LE3g25VPn530Td8Ttw",
+    "channel_title": "The Clay Travis & Buck Sexton Show",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 16,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "G0CeXttCilQ",
+      "MpdyNU5R4C4",
+      "SIyby4_t_Lc",
+      "SuPFD7hsmoc",
+      "URRnrohkZt4",
+      "Y1jViKYWbFg",
+      "daic7bs-O3o",
+      "eoI-OpircT0",
+      "j9DpwYv5lXM",
+      "lXLgHvzicHk",
+      "oSHUgd3FFhQ",
+      "qB_7BkovSRI",
+      "qTckuzREljI",
+      "rGmixjW5wzo",
+      "uU0ZYBIAKS0",
+      "vKoR63ro35g"
+    ],
+    "video_titles": [
+      "HYPOCRITE: Schumer Taunted Trump for Chickening Out on Iran Last Year!",
+      "Trump: CIA Says Iran's New Ayatollah Is Gay -- Not That There's Anything Wrong with That!",
+      "No Spontaneous Uprising in Iran? Regime Change and Ayatollah's Role",
+      "Rep. Chip Roy on His AG Runoff, the SAVE America Act and Staying the Course in Iran",
+      "Senator Marsha Blackburn on Iran and Trump Smashing Crime in Memphis",
+      "Iran War Update: Battle for Strait of Hormuz + Is the New Ayatollah Secretly Gay?",
+      "Idea Trump Was “Convinced” on Iran is Ludicrous – He’s Argued It for 40 Years!",
+      "Mullahs, Time's Up!\" Buck Sexton GOES OFF on Iran",
+      "Trump Pummels Iran: Oil Prices EXPLODE – What's the REAL Endgame?",
+      "Horrific: Iran Hangs 19-Year-Old Wrestling Star in Public",
+      "\"Boots on the Ground\" in Iran Doesn't Mean Tens of Thousands of Troops",
+      "Ayatollahs MUST GO! Sen. Tuberville Tells C&B Why Trump Team Needs to Remove Iran Regime",
+      "National Security Insider: U.S. Iran Strike Likely; Cuba Regime \"Very Shaky\"",
+      "Iran With Nukes More Dangerous Than North Korea",
+      "We Got Him! Daring US Rescue Saves Airman Trapped in Iran",
+      "Arming Iranians to Overthrow Regime? Easier Said Than Done"
+    ],
+    "comments_per_video": {
+      "URRnrohkZt4": 0,
+      "eoI-OpircT0": 9,
+      "vKoR63ro35g": 1,
+      "daic7bs-O3o": 1,
+      "rGmixjW5wzo": 2,
+      "j9DpwYv5lXM": 9,
+      "oSHUgd3FFhQ": 8,
+      "Y1jViKYWbFg": 4,
+      "MpdyNU5R4C4": 14,
+      "SuPFD7hsmoc": 9,
+      "G0CeXttCilQ": 1,
+      "qB_7BkovSRI": 3,
+      "uU0ZYBIAKS0": 1,
+      "lXLgHvzicHk": 0,
+      "SIyby4_t_Lc": 0,
+      "qTckuzREljI": 0
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UCtoaZpBnrd0lhycxYJ4MNOQ",
+    "token": "usr7480ce04db",
+    "n_posts": 3625,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCtoaZpBnrd0lhycxYJ4MNOQ",
+    "channel_title": "HasanAbi",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 4,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "A2HKZUN_XjY",
+      "N1mzqSFRwjo",
+      "f5wEilEZlQ8",
+      "lzqBPihzMOc"
+    ],
+    "video_titles": [
+      "TRUMP CONSIDERS DEPLOYING TROOPS TO IRAN",
+      "Day 1 of the Iran War",
+      "Jake Paul thinks we’re bombing Iran to be woke",
+      "“Iran” might attack California"
+    ],
+    "comments_per_video": {
+      "A2HKZUN_XjY": 1300,
+      "lzqBPihzMOc": 574,
+      "N1mzqSFRwjo": 1240,
+      "f5wEilEZlQ8": 511
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UCvixJtaXuNdMPUGdOPcY8Ag",
+    "token": "usra29e76ccda",
+    "n_posts": 2318,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCvixJtaXuNdMPUGdOPcY8Ag",
+    "channel_title": "David Pakman Show",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 5,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "PEul5Hz2or0",
+      "PuqewO-eyTk",
+      "_Mgu3EKDfTI",
+      "dcxzI5cADJg",
+      "sMufiiHm5SQ"
+    ],
+    "video_titles": [
+      "THEY ARE COMPLETELY IGNORING CONGRESS, \"we will take all the time we need [in Iran]\" #shorts",
+      "Trump suddenly realizes Iran could get worse #shorts",
+      "Trump asked how Iran war ends, says “more of the same” #shorts",
+      "Trump says Iran gave a “present,\" contradicts himself on Iran negotiations #shorts",
+      "Karoline Leavitt struggles defending Trump Iran missile claim #shorts"
+    ],
+    "comments_per_video": {
+      "_Mgu3EKDfTI": 163,
+      "PuqewO-eyTk": 1430,
+      "dcxzI5cADJg": 126,
+      "sMufiiHm5SQ": 599,
+      "PEul5Hz2or0": 0
+    }
+  },
+  {
+    "user_id": "iran_videos_with_all_comments_sample100::UCx_2Vso6Qz76n-w5KV8DZcA",
+    "token": "usr94d72791ce",
+    "n_posts": 488,
+    "label_majority": "influencer",
+    "targets": "",
+    "channel_id": "UCx_2Vso6Qz76n-w5KV8DZcA",
+    "channel_title": "Allie Beth Stuckey",
+    "group_label": "iran_videos_with_all_comments_sample100",
+    "corpus": "iran",
+    "source_kind": "influencer",
+    "n_videos": 1,
+    "dataset_paths": [
+      "data/raw/iran_videos_with_all_comments_sample100.json"
+    ],
+    "dataset_names": [
+      "iran_videos_with_all_comments_sample100"
+    ],
+    "video_ids": [
+      "NOQvlwqs-Sg"
+    ],
+    "video_titles": [
+      "Prophecy Fulfilled? Iran Strikes & the End Times | Ep 1312"
+    ],
+    "comments_per_video": {
+      "NOQvlwqs-Sg": 488
+    }
+  }
+]

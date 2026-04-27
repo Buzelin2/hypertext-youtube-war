@@ -1,0 +1,41 @@
+{
+  "datasets": [
+    {
+      "path": "../../data/raw/afgh_channels_with_all_comments_sample100.json",
+      "group_label": "afghanistan_influencers",
+      "corpus": "afghanistan",
+      "source_kind": "influencer"
+    },
+    {
+      "path": "../../data/raw/afgh_news_with_all_comments_sample100.json",
+      "group_label": "afghanistan_news",
+      "corpus": "afghanistan",
+      "source_kind": "news"
+    }
+  ],
+  "out_dir": "../../outputs/afghanistan/polar_youtube_run",
+  "base_model": "bert-base-uncased",
+  "usr_prefix": "usr",
+  "max_len": 128,
+  "epochs": 4,
+  "batch_size": 128,
+  "users_per_batch": 64,
+  "lr": 5e-5,
+  "mlm_prob": 0.15,
+  "p_user_mask": 0.30,
+  "seed": 42,
+  "min_posts_per_user": 20,
+  "per_user_cap": 500,
+  "freeze_epochs": 1,
+  "max_comments_per_user": null,
+  "align_use_hidden": false,
+  "align_lambda": 0.2,
+  "con_weight": 0.0,
+  "con_temperature": 0.07,
+  "soft_prompt_len": 0,
+  "include_top_level_comments": true,
+  "include_replies": true,
+  "min_comment_chars": 3,
+  "deduplicate_within_user": false,
+  "merge_same_channel_across_datasets": false
+}

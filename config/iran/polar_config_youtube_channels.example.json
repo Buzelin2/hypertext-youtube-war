@@ -1,0 +1,11 @@
+{
+  "out_dir": "../../outputs/iran/polar_youtube_run",
+  "attributes_path": "../../resources/attributes/attributes_war_youtube.example.json",
+  "usr_prefix_fallback": "usr",
+  "min_posts_default": 20,
+  "alpha_bh": 0.05,
+  "mc_samples": 2000,
+  "seed": 123,
+  "print_every": 100,
+  "save_csv": true
+}

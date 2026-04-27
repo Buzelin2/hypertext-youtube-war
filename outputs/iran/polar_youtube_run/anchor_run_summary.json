@@ -1,0 +1,19 @@
+{
+  "out_dir": "./outputs/iran/polar_youtube_run",
+  "model_dir": "./outputs/iran/polar_youtube_run/model",
+  "anchors_path": "./resources/anchors/anchors_war_youtube.example.json",
+  "n_users_requested": 37,
+  "n_users_scored": 37,
+  "n_anchors_requested": 10,
+  "n_anchors_scored": 10,
+  "n_missing_user_tokens": 0,
+  "missing_user_tokens": [],
+  "seed": 123,
+  "files": {
+    "per_user_anchor_scores_json": "./outputs/iran/polar_youtube_run/per_user_anchor_scores.json",
+    "per_user_anchor_scores_wide_json": "./outputs/iran/polar_youtube_run/per_user_anchor_scores_wide.json",
+    "anchor_summaries_json": "./outputs/iran/polar_youtube_run/anchor_summaries.json",
+    "anchor_diagnostics_json": "./outputs/iran/polar_youtube_run/anchor_diagnostics.json",
+    "per_user_anchor_scores_csv": "./outputs/iran/polar_youtube_run/per_user_anchor_scores.csv"
+  }
+}

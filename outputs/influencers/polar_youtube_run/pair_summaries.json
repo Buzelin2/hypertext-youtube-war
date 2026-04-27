@@ -1,0 +1,56 @@
+[
+  {
+    "pair": "escalation_vs_restraint",
+    "n_users": 18,
+    "n_significant": 0,
+    "mean_s": -0.829918622970581,
+    "std_s": 0.0009332509343543823,
+    "min_s": -0.831622838973999,
+    "max_s": -0.8283282518386841
+  },
+  {
+    "pair": "us_alignment_vs_anti_us",
+    "n_users": 18,
+    "n_significant": 0,
+    "mean_s": -0.2806774030129115,
+    "std_s": 0.0007995479964772119,
+    "min_s": -0.2826754152774811,
+    "max_s": -0.27930548787117004
+  },
+  {
+    "pair": "civilian_humanitarian_vs_military_geopolitics",
+    "n_users": 18,
+    "n_significant": 0,
+    "mean_s": -0.3885609557231267,
+    "std_s": 0.001606160344397337,
+    "min_s": -0.39171263575553894,
+    "max_s": -0.38520246744155884
+  },
+  {
+    "pair": "alarmist_vs_analytic",
+    "n_users": 18,
+    "n_significant": 18,
+    "mean_s": 1.1742232309447393,
+    "std_s": 0.0020944624088973848,
+    "min_s": 1.1692596673965454,
+    "max_s": 1.1771029233932495
+  },
+  {
+    "pair": "certainty_vs_hedge",
+    "n_users": 18,
+    "n_significant": 0,
+    "mean_s": 0.6845219135284424,
+    "std_s": 0.0013490833304007457,
+    "min_s": 0.6821944713592529,
+    "max_s": 0.687698483467102
+  },
+  {
+    "pair": "propaganda_vs_verification",
+    "n_users": 18,
+    "n_significant": 0,
+    "mean_s": 0.13729140741957557,
+    "std_s": 0.001225863449005322,
+    "min_s": 0.1339918076992035,
+    "max_s": 0.1399022340774536
+  }
+]

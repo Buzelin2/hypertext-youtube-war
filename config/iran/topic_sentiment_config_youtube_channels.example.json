@@ -1,0 +1,12 @@
+{
+  "out_dir": "../../outputs/iran/polar_youtube_run",
+  "topics_path": "../../resources/topics/topics_war_youtube.example.json",
+  "attributes_path": "../../resources/attributes/sentiment_words.example.json",
+  "attribute_pair": "sentiment",
+  "phrase_templates": ["{attr} {term}", "{term} is {attr}"],
+  "usr_prefix_fallback": "usr",
+  "min_posts_default": 20,
+  "seed": 123,
+  "print_every": 100,
+  "save_csv": true
+}

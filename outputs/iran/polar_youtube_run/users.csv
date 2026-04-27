@@ -1,0 +1,38 @@
+user_id,token,n_posts,label_majority,targets,channel_id,channel_title,group_label,corpus,source_kind,n_videos
+iran_influencers::UC-3jIAlnQmbbVMV6gR7K8aQ,usr42aac4e1b1,5638,influencer,,UC-3jIAlnQmbbVMV6gR7K8aQ,The Majority Report w/ Sam Seder,iran_influencers,iran,influencer,13
+iran_influencers::UC1yBKRuGpC1tSM73A0ZjYjQ,usr060714414c,21922,influencer,,UC1yBKRuGpC1tSM73A0ZjYjQ,The Young Turks,iran_influencers,iran,influencer,18
+iran_influencers::UCCRNUa9EwvRXMYwUmDi3JtA,usr4e35eccfe8,100,influencer,,UCCRNUa9EwvRXMYwUmDi3JtA,Chad Prather,iran_influencers,iran,influencer,1
+iran_influencers::UCD8YGIxFCnVqv-ZGqgtVWAg,usrd7759e861d,7609,influencer,,UCD8YGIxFCnVqv-ZGqgtVWAg,Erick Stakelbeck on TBN,iran_influencers,iran,influencer,8
+iran_influencers::UCG749Dj4V2fKa143f8sE60Q,usr2cdb2033f8,1807,influencer,,UCG749Dj4V2fKa143f8sE60Q,Tim Pool,iran_influencers,iran,influencer,1
+iran_influencers::UCJdKr0Bgd_5saZYqLCa9mng,usr24255cb067,13385,influencer,,UCJdKr0Bgd_5saZYqLCa9mng,The Rubin Report,iran_influencers,iran,influencer,7
+iran_influencers::UCLdP3jmBYe9lAZQbY6OSYjw,usr296f1aa6b2,15392,influencer,,UCLdP3jmBYe9lAZQbY6OSYjw,Benny Johnson,iran_influencers,iran,influencer,7
+iran_influencers::UCNNTZgxNQuBrhbO0VrG8woA,usr2a0ab7fe9a,409,influencer,,UCNNTZgxNQuBrhbO0VrG8woA,No Jumper,iran_influencers,iran,influencer,1
+iran_influencers::UCQANb2YPwAtK-IQJrLaaUFw,usre3b02b7ec0,2747,influencer,,UCQANb2YPwAtK-IQJrLaaUFw,Brian Tyler Cohen,iran_influencers,iran,influencer,3
+iran_influencers::UCaYw_yJ_YLPEv6zR2c7hgHA,usrbdc30a5870,1507,influencer,,UCaYw_yJ_YLPEv6zR2c7hgHA,The Officer Tatum,iran_influencers,iran,influencer,3
+iran_influencers::UCeAACGXB76rAOON6aaY72-Q,usr5a26e00edf,91,influencer,,UCeAACGXB76rAOON6aaY72-Q,Keith Olbermann,iran_influencers,iran,influencer,1
+iran_influencers::UCfaIu2jO-fppCQV_lchCRIQ,usrd535b22f7d,737,influencer,,UCfaIu2jO-fppCQV_lchCRIQ,Charlie Kirk,iran_influencers,iran,influencer,1
+iran_influencers::UClFSU9_bUb4Rc6OYfTt5SPw,usr4c161d1011,8049,influencer,,UClFSU9_bUb4Rc6OYfTt5SPw,Philip DeFranco,iran_influencers,iran,influencer,3
+iran_influencers::UCnQC_G5Xsjhp9fEJKuIcrSw,usr70ffec8199,1620,influencer,,UCnQC_G5Xsjhp9fEJKuIcrSw,Ben Shapiro,iran_influencers,iran,influencer,3
+iran_influencers::UCt6J-LE3g25VPn530Td8Ttw,usrdd8faed8ff,62,influencer,,UCt6J-LE3g25VPn530Td8Ttw,The Clay Travis & Buck Sexton Show,iran_influencers,iran,influencer,16
+iran_influencers::UCtoaZpBnrd0lhycxYJ4MNOQ,usr05887bb10f,3625,influencer,,UCtoaZpBnrd0lhycxYJ4MNOQ,HasanAbi,iran_influencers,iran,influencer,4
+iran_influencers::UCvixJtaXuNdMPUGdOPcY8Ag,usr2f05602fe2,2318,influencer,,UCvixJtaXuNdMPUGdOPcY8Ag,David Pakman Show,iran_influencers,iran,influencer,5
+iran_influencers::UCx_2Vso6Qz76n-w5KV8DZcA,usr9ae9ef74e2,488,influencer,,UCx_2Vso6Qz76n-w5KV8DZcA,Allie Beth Stuckey,iran_influencers,iran,influencer,1
+iran_news::UC3ScyryU9Oy9Wse3a8OAmYQ,usrdcd7dde03f,3773,news,,UC3ScyryU9Oy9Wse3a8OAmYQ,FRONTLINE PBS | Official,iran_news,iran,news,1
+iran_news::UC52X5wxOL_s5yw0dQk7NtgA,usr9eab3c7819,2382,news,,UC52X5wxOL_s5yw0dQk7NtgA,Associated Press,iran_news,iran,news,10
+iran_news::UC8p1vwvWtl6T73JiExfWs1g,usr99f76f5cf6,940,news,,UC8p1vwvWtl6T73JiExfWs1g,CBS News,iran_news,iran,news,9
+iran_news::UC9k-yiEpRHMNVOnOi_aQK8w,usrd5a011f81b,77,news,,UC9k-yiEpRHMNVOnOi_aQK8w,Inside Edition,iran_news,iran,news,1
+iran_news::UCBi2mrWuNuyYy4gbM6fU18Q,usr6463673c6a,1734,news,,UCBi2mrWuNuyYy4gbM6fU18Q,ABC News,iran_news,iran,news,4
+iran_news::UCBu0KdNokE4MqdkacvH37_A,usr2e6a75427d,389,news,,UCBu0KdNokE4MqdkacvH37_A,WFAA,iran_news,iran,news,1
+iran_news::UCCXoCcu9Rp7NPbTzIvogpZg,usrb8819257a7,3147,news,,UCCXoCcu9Rp7NPbTzIvogpZg,Fox Business,iran_news,iran,news,8
+iran_news::UCIALMKvObZNtJ6AmdCLP7Lg,usr759ce9f3ae,89,news,,UCIALMKvObZNtJ6AmdCLP7Lg,Bloomberg Television,iran_news,iran,news,2
+iran_news::UCJg9wBPyKMNA5sRDnvzmkdg,usr454cd45dbe,2841,news,,UCJg9wBPyKMNA5sRDnvzmkdg,LiveNOW from FOX,iran_news,iran,news,8
+iran_news::UCK7tptUDHh-RYDsdxO1-5QQ,usr570ff2224d,357,news,,UCK7tptUDHh-RYDsdxO1-5QQ,The Wall Street Journal,iran_news,iran,news,1
+iran_news::UCLXo7UDZvByw2ixzpQCufnA,usr2d3c821dd4,24,news,,UCLXo7UDZvByw2ixzpQCufnA,Vox,iran_news,iran,news,1
+iran_news::UCP6HGa63sBC7-KHtkme-p-g,usr891336997a,136,news,,UCP6HGa63sBC7-KHtkme-p-g,USA TODAY,iran_news,iran,news,6
+iran_news::UCYI_ychRnL7sJrG6PUSBpQA,usr80110ccde0,350,news,,UCYI_ychRnL7sJrG6PUSBpQA,CBN News,iran_news,iran,news,3
+iran_news::UCZaT_X_mc0BI-djXOlfhqWQ,usredfbd1665e,369,news,,UCZaT_X_mc0BI-djXOlfhqWQ,VICE News,iran_news,iran,news,1
+iran_news::UCcyq283he07B7_KUX07mmtA,usrf7310a3ab3,345,news,,UCcyq283he07B7_KUX07mmtA,Business Insider,iran_news,iran,news,1
+iran_news::UCg40OxZ1GYh3u3jBntB6DLg,usr2940437db6,3566,news,,UCg40OxZ1GYh3u3jBntB6DLg,Forbes Breaking News,iran_news,iran,news,24
+iran_news::UCrvhNP_lWuPIP6QZzJmM-bw,usr9c1f8733fc,1718,news,,UCrvhNP_lWuPIP6QZzJmM-bw,New York Post,iran_news,iran,news,1
+iran_news::UCupvZG-5ko_eiXAupbDfxWw,usr855b8075ee,25467,news,,UCupvZG-5ko_eiXAupbDfxWw,CNN,iran_news,iran,news,7
+iran_news::UCzuqE7-t13O4NIDYJfakrhw,usr1de523eeef,1110,news,,UCzuqE7-t13O4NIDYJfakrhw,Democracy Now!,iran_news,iran,news,3

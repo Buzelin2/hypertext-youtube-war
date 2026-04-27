@@ -1,0 +1,12 @@
+{
+  "out_dir": "./outputs/iran/polar_youtube_run",
+  "model_dir": "./outputs/iran/polar_youtube_run/model",
+  "n_users": 37,
+  "n_samples": 136320,
+  "base_model": "bert-base-uncased",
+  "device": "cuda",
+  "epochs": 4,
+  "batch_size": 128,
+  "users_per_batch": 37,
+  "seed": 42
+}

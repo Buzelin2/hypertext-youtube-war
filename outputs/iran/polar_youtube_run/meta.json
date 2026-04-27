@@ -1,0 +1,81 @@
+{
+  "datasets": [
+    {
+      "path": "data/raw/iran_videos_with_all_comments_sample100.json",
+      "group_label": "iran_influencers",
+      "corpus": "iran",
+      "source_kind": "influencer"
+    },
+    {
+      "path": "data/raw/iran_news_with_all_comments_sample100.json",
+      "group_label": "iran_news",
+      "corpus": "iran",
+      "source_kind": "news"
+    }
+  ],
+  "out_dir": "./outputs/iran/polar_youtube_run",
+  "base_model": "bert-base-uncased",
+  "usr_prefix": "usr",
+  "max_len": 128,
+  "epochs": 4,
+  "batch_size": 128,
+  "users_per_batch": 64,
+  "lr": 5e-05,
+  "mlm_prob": 0.15,
+  "p_user_mask": 0.3,
+  "seed": 42,
+  "num_workers": 32,
+  "tokenize_chunk": 4096,
+  "min_posts_per_user": 20,
+  "export_kv": false,
+  "grad_clip": 1.0,
+  "grad_accum_steps": 1,
+  "warmup_ratio": 0.03,
+  "per_user_cap": 500,
+  "freeze_epochs": 1,
+  "max_comments_per_user": null,
+  "align_use_hidden": false,
+  "align_lambda": 0.2,
+  "con_weight": 0.0,
+  "con_temperature": 0.07,
+  "soft_prompt_len": 0,
+  "include_top_level_comments": true,
+  "include_replies": true,
+  "min_comment_chars": 3,
+  "deduplicate_within_user": false,
+  "merge_same_channel_across_datasets": false,
+  "n_users": 37,
+  "n_texts": 136320,
+  "loader_summary": {
+    "datasets": [
+      {
+        "group_label": "iran_influencers",
+        "corpus": "iran",
+        "source_kind": "influencer",
+        "dataset_path": "data/raw/iran_videos_with_all_comments_sample100.json",
+        "dataset_name": "iran_videos_with_all_comments_sample100",
+        "n_videos": 100,
+        "raw_comments": 87988,
+        "kept_comments": 87506,
+        "n_channels_before_filter": 22,
+        "n_channels_after_filter": 18
+      },
+      {
+        "group_label": "iran_news",
+        "corpus": "iran",
+        "source_kind": "news",
+        "dataset_path": "data/raw/iran_news_with_all_comments_sample100.json",
+        "dataset_name": "iran_news_with_all_comments_sample100",
+        "n_videos": 100,
+        "raw_comments": 49083,
+        "kept_comments": 48826,
+        "n_channels_before_filter": 23,
+        "n_channels_after_filter": 19
+      }
+    ],
+    "total_raw_comments": 137071,
+    "total_kept_comments": 136332,
+    "n_users_after_filter": 37,
+    "n_samples_after_filter": 136320
+  }
+}
