@@ -34,6 +34,8 @@ replies.
 
 - `collection/Channel_Data_collection.py` collects channel upload metadata from
   the YouTube Data API v3.
+- `collection/countries.py` filters collected channel/video JSON by a title
+  keyword and month window.
 - `polar_analysis/` contains the channel embedding and semantic association
   pipeline.
 - `polar_analysis/scripts/trainer_youtube_channels_polar.py` trains
@@ -92,6 +94,11 @@ python collection/Channel_Data_collection.py
 
 The collector writes incrementally, so partial results are preserved if a
 request fails or a long collection job is interrupted.
+
+After collection, `collection/countries.py` can be used to create a smaller
+video set for a conflict keyword and date window. Edit `INPUT_JSON`,
+`OUTPUT_JSON`, `KEYWORD`, and `VALID_MONTH_PREFIXES` in that script before
+running it.
 
 ## Training Channel Embeddings
 
