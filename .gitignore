@@ -6,14 +6,14 @@ __pycache__/
 
 # Local data and generated artifacts
 data/raw/
-outputs/**/model/model.safetensors
-outputs/**/model/pytorch_model.bin
-outputs/**/model/*.bin
-outputs/**/model/*.safetensors
+polar_analysis/outputs/**/model/model.safetensors
+polar_analysis/outputs/**/model/pytorch_model.bin
+polar_analysis/outputs/**/model/*.bin
+polar_analysis/outputs/**/model/*.safetensors
 
-# Generated figures can be recreated with scripts/plot_embedding_map.py.
-notebooks/images/*.pdf
-!notebooks/images/.gitkeep
+# Generated figures can be recreated with polar_analysis/scripts/plot_embedding_map.py.
+polar_analysis/notebooks/images/*.pdf
+!polar_analysis/notebooks/images/.gitkeep
 
 # OS/editor files
 .DS_Store

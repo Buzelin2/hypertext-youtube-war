@@ -13,7 +13,7 @@
       "source_kind": "news"
     }
   ],
-  "out_dir": "../../outputs/iran/polar_youtube_run",
+  "out_dir": "../outputs/iran/polar_youtube_run",
   "base_model": "bert-base-uncased",
   "usr_prefix": "usr",
   "max_len": 128,

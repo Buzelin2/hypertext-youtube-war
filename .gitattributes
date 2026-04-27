@@ -1,2 +1,2 @@
 *.pdf binary
-outputs/**/model/tokenizer.json linguist-generated=true
+polar_analysis/outputs/**/model/tokenizer.json linguist-generated=true

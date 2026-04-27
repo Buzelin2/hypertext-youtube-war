@@ -1,19 +1,19 @@
 {
   "datasets": [
     {
-      "path": "../data/raw/iran_videos_with_all_comments_sample100.json",
-      "group_label": "iran_influencers",
-      "corpus": "iran",
+      "path": "../../../data/raw/afgh_channels_with_all_comments_sample100.json",
+      "group_label": "afghanistan_influencers",
+      "corpus": "afghanistan",
       "source_kind": "influencer"
     },
     {
-      "path": "../data/raw/iran_news_with_all_comments_sample100.json",
-      "group_label": "iran_news",
-      "corpus": "iran",
+      "path": "../../../data/raw/afgh_news_with_all_comments_sample100.json",
+      "group_label": "afghanistan_news",
+      "corpus": "afghanistan",
       "source_kind": "news"
     }
   ],
-  "out_dir": "../outputs/iran/polar_youtube_run",
+  "out_dir": "../../outputs/afghanistan/polar_youtube_run",
   "base_model": "bert-base-uncased",
   "usr_prefix": "usr",
   "max_len": 128,
